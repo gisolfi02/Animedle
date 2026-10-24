@@ -1,0 +1,180 @@
+﻿id,name,gender,hair,origin,race,episode,saga,series,image_url,review_flags
+1,Goku,Maschio,Nero,Universo 7,Saiyan,1,Ricerca delle Sfere del Drago,Dragon Ball,https://dragonball-api.com/characters/goku_normal.webp,revisione_editoriale_consigliata
+2,Bulma,Femmina,Azzurro,Universo 7,Umano,1,Ricerca delle Sfere del Drago,Dragon Ball,,revisione_editoriale_consigliata
+3,Oolong,Maschio,Calvo,Universo 7,Animale,4,Ricerca delle Sfere del Drago,Dragon Ball,,revisione_editoriale_consigliata
+4,Yamcha,Maschio,Nero,Universo 7,Umano,5,Ricerca delle Sfere del Drago,Dragon Ball,,revisione_editoriale_consigliata
+5,Puar,Maschio,Azzurro,Universo 7,Animale,5,Ricerca delle Sfere del Drago,Dragon Ball,,revisione_editoriale_consigliata
+6,Maestro Muten,Maschio,Calvo,Universo 7,Umano,3,Ricerca delle Sfere del Drago,Dragon Ball,,revisione_editoriale_consigliata
+7,Crilin,Maschio,Calvo,Universo 7,Umano,14,21° Torneo Tenkaichi,Dragon Ball,,revisione_editoriale_consigliata
+8,Chichi,Femmina,Nero,Universo 7,Umano,7,Ricerca delle Sfere del Drago,Dragon Ball,,revisione_editoriale_consigliata
+9,Stregone del Toro,Maschio,Nero,Universo 7,Umano,7,Ricerca delle Sfere del Drago,Dragon Ball,,revisione_editoriale_consigliata
+10,Pilaf,Maschio,Nero,Universo 7,Sconosciuta,1,Ricerca delle Sfere del Drago,Dragon Ball,,razza_da_verificare; revisione_editoriale_consigliata
+11,Shu,Maschio,Nessuno,Universo 7,Animale,,Ricerca delle Sfere del Drago,Dragon Ball,,episodio_da_verificare; revisione_editoriale_consigliata
+12,Mai,Femmina,Nero,Universo 7,Umano,,Ricerca delle Sfere del Drago,Dragon Ball,,episodio_da_verificare; revisione_editoriale_consigliata
+13,Lunch,Femmina,Biondo,Universo 7,Umano,,21° Torneo Tenkaichi,Dragon Ball,,episodio_da_verificare; revisione_editoriale_consigliata
+14,Nonno Gohan,Maschio,Calvo,Universo 7,Umano,,21° Torneo Tenkaichi,Dragon Ball,,episodio_da_verificare; revisione_editoriale_consigliata
+15,Nam,Maschio,Nero,Universo 7,Umano,,21° Torneo Tenkaichi,Dragon Ball,,episodio_da_verificare; revisione_editoriale_consigliata
+16,Giran,Maschio,Nessuno,Universo 7,Animale,,21° Torneo Tenkaichi,Dragon Ball,,episodio_da_verificare; revisione_editoriale_consigliata
+17,Bacterian,Maschio,Nero,Universo 7,Umano,,21° Torneo Tenkaichi,Dragon Ball,,episodio_da_verificare; revisione_editoriale_consigliata
+18,Tenshinhan,Maschio,Calvo,Universo 7,Umano,,22° Torneo Tenkaichi,Dragon Ball,,episodio_da_verificare; revisione_editoriale_consigliata
+19,Jiaozi,Maschio,Calvo,Universo 7,Umano,,22° Torneo Tenkaichi,Dragon Ball,,episodio_da_verificare; revisione_editoriale_consigliata
+20,Yajirobei,Maschio,Nero,Universo 7,Umano,,Saga del Grande Mago Piccolo,Dragon Ball,,episodio_da_verificare; revisione_editoriale_consigliata
+21,Maestro Shen,Maschio,Nero,Universo 7,Umano,,22° Torneo Tenkaichi,Dragon Ball,,episodio_da_verificare; revisione_editoriale_consigliata
+22,Tao Pai Pai,Maschio,Nero,Universo 7,Umano,,Red Ribbon,Dragon Ball,,episodio_da_verificare; revisione_editoriale_consigliata
+23,Bora,Maschio,Nero,Universo 7,Umano,,Red Ribbon,Dragon Ball,,episodio_da_verificare; revisione_editoriale_consigliata
+24,Upa,Maschio,Nero,Universo 7,Umano,,Red Ribbon,Dragon Ball,,episodio_da_verificare; revisione_editoriale_consigliata
+25,Karin,Maschio,Bianco,Universo 7,Animale,,Red Ribbon,Dragon Ball,,episodio_da_verificare; revisione_editoriale_consigliata
+26,Baba Uranai,Femmina,Bianco,Universo 7,Umano,,Red Ribbon,Dragon Ball,,episodio_da_verificare; revisione_editoriale_consigliata
+27,Generale Blue,Maschio,Biondo,Universo 7,Umano,,Red Ribbon,Dragon Ball,,episodio_da_verificare; revisione_editoriale_consigliata
+28,Comandante Red,Maschio,Rosso,Universo 7,Umano,,Red Ribbon,Dragon Ball,,episodio_da_verificare; revisione_editoriale_consigliata
+29,Assistente Black,Maschio,Nero,Universo 7,Umano,,Red Ribbon,Dragon Ball,,episodio_da_verificare; revisione_editoriale_consigliata
+30,Androide 8,Maschio,Nero,Universo 7,Androide,,Red Ribbon,Dragon Ball,,episodio_da_verificare; revisione_editoriale_consigliata
+31,Sergente Metallic,Maschio,Nero,Universo 7,Androide,,Red Ribbon,Dragon Ball,,episodio_da_verificare; revisione_editoriale_consigliata
+32,Grande Mago Piccolo,Maschio,Calvo,Universo 7,Namecciano,,Saga del Grande Mago Piccolo,Dragon Ball,,episodio_da_verificare; revisione_editoriale_consigliata
+33,Tamburello,Maschio,Calvo,Universo 7,Namecciano,,Saga del Grande Mago Piccolo,Dragon Ball,,episodio_da_verificare; revisione_editoriale_consigliata
+34,Cembalo,Maschio,Calvo,Universo 7,Namecciano,,Saga del Grande Mago Piccolo,Dragon Ball,,episodio_da_verificare; revisione_editoriale_consigliata
+35,Tamburo,Maschio,Calvo,Universo 7,Namecciano,,Saga del Grande Mago Piccolo,Dragon Ball,,episodio_da_verificare; revisione_editoriale_consigliata
+36,Piccolo,Maschio,Calvo,Universo 7,Namecciano,,23° Torneo Tenkaichi,Dragon Ball,https://dragonball-api.com/characters/picolo_normal.webp,episodio_da_verificare; revisione_editoriale_consigliata
+37,Dio della Terra,Maschio,Calvo,Universo 7,Namecciano,,23° Torneo Tenkaichi,Dragon Ball,,episodio_da_verificare; revisione_editoriale_consigliata
+38,Mr. Popo,Maschio,Calvo,Universo 7,Sconosciuta,,23° Torneo Tenkaichi,Dragon Ball,,episodio_da_verificare; razza_da_verificare; revisione_editoriale_consigliata
+39,Arale Norimaki,Femmina,Viola,Universo 7,Androide,,Red Ribbon,Dragon Ball,,episodio_da_verificare; revisione_editoriale_consigliata
+40,Re Chappa,Maschio,Nero,Universo 7,Umano,,22° Torneo Tenkaichi,Dragon Ball,,episodio_da_verificare; revisione_editoriale_consigliata
+41,Gohan,Maschio,Nero,Universo 7,Saiyan ibrido,1,Saiyan,Dragon Ball Z,https://dragonball-api.com/characters/gohan.webp,revisione_editoriale_consigliata
+42,Radish,Maschio,Nero,Universo 7,Saiyan,1,Saiyan,Dragon Ball Z,,revisione_editoriale_consigliata
+43,Vegeta,Maschio,Nero,Universo 7,Saiyan,,Saiyan,Dragon Ball Z,https://dragonball-api.com/characters/vegeta_normal.webp,episodio_da_verificare; revisione_editoriale_consigliata
+44,Nappa,Maschio,Calvo,Universo 7,Saiyan,,Saiyan,Dragon Ball Z,,episodio_da_verificare; revisione_editoriale_consigliata
+45,Saibaiman,Altro / senza genere,Nessuno,Universo 7,Creatura artificiale,,Saiyan,Dragon Ball Z,,episodio_da_verificare; revisione_editoriale_consigliata
+46,Re Kaio del Nord,Maschio,Calvo,Universo 7,Divinità,,Saiyan,Dragon Ball Z,,episodio_da_verificare; revisione_editoriale_consigliata
+47,Bubbles,Maschio,Nessuno,Universo 7,Animale,,Saiyan,Dragon Ball Z,,episodio_da_verificare; revisione_editoriale_consigliata
+48,Gregory,Maschio,Nessuno,Universo 7,Animale,,Saiyan,Dragon Ball Z,,episodio_da_verificare; revisione_editoriale_consigliata
+49,Dodoria,Maschio,Calvo,Universo 7,Sconosciuta,,Freezer,Dragon Ball Z,,episodio_da_verificare; razza_da_verificare; revisione_editoriale_consigliata
+50,Zarbon,Maschio,Verde,Universo 7,Sconosciuta,,Freezer,Dragon Ball Z,,episodio_da_verificare; razza_da_verificare; revisione_editoriale_consigliata
+51,Cui,Maschio,Calvo,Universo 7,Sconosciuta,,Freezer,Dragon Ball Z,,episodio_da_verificare; razza_da_verificare; revisione_editoriale_consigliata
+52,Guldo,Maschio,Calvo,Universo 7,Sconosciuta,,Freezer,Dragon Ball Z,,episodio_da_verificare; razza_da_verificare; revisione_editoriale_consigliata
+53,Recoome,Maschio,Arancione,Universo 7,Sconosciuta,,Freezer,Dragon Ball Z,,episodio_da_verificare; razza_da_verificare; revisione_editoriale_consigliata
+54,Jeice,Maschio,Bianco,Universo 7,Sconosciuta,,Freezer,Dragon Ball Z,,episodio_da_verificare; razza_da_verificare; revisione_editoriale_consigliata
+55,Burter,Maschio,Nessuno,Universo 7,Sconosciuta,,Freezer,Dragon Ball Z,,episodio_da_verificare; razza_da_verificare; colore_capelli_da_verificare; revisione_editoriale_consigliata
+56,Capitano Ginew,Maschio,Calvo,Universo 7,Sconosciuta,,Freezer,Dragon Ball Z,,episodio_da_verificare; razza_da_verificare; revisione_editoriale_consigliata
+57,Freezer,Maschio,Calvo,Universo 7,Razza di Freezer,,Freezer,Dragon Ball Z,https://dragonball-api.com/characters/Freezer.webp,episodio_da_verificare; revisione_editoriale_consigliata
+58,Nail,Maschio,Calvo,Universo 7,Namecciano,,Freezer,Dragon Ball Z,,episodio_da_verificare; revisione_editoriale_consigliata
+59,Dende,Maschio,Calvo,Universo 7,Namecciano,,Freezer,Dragon Ball Z,,episodio_da_verificare; revisione_editoriale_consigliata
+60,Grande Anziano,Maschio,Calvo,Universo 7,Namecciano,,Freezer,Dragon Ball Z,,episodio_da_verificare; revisione_editoriale_consigliata
+61,Porunga,Maschio,Nessuno,Universo 7,Drago,,Freezer,Dragon Ball Z,,episodio_da_verificare; revisione_editoriale_consigliata
+62,Trunks del futuro,Maschio,Viola,Universo 7,Saiyan ibrido,,Androidi,Dragon Ball Z,,episodio_da_verificare; revisione_editoriale_consigliata
+63,Androide 19,Maschio,Calvo,Universo 7,Androide,,Androidi,Dragon Ball Z,,episodio_da_verificare; revisione_editoriale_consigliata
+64,Dottor Gelo,Maschio,Bianco,Universo 7,Androide,,Androidi,Dragon Ball Z,,episodio_da_verificare; revisione_editoriale_consigliata
+65,Androide 16,Maschio,Arancione,Universo 7,Androide,,Androidi,Dragon Ball Z,,episodio_da_verificare; revisione_editoriale_consigliata
+66,Androide 17,Maschio,Nero,Universo 7,Androide,,Androidi,Dragon Ball Z,,episodio_da_verificare; revisione_editoriale_consigliata
+67,Androide 18,Femmina,Biondo,Universo 7,Androide,,Androidi,Dragon Ball Z,,episodio_da_verificare; revisione_editoriale_consigliata
+68,Cell,Maschio,Calvo,Universo 7,Bio-androide,,Cell,Dragon Ball Z,,episodio_da_verificare; revisione_editoriale_consigliata
+69,Mr. Satan,Maschio,Nero,Universo 7,Umano,,Cell,Dragon Ball Z,,episodio_da_verificare; revisione_editoriale_consigliata
+70,Cell Junior,Maschio,Calvo,Universo 7,Bio-androide,,Cell,Dragon Ball Z,,episodio_da_verificare; revisione_editoriale_consigliata
+71,Videl,Femmina,Nero,Universo 7,Umano,,Majin Bu,Dragon Ball Z,,episodio_da_verificare; revisione_editoriale_consigliata
+72,Goten,Maschio,Nero,Universo 7,Saiyan ibrido,,Majin Bu,Dragon Ball Z,,episodio_da_verificare; revisione_editoriale_consigliata
+73,Trunks bambino,Maschio,Viola,Universo 7,Saiyan ibrido,,Majin Bu,Dragon Ball Z,,episodio_da_verificare; revisione_editoriale_consigliata
+74,Gotenks,Maschio,Nero,Universo 7,Fusione Saiyan,,Majin Bu,Dragon Ball Z,,episodio_da_verificare; revisione_editoriale_consigliata
+75,Majin Bu,Maschio,Calvo,Universo 7,Majin,,Majin Bu,Dragon Ball Z,,episodio_da_verificare; revisione_editoriale_consigliata
+76,Kid Bu,Maschio,Calvo,Universo 7,Majin,,Majin Bu,Dragon Ball Z,,episodio_da_verificare; revisione_editoriale_consigliata
+77,Babidi,Maschio,Calvo,Universo 7,Sconosciuta,,Majin Bu,Dragon Ball Z,,episodio_da_verificare; razza_da_verificare; revisione_editoriale_consigliata
+78,Darbula,Maschio,Nero,Universo 7,Demone,,Majin Bu,Dragon Ball Z,,episodio_da_verificare; revisione_editoriale_consigliata
+79,Kaioshin dell'Est,Maschio,Bianco,Universo 7,Divinità,,Majin Bu,Dragon Ball Z,,episodio_da_verificare; revisione_editoriale_consigliata
+80,Kibith,Maschio,Bianco,Universo 7,Divinità,,Majin Bu,Dragon Ball Z,,episodio_da_verificare; revisione_editoriale_consigliata
+81,Kaioshin il Sommo,Maschio,Bianco,Universo 7,Divinità,,Majin Bu,Dragon Ball Z,,episodio_da_verificare; revisione_editoriale_consigliata
+82,Spopovich,Maschio,Calvo,Universo 7,Umano,,Majin Bu,Dragon Ball Z,,episodio_da_verificare; revisione_editoriale_consigliata
+83,Yamu,Maschio,Calvo,Universo 7,Umano,,Majin Bu,Dragon Ball Z,,episodio_da_verificare; revisione_editoriale_consigliata
+84,Pui Pui,Maschio,Calvo,Universo 7,Sconosciuta,,Majin Bu,Dragon Ball Z,,episodio_da_verificare; razza_da_verificare; revisione_editoriale_consigliata
+85,Yakon,Maschio,Nessuno,Universo 7,Sconosciuta,,Majin Bu,Dragon Ball Z,,episodio_da_verificare; razza_da_verificare; colore_capelli_da_verificare; revisione_editoriale_consigliata
+86,Pan,Femmina,Nero,Universo 7,Saiyan ibrido,,Fine di Z,Dragon Ball Z,,episodio_da_verificare; revisione_editoriale_consigliata
+87,Ub,Maschio,Nero,Universo 7,Umano,,Fine di Z,Dragon Ball Z,,episodio_da_verificare; revisione_editoriale_consigliata
+88,Giru,Maschio,Nessuno,Universo 7,Robot,,Sfere del Drago dalle stelle nere,Dragon Ball GT,,episodio_da_verificare; revisione_editoriale_consigliata
+89,Ledgic,Maschio,Bianco,Universo 7,Sconosciuta,,Sfere del Drago dalle stelle nere,Dragon Ball GT,,episodio_da_verificare; razza_da_verificare; revisione_editoriale_consigliata
+90,Bon Para,Maschio,Calvo,Universo 7,Sconosciuta,,Sfere del Drago dalle stelle nere,Dragon Ball GT,,episodio_da_verificare; razza_da_verificare; revisione_editoriale_consigliata
+91,Don Para,Maschio,Calvo,Universo 7,Sconosciuta,,Sfere del Drago dalle stelle nere,Dragon Ball GT,,episodio_da_verificare; razza_da_verificare; revisione_editoriale_consigliata
+92,Son Para,Maschio,Calvo,Universo 7,Sconosciuta,,Sfere del Drago dalle stelle nere,Dragon Ball GT,,episodio_da_verificare; razza_da_verificare; revisione_editoriale_consigliata
+93,Zoonama,Maschio,Nessuno,Universo 7,Sconosciuta,,Sfere del Drago dalle stelle nere,Dragon Ball GT,,episodio_da_verificare; razza_da_verificare; colore_capelli_da_verificare; revisione_editoriale_consigliata
+94,Dolltaki,Maschio,Nero,Universo 7,Sconosciuta,,Sfere del Drago dalle stelle nere,Dragon Ball GT,,episodio_da_verificare; razza_da_verificare; revisione_editoriale_consigliata
+95,Luud,Altro / senza genere,Nessuno,Universo 7,Robot,,Sfere del Drago dalle stelle nere,Dragon Ball GT,,episodio_da_verificare; revisione_editoriale_consigliata
+96,Generale Rilldo,Maschio,Calvo,Universo 7,Mutante meccanico,,Baby,Dragon Ball GT,,episodio_da_verificare; revisione_editoriale_consigliata
+97,Dottor Myuu,Maschio,Bianco,Universo 7,Scienziato mutante,,Baby,Dragon Ball GT,,episodio_da_verificare; revisione_editoriale_consigliata
+98,Baby,Maschio,Bianco,Universo 7,Tsufuru,,Baby,Dragon Ball GT,,episodio_da_verificare; revisione_editoriale_consigliata
+99,Super Androide 17,Maschio,Nero,Universo 7,Androide,,Super 17,Dragon Ball GT,,episodio_da_verificare; revisione_editoriale_consigliata
+100,Li Shenron,Maschio,Nessuno,Universo 7,Drago malvagio,,Draghi malvagi,Dragon Ball GT,,episodio_da_verificare; revisione_editoriale_consigliata
+101,Nuova Shenron,Maschio,Nessuno,Universo 7,Drago malvagio,,Draghi malvagi,Dragon Ball GT,,episodio_da_verificare; revisione_editoriale_consigliata
+102,Eis Shenron,Maschio,Nessuno,Universo 7,Drago malvagio,,Draghi malvagi,Dragon Ball GT,,episodio_da_verificare; revisione_editoriale_consigliata
+103,Oceanus Shenron,Femmina,Blu,Universo 7,Drago malvagio,,Draghi malvagi,Dragon Ball GT,,episodio_da_verificare; revisione_editoriale_consigliata
+104,Haze Shenron,Maschio,Nessuno,Universo 7,Drago malvagio,,Draghi malvagi,Dragon Ball GT,,episodio_da_verificare; revisione_editoriale_consigliata
+105,Rage Shenron,Maschio,Nessuno,Universo 7,Drago malvagio,,Draghi malvagi,Dragon Ball GT,,episodio_da_verificare; revisione_editoriale_consigliata
+106,Naturon Shenron,Maschio,Nessuno,Universo 7,Drago malvagio,,Draghi malvagi,Dragon Ball GT,,episodio_da_verificare; revisione_editoriale_consigliata
+107,Champa,Maschio,Nessuno,Universo 6,Divinità,,Universo 6,Dragon Ball Super,,episodio_da_verificare; revisione_editoriale_consigliata
+108,Vados,Femmina,Bianco,Universo 6,Angelo,,Universo 6,Dragon Ball Super,,episodio_da_verificare; revisione_editoriale_consigliata
+109,Hit,Maschio,Calvo,Universo 6,Sconosciuta,,Universo 6,Dragon Ball Super,,episodio_da_verificare; razza_da_verificare; revisione_editoriale_consigliata
+110,Cabba,Maschio,Nero,Universo 6,Saiyan,,Universo 6,Dragon Ball Super,,episodio_da_verificare; revisione_editoriale_consigliata
+111,Frost,Maschio,Calvo,Universo 6,Razza di Freezer,,Universo 6,Dragon Ball Super,,episodio_da_verificare; revisione_editoriale_consigliata
+112,Botamo,Maschio,Nessuno,Universo 6,Sconosciuta,,Universo 6,Dragon Ball Super,,episodio_da_verificare; razza_da_verificare; colore_capelli_da_verificare; revisione_editoriale_consigliata
+113,Magetta,Altro / senza genere,Nessuno,Universo 6,Metalman,,Universo 6,Dragon Ball Super,,episodio_da_verificare; revisione_editoriale_consigliata
+114,Monaka,Maschio,Nessuno,Universo 7,Sconosciuta,,Universo 6,Dragon Ball Super,,episodio_da_verificare; razza_da_verificare; colore_capelli_da_verificare; revisione_editoriale_consigliata
+115,Zeno,Maschio,Nessuno,Sconosciuto,Divinità,,Universo 6,Dragon Ball Super,,episodio_da_verificare; universo_da_verificare; revisione_editoriale_consigliata
+116,Gran Sacerdote,Maschio,Bianco,Sconosciuto,Angelo,,Sopravvivenza degli universi,Dragon Ball Super,,episodio_da_verificare; universo_da_verificare; revisione_editoriale_consigliata
+117,Goku Black,Maschio,Nero,Universo 10,Divinità,,Trunks del futuro,Dragon Ball Super,,episodio_da_verificare; revisione_editoriale_consigliata
+118,Zamasu,Maschio,Bianco,Universo 10,Divinità,,Trunks del futuro,Dragon Ball Super,,episodio_da_verificare; revisione_editoriale_consigliata
+119,Gowasu,Maschio,Bianco,Universo 10,Divinità,,Trunks del futuro,Dragon Ball Super,,episodio_da_verificare; revisione_editoriale_consigliata
+120,Jiren,Maschio,Calvo,Universo 11,Sconosciuta,85,Sopravvivenza degli universi,Dragon Ball Super,,razza_da_verificare; revisione_editoriale_consigliata
+121,Toppo,Maschio,Calvo,Universo 11,Sconosciuta,,Sopravvivenza degli universi,Dragon Ball Super,,episodio_da_verificare; razza_da_verificare; revisione_editoriale_consigliata
+122,Dyspo,Maschio,Nessuno,Universo 11,Sconosciuta,,Sopravvivenza degli universi,Dragon Ball Super,,episodio_da_verificare; razza_da_verificare; colore_capelli_da_verificare; revisione_editoriale_consigliata
+123,Caulifla,Femmina,Nero,Universo 6,Saiyan,,Sopravvivenza degli universi,Dragon Ball Super,,episodio_da_verificare; revisione_editoriale_consigliata
+124,Kale,Femmina,Nero,Universo 6,Saiyan,,Sopravvivenza degli universi,Dragon Ball Super,,episodio_da_verificare; revisione_editoriale_consigliata
+125,Kefla,Femmina,Nero,Universo 6,Fusione Saiyan,,Sopravvivenza degli universi,Dragon Ball Super,,episodio_da_verificare; revisione_editoriale_consigliata
+126,Ribrianne,Femmina,Verde,Universo 2,Sconosciuta,,Sopravvivenza degli universi,Dragon Ball Super,,episodio_da_verificare; razza_da_verificare; revisione_editoriale_consigliata
+127,Bergamo,Maschio,Nessuno,Universo 9,Sconosciuta,,Sopravvivenza degli universi,Dragon Ball Super,,episodio_da_verificare; razza_da_verificare; colore_capelli_da_verificare; revisione_editoriale_consigliata
+128,Basil,Maschio,Nessuno,Universo 9,Sconosciuta,,Sopravvivenza degli universi,Dragon Ball Super,,episodio_da_verificare; razza_da_verificare; colore_capelli_da_verificare; revisione_editoriale_consigliata
+129,Lavender,Maschio,Nessuno,Universo 9,Sconosciuta,,Sopravvivenza degli universi,Dragon Ball Super,,episodio_da_verificare; razza_da_verificare; colore_capelli_da_verificare; revisione_editoriale_consigliata
+130,Belmod,Maschio,Rosso,Universo 11,Divinità,,Sopravvivenza degli universi,Dragon Ball Super,,episodio_da_verificare; revisione_editoriale_consigliata
+131,Marcarita,Femmina,Bianco,Universo 11,Angelo,,Sopravvivenza degli universi,Dragon Ball Super,,episodio_da_verificare; revisione_editoriale_consigliata
+132,Sidra,Maschio,Calvo,Universo 9,Divinità,,Sopravvivenza degli universi,Dragon Ball Super,,episodio_da_verificare; revisione_editoriale_consigliata
+133,Heles,Femmina,Nero,Universo 2,Divinità,,Sopravvivenza degli universi,Dragon Ball Super,,episodio_da_verificare; revisione_editoriale_consigliata
+134,Quitela,Maschio,Nessuno,Universo 4,Divinità,,Sopravvivenza degli universi,Dragon Ball Super,,episodio_da_verificare; revisione_editoriale_consigliata
+135,Super Shenron,Maschio,Nessuno,Sconosciuto,Drago,,Universo 6,Dragon Ball Super,,episodio_da_verificare; universo_da_verificare; revisione_editoriale_consigliata
+136,Glorio,Maschio,Bianco,Sconosciuto,Demone,1,Regno Demoniaco,Dragon Ball Daima,,universo_da_verificare; revisione_editoriale_consigliata
+137,Panzy,Femmina,Rosa,Sconosciuto,Demone,,Regno Demoniaco,Dragon Ball Daima,,episodio_da_verificare; universo_da_verificare; revisione_editoriale_consigliata
+138,Gomah,Maschio,Nessuno,Sconosciuto,Demone,1,Regno Demoniaco,Dragon Ball Daima,,universo_da_verificare; revisione_editoriale_consigliata
+139,Degesu,Maschio,Bianco,Sconosciuto,Demone,1,Regno Demoniaco,Dragon Ball Daima,,universo_da_verificare; revisione_editoriale_consigliata
+140,Dottoressa Arinsu,Femmina,Bianco,Sconosciuto,Demone,1,Regno Demoniaco,Dragon Ball Daima,,universo_da_verificare; revisione_editoriale_consigliata
+141,Neva,Maschio,Bianco,Sconosciuto,Namecciano,1,Regno Demoniaco,Dragon Ball Daima,,universo_da_verificare; revisione_editoriale_consigliata
+142,Hybis,Maschio,Nero,Sconosciuto,Demone,,Regno Demoniaco,Dragon Ball Daima,,episodio_da_verificare; universo_da_verificare; revisione_editoriale_consigliata
+143,Re Kadan,Maschio,Nessuno,Sconosciuto,Demone,,Regno Demoniaco,Dragon Ball Daima,,episodio_da_verificare; universo_da_verificare; revisione_editoriale_consigliata
+144,Tamagami Numero 1,Altro / senza genere,Nessuno,Sconosciuto,Guardiano,,Regno Demoniaco,Dragon Ball Daima,,episodio_da_verificare; universo_da_verificare; revisione_editoriale_consigliata
+145,Tamagami Numero 2,Altro / senza genere,Nessuno,Sconosciuto,Guardiano,,Regno Demoniaco,Dragon Ball Daima,,episodio_da_verificare; universo_da_verificare; revisione_editoriale_consigliata
+146,Tamagami Numero 3,Altro / senza genere,Nessuno,Sconosciuto,Guardiano,,Regno Demoniaco,Dragon Ball Daima,,episodio_da_verificare; universo_da_verificare; revisione_editoriale_consigliata
+147,Majin Kuu,Maschio,Nessuno,Sconosciuto,Majin,,Regno Demoniaco,Dragon Ball Daima,,episodio_da_verificare; universo_da_verificare; revisione_editoriale_consigliata
+148,Majin Duu,Maschio,Nessuno,Sconosciuto,Majin,,Regno Demoniaco,Dragon Ball Daima,,episodio_da_verificare; universo_da_verificare; revisione_editoriale_consigliata
+149,Garlic Jr.,Maschio,Nessuno,Universo 7,Demone,Film,La vendetta divina,Dragon Ball Z · Film,,revisione_editoriale_consigliata
+150,Dottor Wheelo,Maschio,Nessuno,Universo 7,Cervello biomeccanico,Film,Il più forte del mondo,Dragon Ball Z · Film,,revisione_editoriale_consigliata
+151,Turles,Maschio,Nero,Universo 7,Saiyan,Film,La grande battaglia per il destino del mondo,Dragon Ball Z · Film,,revisione_editoriale_consigliata
+152,Lord Slug,Maschio,Calvo,Universo 7,Namecciano,Film,La sfida dei guerrieri invincibili,Dragon Ball Z · Film,,revisione_editoriale_consigliata
+153,Cooler,Maschio,Calvo,Universo 7,Razza di Freezer,Film,Il destino dei Saiyan,Dragon Ball Z · Film,,revisione_editoriale_consigliata
+154,Metal Cooler,Maschio,Calvo,Universo 7,Androide,Film,L'invasione di Neo Namecc,Dragon Ball Z · Film,,revisione_editoriale_consigliata
+155,Androide 13,Maschio,Bianco,Universo 7,Androide,Film,I tre Super Saiyan,Dragon Ball Z · Film,,revisione_editoriale_consigliata
+156,Androide 14,Maschio,Nero,Universo 7,Androide,Film,I tre Super Saiyan,Dragon Ball Z · Film,,revisione_editoriale_consigliata
+157,Androide 15,Maschio,Nero,Universo 7,Androide,Film,I tre Super Saiyan,Dragon Ball Z · Film,,revisione_editoriale_consigliata
+158,Broly (Z),Maschio,Nero,Universo 7,Saiyan,Film,Il Super Saiyan della leggenda,Dragon Ball Z · Film,,revisione_editoriale_consigliata
+159,Paragas (Z),Maschio,Nero,Universo 7,Saiyan,Film,Il Super Saiyan della leggenda,Dragon Ball Z · Film,,revisione_editoriale_consigliata
+160,Bojack,Maschio,Arancione,Universo 7,Sconosciuta,Film,La minaccia del demone malvagio,Dragon Ball Z · Film,,razza_da_verificare; revisione_editoriale_consigliata
+161,Zangya,Femmina,Arancione,Universo 7,Sconosciuta,Film,La minaccia del demone malvagio,Dragon Ball Z · Film,,razza_da_verificare; revisione_editoriale_consigliata
+162,Bido,Maschio,Nero,Universo 7,Sconosciuta,Film,La minaccia del demone malvagio,Dragon Ball Z · Film,,razza_da_verificare; revisione_editoriale_consigliata
+163,Bujin,Maschio,Calvo,Universo 7,Sconosciuta,Film,La minaccia del demone malvagio,Dragon Ball Z · Film,,razza_da_verificare; revisione_editoriale_consigliata
+164,Janemba,Maschio,Nessuno,Universo 7,Demone,Film,Il diabolico guerriero degli inferi,Dragon Ball Z · Film,,revisione_editoriale_consigliata
+165,Tapion,Maschio,Arancione,Universo 7,Umanoide,Film,L'eroe del pianeta Conuts,Dragon Ball Z · Film,,revisione_editoriale_consigliata
+166,Hirudegarn,Altro / senza genere,Nessuno,Universo 7,Mostro,Film,L'eroe del pianeta Conuts,Dragon Ball Z · Film,,revisione_editoriale_consigliata
+167,Hoi,Maschio,Nero,Universo 7,Stregone,Film,L'eroe del pianeta Conuts,Dragon Ball Z · Film,,revisione_editoriale_consigliata
+168,Beerus,Maschio,Nessuno,Universo 7,Divinità,Film,La battaglia degli dei,Dragon Ball Super · Film,https://dragonball-api.com/characters/Beerus_DBS_Broly_Artwork.webp,revisione_editoriale_consigliata
+169,Whis,Maschio,Bianco,Universo 7,Angelo,Film,La battaglia degli dei,Dragon Ball Super · Film,https://dragonball-api.com/characters/Whis_DBS_Broly_Artwork.webp,revisione_editoriale_consigliata
+170,Broly (Super),Maschio,Nero,Universo 7,Saiyan,Film,Dragon Ball Super: Broly,Dragon Ball Super · Film,,revisione_editoriale_consigliata
+171,Paragas (Super),Maschio,Nero,Universo 7,Saiyan,Film,Dragon Ball Super: Broly,Dragon Ball Super · Film,,revisione_editoriale_consigliata
+172,Cheelai,Femmina,Bianco,Universo 7,Sconosciuta,Film,Dragon Ball Super: Broly,Dragon Ball Super · Film,,razza_da_verificare; revisione_editoriale_consigliata
+173,Lemo,Maschio,Calvo,Universo 7,Sconosciuta,Film,Dragon Ball Super: Broly,Dragon Ball Super · Film,,razza_da_verificare; revisione_editoriale_consigliata
+174,Gamma 1,Maschio,Nessuno,Universo 7,Androide,Film,Dragon Ball Super: Super Hero,Dragon Ball Super · Film,,revisione_editoriale_consigliata
+175,Gamma 2,Maschio,Nessuno,Universo 7,Androide,Film,Dragon Ball Super: Super Hero,Dragon Ball Super · Film,,revisione_editoriale_consigliata
+176,Cell Max,Maschio,Nessuno,Universo 7,Bio-androide,Film,Dragon Ball Super: Super Hero,Dragon Ball Super · Film,,revisione_editoriale_consigliata
+177,Dottor Hedo,Maschio,Biondo,Universo 7,Umano,Film,Dragon Ball Super: Super Hero,Dragon Ball Super · Film,,revisione_editoriale_consigliata
+178,Magenta,Maschio,Rosso,Universo 7,Umano,Film,Dragon Ball Super: Super Hero,Dragon Ball Super · Film,,revisione_editoriale_consigliata
+179,Carmine,Maschio,Nero,Universo 7,Umano,Film,Dragon Ball Super: Super Hero,Dragon Ball Super · Film,,revisione_editoriale_consigliata

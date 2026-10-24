@@ -1,0 +1,24 @@
+{
+  "count": 179,
+  "by_series": {
+    "Dragon Ball": 40,
+    "Dragon Ball Z": 47,
+    "Dragon Ball GT": 19,
+    "Dragon Ball Super": 29,
+    "Dragon Ball Daima": 13,
+    "Dragon Ball Z · Film": 19,
+    "Dragon Ball Super · Film": 12
+  },
+  "episodes_not_confirmed": 130,
+  "missing_portrait_url": 172,
+  "scope": "Prima versione curata a mano da fonti enciclopediche; tutti i personaggi selezionati comprendono DB, Z, GT, Super, Daima e film; dati narrativi da ricontrollare.",
+  "status": "bozza giocabile, non enciclopedia validata",
+  "notes": [
+    "I film sono etichettati come Dragon Ball Z · Film o Dragon Ball Super · Film e hanno episodio Film.",
+    "I personaggi che appartengono a più serie sono associati solo alla prima apparizione; per Broly e Paragas versioni di continuità diversa sono separate.",
+    "Sconosciuto non significa Universo 7: è un dato volutamente non assegnato.",
+    "I colori dei capelli si riferiscono all’aspetto base; alcune scelte sono editoriali e richiedono conferma.",
+    "Gli episodi precisi non verificati sono null e non verranno inventati.",
+    "Alcuni link a immagini pubbliche possono non essere raggiungibili; l’app mostra un segnaposto."
+  ]
+}

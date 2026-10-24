@@ -1,0 +1,3663 @@
+[
+  {
+    "name": "Goku",
+    "gender": "Maschio",
+    "hair": "Nero",
+    "origin": "Universo 7",
+    "race": "Saiyan",
+    "episode": 1,
+    "saga": "Ricerca delle Sfere del Drago",
+    "series": "Dragon Ball",
+    "source_group": "curated_starter",
+    "image_url": "https://dragonball-api.com/characters/goku_normal.webp",
+    "id": 1,
+    "slug": "goku",
+    "aliases": [
+      "Son Goku",
+      "Kakarot",
+      "Kakaroth"
+    ],
+    "review_flags": [
+      "revisione_editoriale_consigliata"
+    ],
+    "episode_source_status": "preliminare"
+  },
+  {
+    "name": "Bulma",
+    "gender": "Femmina",
+    "hair": "Azzurro",
+    "origin": "Universo 7",
+    "race": "Umano",
+    "episode": 1,
+    "saga": "Ricerca delle Sfere del Drago",
+    "series": "Dragon Ball",
+    "source_group": "curated_starter",
+    "image_url": null,
+    "id": 2,
+    "slug": "bulma",
+    "aliases": [
+      "Bulma Brief"
+    ],
+    "review_flags": [
+      "revisione_editoriale_consigliata"
+    ],
+    "episode_source_status": "preliminare"
+  },
+  {
+    "name": "Oolong",
+    "gender": "Maschio",
+    "hair": "Calvo",
+    "origin": "Universo 7",
+    "race": "Animale",
+    "episode": 4,
+    "saga": "Ricerca delle Sfere del Drago",
+    "series": "Dragon Ball",
+    "source_group": "curated_starter",
+    "image_url": null,
+    "id": 3,
+    "slug": "oolong",
+    "aliases": [
+      "Olong"
+    ],
+    "review_flags": [
+      "revisione_editoriale_consigliata"
+    ],
+    "episode_source_status": "preliminare"
+  },
+  {
+    "name": "Yamcha",
+    "gender": "Maschio",
+    "hair": "Nero",
+    "origin": "Universo 7",
+    "race": "Umano",
+    "episode": 5,
+    "saga": "Ricerca delle Sfere del Drago",
+    "series": "Dragon Ball",
+    "source_group": "curated_starter",
+    "image_url": null,
+    "id": 4,
+    "slug": "yamcha",
+    "aliases": [],
+    "review_flags": [
+      "revisione_editoriale_consigliata"
+    ],
+    "episode_source_status": "preliminare"
+  },
+  {
+    "name": "Puar",
+    "gender": "Maschio",
+    "hair": "Azzurro",
+    "origin": "Universo 7",
+    "race": "Animale",
+    "episode": 5,
+    "saga": "Ricerca delle Sfere del Drago",
+    "series": "Dragon Ball",
+    "source_group": "curated_starter",
+    "image_url": null,
+    "id": 5,
+    "slug": "puar",
+    "aliases": [],
+    "review_flags": [
+      "revisione_editoriale_consigliata"
+    ],
+    "episode_source_status": "preliminare"
+  },
+  {
+    "name": "Maestro Muten",
+    "gender": "Maschio",
+    "hair": "Calvo",
+    "origin": "Universo 7",
+    "race": "Umano",
+    "episode": 3,
+    "saga": "Ricerca delle Sfere del Drago",
+    "series": "Dragon Ball",
+    "source_group": "curated_starter",
+    "image_url": null,
+    "id": 6,
+    "slug": "maestro-muten",
+    "aliases": [
+      "Roshi",
+      "Muten Roshi",
+      "Genio delle Tartarughe",
+      "Master Roshi"
+    ],
+    "review_flags": [
+      "revisione_editoriale_consigliata"
+    ],
+    "episode_source_status": "preliminare"
+  },
+  {
+    "name": "Crilin",
+    "gender": "Maschio",
+    "hair": "Calvo",
+    "origin": "Universo 7",
+    "race": "Umano",
+    "episode": 14,
+    "saga": "21° Torneo Tenkaichi",
+    "series": "Dragon Ball",
+    "source_group": "curated_starter",
+    "image_url": null,
+    "id": 7,
+    "slug": "crilin",
+    "aliases": [
+      "Krillin",
+      "Kuririn"
+    ],
+    "review_flags": [
+      "revisione_editoriale_consigliata"
+    ],
+    "episode_source_status": "preliminare"
+  },
+  {
+    "name": "Chichi",
+    "gender": "Femmina",
+    "hair": "Nero",
+    "origin": "Universo 7",
+    "race": "Umano",
+    "episode": 7,
+    "saga": "Ricerca delle Sfere del Drago",
+    "series": "Dragon Ball",
+    "source_group": "curated_starter",
+    "image_url": null,
+    "id": 8,
+    "slug": "chichi",
+    "aliases": [],
+    "review_flags": [
+      "revisione_editoriale_consigliata"
+    ],
+    "episode_source_status": "preliminare"
+  },
+  {
+    "name": "Stregone del Toro",
+    "gender": "Maschio",
+    "hair": "Nero",
+    "origin": "Universo 7",
+    "race": "Umano",
+    "episode": 7,
+    "saga": "Ricerca delle Sfere del Drago",
+    "series": "Dragon Ball",
+    "source_group": "curated_starter",
+    "image_url": null,
+    "id": 9,
+    "slug": "stregone-del-toro",
+    "aliases": [],
+    "review_flags": [
+      "revisione_editoriale_consigliata"
+    ],
+    "episode_source_status": "preliminare"
+  },
+  {
+    "name": "Pilaf",
+    "gender": "Maschio",
+    "hair": "Nero",
+    "origin": "Universo 7",
+    "race": "Sconosciuta",
+    "episode": 1,
+    "saga": "Ricerca delle Sfere del Drago",
+    "series": "Dragon Ball",
+    "source_group": "curated_starter",
+    "image_url": null,
+    "id": 10,
+    "slug": "pilaf",
+    "aliases": [],
+    "review_flags": [
+      "razza_da_verificare",
+      "revisione_editoriale_consigliata"
+    ],
+    "episode_source_status": "preliminare"
+  },
+  {
+    "name": "Shu",
+    "gender": "Maschio",
+    "hair": "Nessuno",
+    "origin": "Universo 7",
+    "race": "Animale",
+    "episode": null,
+    "saga": "Ricerca delle Sfere del Drago",
+    "series": "Dragon Ball",
+    "source_group": "curated_starter",
+    "image_url": null,
+    "id": 11,
+    "slug": "shu",
+    "aliases": [],
+    "review_flags": [
+      "episodio_da_verificare",
+      "revisione_editoriale_consigliata"
+    ],
+    "episode_source_status": "non_documentato"
+  },
+  {
+    "name": "Mai",
+    "gender": "Femmina",
+    "hair": "Nero",
+    "origin": "Universo 7",
+    "race": "Umano",
+    "episode": null,
+    "saga": "Ricerca delle Sfere del Drago",
+    "series": "Dragon Ball",
+    "source_group": "curated_starter",
+    "image_url": null,
+    "id": 12,
+    "slug": "mai",
+    "aliases": [],
+    "review_flags": [
+      "episodio_da_verificare",
+      "revisione_editoriale_consigliata"
+    ],
+    "episode_source_status": "non_documentato"
+  },
+  {
+    "name": "Lunch",
+    "gender": "Femmina",
+    "hair": "Biondo",
+    "origin": "Universo 7",
+    "race": "Umano",
+    "episode": null,
+    "saga": "21° Torneo Tenkaichi",
+    "series": "Dragon Ball",
+    "source_group": "curated_starter",
+    "image_url": null,
+    "id": 13,
+    "slug": "lunch",
+    "aliases": [],
+    "review_flags": [
+      "episodio_da_verificare",
+      "revisione_editoriale_consigliata"
+    ],
+    "episode_source_status": "non_documentato"
+  },
+  {
+    "name": "Nonno Gohan",
+    "gender": "Maschio",
+    "hair": "Calvo",
+    "origin": "Universo 7",
+    "race": "Umano",
+    "episode": null,
+    "saga": "21° Torneo Tenkaichi",
+    "series": "Dragon Ball",
+    "source_group": "curated_starter",
+    "image_url": null,
+    "id": 14,
+    "slug": "nonno-gohan",
+    "aliases": [],
+    "review_flags": [
+      "episodio_da_verificare",
+      "revisione_editoriale_consigliata"
+    ],
+    "episode_source_status": "non_documentato"
+  },
+  {
+    "name": "Nam",
+    "gender": "Maschio",
+    "hair": "Nero",
+    "origin": "Universo 7",
+    "race": "Umano",
+    "episode": null,
+    "saga": "21° Torneo Tenkaichi",
+    "series": "Dragon Ball",
+    "source_group": "curated_starter",
+    "image_url": null,
+    "id": 15,
+    "slug": "nam",
+    "aliases": [],
+    "review_flags": [
+      "episodio_da_verificare",
+      "revisione_editoriale_consigliata"
+    ],
+    "episode_source_status": "non_documentato"
+  },
+  {
+    "name": "Giran",
+    "gender": "Maschio",
+    "hair": "Nessuno",
+    "origin": "Universo 7",
+    "race": "Animale",
+    "episode": null,
+    "saga": "21° Torneo Tenkaichi",
+    "series": "Dragon Ball",
+    "source_group": "curated_starter",
+    "image_url": null,
+    "id": 16,
+    "slug": "giran",
+    "aliases": [],
+    "review_flags": [
+      "episodio_da_verificare",
+      "revisione_editoriale_consigliata"
+    ],
+    "episode_source_status": "non_documentato"
+  },
+  {
+    "name": "Bacterian",
+    "gender": "Maschio",
+    "hair": "Nero",
+    "origin": "Universo 7",
+    "race": "Umano",
+    "episode": null,
+    "saga": "21° Torneo Tenkaichi",
+    "series": "Dragon Ball",
+    "source_group": "curated_starter",
+    "image_url": null,
+    "id": 17,
+    "slug": "bacterian",
+    "aliases": [],
+    "review_flags": [
+      "episodio_da_verificare",
+      "revisione_editoriale_consigliata"
+    ],
+    "episode_source_status": "non_documentato"
+  },
+  {
+    "name": "Tenshinhan",
+    "gender": "Maschio",
+    "hair": "Calvo",
+    "origin": "Universo 7",
+    "race": "Umano",
+    "episode": null,
+    "saga": "22° Torneo Tenkaichi",
+    "series": "Dragon Ball",
+    "source_group": "curated_starter",
+    "image_url": null,
+    "id": 18,
+    "slug": "tenshinhan",
+    "aliases": [
+      "Tien",
+      "Tenshinhan"
+    ],
+    "review_flags": [
+      "episodio_da_verificare",
+      "revisione_editoriale_consigliata"
+    ],
+    "episode_source_status": "non_documentato"
+  },
+  {
+    "name": "Jiaozi",
+    "gender": "Maschio",
+    "hair": "Calvo",
+    "origin": "Universo 7",
+    "race": "Umano",
+    "episode": null,
+    "saga": "22° Torneo Tenkaichi",
+    "series": "Dragon Ball",
+    "source_group": "curated_starter",
+    "image_url": null,
+    "id": 19,
+    "slug": "jiaozi",
+    "aliases": [
+      "Chaoz",
+      "Chiaotzu"
+    ],
+    "review_flags": [
+      "episodio_da_verificare",
+      "revisione_editoriale_consigliata"
+    ],
+    "episode_source_status": "non_documentato"
+  },
+  {
+    "name": "Yajirobei",
+    "gender": "Maschio",
+    "hair": "Nero",
+    "origin": "Universo 7",
+    "race": "Umano",
+    "episode": null,
+    "saga": "Saga del Grande Mago Piccolo",
+    "series": "Dragon Ball",
+    "source_group": "curated_starter",
+    "image_url": null,
+    "id": 20,
+    "slug": "yajirobei",
+    "aliases": [],
+    "review_flags": [
+      "episodio_da_verificare",
+      "revisione_editoriale_consigliata"
+    ],
+    "episode_source_status": "non_documentato"
+  },
+  {
+    "name": "Maestro Shen",
+    "gender": "Maschio",
+    "hair": "Nero",
+    "origin": "Universo 7",
+    "race": "Umano",
+    "episode": null,
+    "saga": "22° Torneo Tenkaichi",
+    "series": "Dragon Ball",
+    "source_group": "curated_starter",
+    "image_url": null,
+    "id": 21,
+    "slug": "maestro-shen",
+    "aliases": [],
+    "review_flags": [
+      "episodio_da_verificare",
+      "revisione_editoriale_consigliata"
+    ],
+    "episode_source_status": "non_documentato"
+  },
+  {
+    "name": "Tao Pai Pai",
+    "gender": "Maschio",
+    "hair": "Nero",
+    "origin": "Universo 7",
+    "race": "Umano",
+    "episode": null,
+    "saga": "Red Ribbon",
+    "series": "Dragon Ball",
+    "source_group": "curated_starter",
+    "image_url": null,
+    "id": 22,
+    "slug": "tao-pai-pai",
+    "aliases": [],
+    "review_flags": [
+      "episodio_da_verificare",
+      "revisione_editoriale_consigliata"
+    ],
+    "episode_source_status": "non_documentato"
+  },
+  {
+    "name": "Bora",
+    "gender": "Maschio",
+    "hair": "Nero",
+    "origin": "Universo 7",
+    "race": "Umano",
+    "episode": null,
+    "saga": "Red Ribbon",
+    "series": "Dragon Ball",
+    "source_group": "curated_starter",
+    "image_url": null,
+    "id": 23,
+    "slug": "bora",
+    "aliases": [],
+    "review_flags": [
+      "episodio_da_verificare",
+      "revisione_editoriale_consigliata"
+    ],
+    "episode_source_status": "non_documentato"
+  },
+  {
+    "name": "Upa",
+    "gender": "Maschio",
+    "hair": "Nero",
+    "origin": "Universo 7",
+    "race": "Umano",
+    "episode": null,
+    "saga": "Red Ribbon",
+    "series": "Dragon Ball",
+    "source_group": "curated_starter",
+    "image_url": null,
+    "id": 24,
+    "slug": "upa",
+    "aliases": [],
+    "review_flags": [
+      "episodio_da_verificare",
+      "revisione_editoriale_consigliata"
+    ],
+    "episode_source_status": "non_documentato"
+  },
+  {
+    "name": "Karin",
+    "gender": "Maschio",
+    "hair": "Bianco",
+    "origin": "Universo 7",
+    "race": "Animale",
+    "episode": null,
+    "saga": "Red Ribbon",
+    "series": "Dragon Ball",
+    "source_group": "curated_starter",
+    "image_url": null,
+    "id": 25,
+    "slug": "karin",
+    "aliases": [],
+    "review_flags": [
+      "episodio_da_verificare",
+      "revisione_editoriale_consigliata"
+    ],
+    "episode_source_status": "non_documentato"
+  },
+  {
+    "name": "Baba Uranai",
+    "gender": "Femmina",
+    "hair": "Bianco",
+    "origin": "Universo 7",
+    "race": "Umano",
+    "episode": null,
+    "saga": "Red Ribbon",
+    "series": "Dragon Ball",
+    "source_group": "curated_starter",
+    "image_url": null,
+    "id": 26,
+    "slug": "baba-uranai",
+    "aliases": [],
+    "review_flags": [
+      "episodio_da_verificare",
+      "revisione_editoriale_consigliata"
+    ],
+    "episode_source_status": "non_documentato"
+  },
+  {
+    "name": "Generale Blue",
+    "gender": "Maschio",
+    "hair": "Biondo",
+    "origin": "Universo 7",
+    "race": "Umano",
+    "episode": null,
+    "saga": "Red Ribbon",
+    "series": "Dragon Ball",
+    "source_group": "curated_starter",
+    "image_url": null,
+    "id": 27,
+    "slug": "generale-blue",
+    "aliases": [],
+    "review_flags": [
+      "episodio_da_verificare",
+      "revisione_editoriale_consigliata"
+    ],
+    "episode_source_status": "non_documentato"
+  },
+  {
+    "name": "Comandante Red",
+    "gender": "Maschio",
+    "hair": "Rosso",
+    "origin": "Universo 7",
+    "race": "Umano",
+    "episode": null,
+    "saga": "Red Ribbon",
+    "series": "Dragon Ball",
+    "source_group": "curated_starter",
+    "image_url": null,
+    "id": 28,
+    "slug": "comandante-red",
+    "aliases": [],
+    "review_flags": [
+      "episodio_da_verificare",
+      "revisione_editoriale_consigliata"
+    ],
+    "episode_source_status": "non_documentato"
+  },
+  {
+    "name": "Assistente Black",
+    "gender": "Maschio",
+    "hair": "Nero",
+    "origin": "Universo 7",
+    "race": "Umano",
+    "episode": null,
+    "saga": "Red Ribbon",
+    "series": "Dragon Ball",
+    "source_group": "curated_starter",
+    "image_url": null,
+    "id": 29,
+    "slug": "assistente-black",
+    "aliases": [],
+    "review_flags": [
+      "episodio_da_verificare",
+      "revisione_editoriale_consigliata"
+    ],
+    "episode_source_status": "non_documentato"
+  },
+  {
+    "name": "Androide 8",
+    "gender": "Maschio",
+    "hair": "Nero",
+    "origin": "Universo 7",
+    "race": "Androide",
+    "episode": null,
+    "saga": "Red Ribbon",
+    "series": "Dragon Ball",
+    "source_group": "curated_starter",
+    "image_url": null,
+    "id": 30,
+    "slug": "androide-8",
+    "aliases": [],
+    "review_flags": [
+      "episodio_da_verificare",
+      "revisione_editoriale_consigliata"
+    ],
+    "episode_source_status": "non_documentato"
+  },
+  {
+    "name": "Sergente Metallic",
+    "gender": "Maschio",
+    "hair": "Nero",
+    "origin": "Universo 7",
+    "race": "Androide",
+    "episode": null,
+    "saga": "Red Ribbon",
+    "series": "Dragon Ball",
+    "source_group": "curated_starter",
+    "image_url": null,
+    "id": 31,
+    "slug": "sergente-metallic",
+    "aliases": [],
+    "review_flags": [
+      "episodio_da_verificare",
+      "revisione_editoriale_consigliata"
+    ],
+    "episode_source_status": "non_documentato"
+  },
+  {
+    "name": "Grande Mago Piccolo",
+    "gender": "Maschio",
+    "hair": "Calvo",
+    "origin": "Universo 7",
+    "race": "Namecciano",
+    "episode": null,
+    "saga": "Saga del Grande Mago Piccolo",
+    "series": "Dragon Ball",
+    "source_group": "curated_starter",
+    "image_url": null,
+    "id": 32,
+    "slug": "grande-mago-piccolo",
+    "aliases": [],
+    "review_flags": [
+      "episodio_da_verificare",
+      "revisione_editoriale_consigliata"
+    ],
+    "episode_source_status": "non_documentato"
+  },
+  {
+    "name": "Tamburello",
+    "gender": "Maschio",
+    "hair": "Calvo",
+    "origin": "Universo 7",
+    "race": "Namecciano",
+    "episode": null,
+    "saga": "Saga del Grande Mago Piccolo",
+    "series": "Dragon Ball",
+    "source_group": "curated_starter",
+    "image_url": null,
+    "id": 33,
+    "slug": "tamburello",
+    "aliases": [],
+    "review_flags": [
+      "episodio_da_verificare",
+      "revisione_editoriale_consigliata"
+    ],
+    "episode_source_status": "non_documentato"
+  },
+  {
+    "name": "Cembalo",
+    "gender": "Maschio",
+    "hair": "Calvo",
+    "origin": "Universo 7",
+    "race": "Namecciano",
+    "episode": null,
+    "saga": "Saga del Grande Mago Piccolo",
+    "series": "Dragon Ball",
+    "source_group": "curated_starter",
+    "image_url": null,
+    "id": 34,
+    "slug": "cembalo",
+    "aliases": [],
+    "review_flags": [
+      "episodio_da_verificare",
+      "revisione_editoriale_consigliata"
+    ],
+    "episode_source_status": "non_documentato"
+  },
+  {
+    "name": "Tamburo",
+    "gender": "Maschio",
+    "hair": "Calvo",
+    "origin": "Universo 7",
+    "race": "Namecciano",
+    "episode": null,
+    "saga": "Saga del Grande Mago Piccolo",
+    "series": "Dragon Ball",
+    "source_group": "curated_starter",
+    "image_url": null,
+    "id": 35,
+    "slug": "tamburo",
+    "aliases": [],
+    "review_flags": [
+      "episodio_da_verificare",
+      "revisione_editoriale_consigliata"
+    ],
+    "episode_source_status": "non_documentato"
+  },
+  {
+    "name": "Piccolo",
+    "gender": "Maschio",
+    "hair": "Calvo",
+    "origin": "Universo 7",
+    "race": "Namecciano",
+    "episode": null,
+    "saga": "23° Torneo Tenkaichi",
+    "series": "Dragon Ball",
+    "source_group": "curated_starter",
+    "image_url": "https://dragonball-api.com/characters/picolo_normal.webp",
+    "id": 36,
+    "slug": "piccolo",
+    "aliases": [
+      "Junior",
+      "Piccolo Jr."
+    ],
+    "review_flags": [
+      "episodio_da_verificare",
+      "revisione_editoriale_consigliata"
+    ],
+    "episode_source_status": "non_documentato"
+  },
+  {
+    "name": "Dio della Terra",
+    "gender": "Maschio",
+    "hair": "Calvo",
+    "origin": "Universo 7",
+    "race": "Namecciano",
+    "episode": null,
+    "saga": "23° Torneo Tenkaichi",
+    "series": "Dragon Ball",
+    "source_group": "curated_starter",
+    "image_url": null,
+    "id": 37,
+    "slug": "dio-della-terra",
+    "aliases": [
+      "Kami",
+      "Kami-sama"
+    ],
+    "review_flags": [
+      "episodio_da_verificare",
+      "revisione_editoriale_consigliata"
+    ],
+    "episode_source_status": "non_documentato"
+  },
+  {
+    "name": "Mr. Popo",
+    "gender": "Maschio",
+    "hair": "Calvo",
+    "origin": "Universo 7",
+    "race": "Sconosciuta",
+    "episode": null,
+    "saga": "23° Torneo Tenkaichi",
+    "series": "Dragon Ball",
+    "source_group": "curated_starter",
+    "image_url": null,
+    "id": 38,
+    "slug": "mr-popo",
+    "aliases": [],
+    "review_flags": [
+      "episodio_da_verificare",
+      "razza_da_verificare",
+      "revisione_editoriale_consigliata"
+    ],
+    "episode_source_status": "non_documentato"
+  },
+  {
+    "name": "Arale Norimaki",
+    "gender": "Femmina",
+    "hair": "Viola",
+    "origin": "Universo 7",
+    "race": "Androide",
+    "episode": null,
+    "saga": "Red Ribbon",
+    "series": "Dragon Ball",
+    "source_group": "curated_starter",
+    "image_url": null,
+    "id": 39,
+    "slug": "arale-norimaki",
+    "aliases": [],
+    "review_flags": [
+      "episodio_da_verificare",
+      "revisione_editoriale_consigliata"
+    ],
+    "episode_source_status": "non_documentato"
+  },
+  {
+    "name": "Re Chappa",
+    "gender": "Maschio",
+    "hair": "Nero",
+    "origin": "Universo 7",
+    "race": "Umano",
+    "episode": null,
+    "saga": "22° Torneo Tenkaichi",
+    "series": "Dragon Ball",
+    "source_group": "curated_starter",
+    "image_url": null,
+    "id": 40,
+    "slug": "re-chappa",
+    "aliases": [],
+    "review_flags": [
+      "episodio_da_verificare",
+      "revisione_editoriale_consigliata"
+    ],
+    "episode_source_status": "non_documentato"
+  },
+  {
+    "name": "Gohan",
+    "gender": "Maschio",
+    "hair": "Nero",
+    "origin": "Universo 7",
+    "race": "Saiyan ibrido",
+    "episode": 1,
+    "saga": "Saiyan",
+    "series": "Dragon Ball Z",
+    "source_group": "curated_starter",
+    "image_url": "https://dragonball-api.com/characters/gohan.webp",
+    "id": 41,
+    "slug": "gohan",
+    "aliases": [
+      "Son Gohan"
+    ],
+    "review_flags": [
+      "revisione_editoriale_consigliata"
+    ],
+    "episode_source_status": "preliminare"
+  },
+  {
+    "name": "Radish",
+    "gender": "Maschio",
+    "hair": "Nero",
+    "origin": "Universo 7",
+    "race": "Saiyan",
+    "episode": 1,
+    "saga": "Saiyan",
+    "series": "Dragon Ball Z",
+    "source_group": "curated_starter",
+    "image_url": null,
+    "id": 42,
+    "slug": "radish",
+    "aliases": [
+      "Raditz"
+    ],
+    "review_flags": [
+      "revisione_editoriale_consigliata"
+    ],
+    "episode_source_status": "preliminare"
+  },
+  {
+    "name": "Vegeta",
+    "gender": "Maschio",
+    "hair": "Nero",
+    "origin": "Universo 7",
+    "race": "Saiyan",
+    "episode": null,
+    "saga": "Saiyan",
+    "series": "Dragon Ball Z",
+    "source_group": "curated_starter",
+    "image_url": "https://dragonball-api.com/characters/vegeta_normal.webp",
+    "id": 43,
+    "slug": "vegeta",
+    "aliases": [],
+    "review_flags": [
+      "episodio_da_verificare",
+      "revisione_editoriale_consigliata"
+    ],
+    "episode_source_status": "non_documentato"
+  },
+  {
+    "name": "Nappa",
+    "gender": "Maschio",
+    "hair": "Calvo",
+    "origin": "Universo 7",
+    "race": "Saiyan",
+    "episode": null,
+    "saga": "Saiyan",
+    "series": "Dragon Ball Z",
+    "source_group": "curated_starter",
+    "image_url": null,
+    "id": 44,
+    "slug": "nappa",
+    "aliases": [],
+    "review_flags": [
+      "episodio_da_verificare",
+      "revisione_editoriale_consigliata"
+    ],
+    "episode_source_status": "non_documentato"
+  },
+  {
+    "name": "Saibaiman",
+    "gender": "Altro / senza genere",
+    "hair": "Nessuno",
+    "origin": "Universo 7",
+    "race": "Creatura artificiale",
+    "episode": null,
+    "saga": "Saiyan",
+    "series": "Dragon Ball Z",
+    "source_group": "curated_starter",
+    "image_url": null,
+    "id": 45,
+    "slug": "saibaiman",
+    "aliases": [],
+    "review_flags": [
+      "episodio_da_verificare",
+      "revisione_editoriale_consigliata"
+    ],
+    "episode_source_status": "non_documentato"
+  },
+  {
+    "name": "Re Kaio del Nord",
+    "gender": "Maschio",
+    "hair": "Calvo",
+    "origin": "Universo 7",
+    "race": "Divinità",
+    "episode": null,
+    "saga": "Saiyan",
+    "series": "Dragon Ball Z",
+    "source_group": "curated_starter",
+    "image_url": null,
+    "id": 46,
+    "slug": "re-kaio-del-nord",
+    "aliases": [
+      "King Kai"
+    ],
+    "review_flags": [
+      "episodio_da_verificare",
+      "revisione_editoriale_consigliata"
+    ],
+    "episode_source_status": "non_documentato"
+  },
+  {
+    "name": "Bubbles",
+    "gender": "Maschio",
+    "hair": "Nessuno",
+    "origin": "Universo 7",
+    "race": "Animale",
+    "episode": null,
+    "saga": "Saiyan",
+    "series": "Dragon Ball Z",
+    "source_group": "curated_starter",
+    "image_url": null,
+    "id": 47,
+    "slug": "bubbles",
+    "aliases": [],
+    "review_flags": [
+      "episodio_da_verificare",
+      "revisione_editoriale_consigliata"
+    ],
+    "episode_source_status": "non_documentato"
+  },
+  {
+    "name": "Gregory",
+    "gender": "Maschio",
+    "hair": "Nessuno",
+    "origin": "Universo 7",
+    "race": "Animale",
+    "episode": null,
+    "saga": "Saiyan",
+    "series": "Dragon Ball Z",
+    "source_group": "curated_starter",
+    "image_url": null,
+    "id": 48,
+    "slug": "gregory",
+    "aliases": [],
+    "review_flags": [
+      "episodio_da_verificare",
+      "revisione_editoriale_consigliata"
+    ],
+    "episode_source_status": "non_documentato"
+  },
+  {
+    "name": "Dodoria",
+    "gender": "Maschio",
+    "hair": "Calvo",
+    "origin": "Universo 7",
+    "race": "Sconosciuta",
+    "episode": null,
+    "saga": "Freezer",
+    "series": "Dragon Ball Z",
+    "source_group": "curated_starter",
+    "image_url": null,
+    "id": 49,
+    "slug": "dodoria",
+    "aliases": [],
+    "review_flags": [
+      "episodio_da_verificare",
+      "razza_da_verificare",
+      "revisione_editoriale_consigliata"
+    ],
+    "episode_source_status": "non_documentato"
+  },
+  {
+    "name": "Zarbon",
+    "gender": "Maschio",
+    "hair": "Verde",
+    "origin": "Universo 7",
+    "race": "Sconosciuta",
+    "episode": null,
+    "saga": "Freezer",
+    "series": "Dragon Ball Z",
+    "source_group": "curated_starter",
+    "image_url": null,
+    "id": 50,
+    "slug": "zarbon",
+    "aliases": [],
+    "review_flags": [
+      "episodio_da_verificare",
+      "razza_da_verificare",
+      "revisione_editoriale_consigliata"
+    ],
+    "episode_source_status": "non_documentato"
+  },
+  {
+    "name": "Cui",
+    "gender": "Maschio",
+    "hair": "Calvo",
+    "origin": "Universo 7",
+    "race": "Sconosciuta",
+    "episode": null,
+    "saga": "Freezer",
+    "series": "Dragon Ball Z",
+    "source_group": "curated_starter",
+    "image_url": null,
+    "id": 51,
+    "slug": "cui",
+    "aliases": [],
+    "review_flags": [
+      "episodio_da_verificare",
+      "razza_da_verificare",
+      "revisione_editoriale_consigliata"
+    ],
+    "episode_source_status": "non_documentato"
+  },
+  {
+    "name": "Guldo",
+    "gender": "Maschio",
+    "hair": "Calvo",
+    "origin": "Universo 7",
+    "race": "Sconosciuta",
+    "episode": null,
+    "saga": "Freezer",
+    "series": "Dragon Ball Z",
+    "source_group": "curated_starter",
+    "image_url": null,
+    "id": 52,
+    "slug": "guldo",
+    "aliases": [],
+    "review_flags": [
+      "episodio_da_verificare",
+      "razza_da_verificare",
+      "revisione_editoriale_consigliata"
+    ],
+    "episode_source_status": "non_documentato"
+  },
+  {
+    "name": "Recoome",
+    "gender": "Maschio",
+    "hair": "Arancione",
+    "origin": "Universo 7",
+    "race": "Sconosciuta",
+    "episode": null,
+    "saga": "Freezer",
+    "series": "Dragon Ball Z",
+    "source_group": "curated_starter",
+    "image_url": null,
+    "id": 53,
+    "slug": "recoome",
+    "aliases": [],
+    "review_flags": [
+      "episodio_da_verificare",
+      "razza_da_verificare",
+      "revisione_editoriale_consigliata"
+    ],
+    "episode_source_status": "non_documentato"
+  },
+  {
+    "name": "Jeice",
+    "gender": "Maschio",
+    "hair": "Bianco",
+    "origin": "Universo 7",
+    "race": "Sconosciuta",
+    "episode": null,
+    "saga": "Freezer",
+    "series": "Dragon Ball Z",
+    "source_group": "curated_starter",
+    "image_url": null,
+    "id": 54,
+    "slug": "jeice",
+    "aliases": [],
+    "review_flags": [
+      "episodio_da_verificare",
+      "razza_da_verificare",
+      "revisione_editoriale_consigliata"
+    ],
+    "episode_source_status": "non_documentato"
+  },
+  {
+    "name": "Burter",
+    "gender": "Maschio",
+    "hair": "Nessuno",
+    "origin": "Universo 7",
+    "race": "Sconosciuta",
+    "episode": null,
+    "saga": "Freezer",
+    "series": "Dragon Ball Z",
+    "source_group": "curated_starter",
+    "image_url": null,
+    "id": 55,
+    "slug": "burter",
+    "aliases": [],
+    "review_flags": [
+      "episodio_da_verificare",
+      "razza_da_verificare",
+      "colore_capelli_da_verificare",
+      "revisione_editoriale_consigliata"
+    ],
+    "episode_source_status": "non_documentato"
+  },
+  {
+    "name": "Capitano Ginew",
+    "gender": "Maschio",
+    "hair": "Calvo",
+    "origin": "Universo 7",
+    "race": "Sconosciuta",
+    "episode": null,
+    "saga": "Freezer",
+    "series": "Dragon Ball Z",
+    "source_group": "curated_starter",
+    "image_url": null,
+    "id": 56,
+    "slug": "capitano-ginew",
+    "aliases": [
+      "Captain Ginyu"
+    ],
+    "review_flags": [
+      "episodio_da_verificare",
+      "razza_da_verificare",
+      "revisione_editoriale_consigliata"
+    ],
+    "episode_source_status": "non_documentato"
+  },
+  {
+    "name": "Freezer",
+    "gender": "Maschio",
+    "hair": "Calvo",
+    "origin": "Universo 7",
+    "race": "Razza di Freezer",
+    "episode": null,
+    "saga": "Freezer",
+    "series": "Dragon Ball Z",
+    "source_group": "curated_starter",
+    "image_url": "https://dragonball-api.com/characters/Freezer.webp",
+    "id": 57,
+    "slug": "freezer",
+    "aliases": [
+      "Frieza",
+      "Freeza"
+    ],
+    "review_flags": [
+      "episodio_da_verificare",
+      "revisione_editoriale_consigliata"
+    ],
+    "episode_source_status": "non_documentato"
+  },
+  {
+    "name": "Nail",
+    "gender": "Maschio",
+    "hair": "Calvo",
+    "origin": "Universo 7",
+    "race": "Namecciano",
+    "episode": null,
+    "saga": "Freezer",
+    "series": "Dragon Ball Z",
+    "source_group": "curated_starter",
+    "image_url": null,
+    "id": 58,
+    "slug": "nail",
+    "aliases": [],
+    "review_flags": [
+      "episodio_da_verificare",
+      "revisione_editoriale_consigliata"
+    ],
+    "episode_source_status": "non_documentato"
+  },
+  {
+    "name": "Dende",
+    "gender": "Maschio",
+    "hair": "Calvo",
+    "origin": "Universo 7",
+    "race": "Namecciano",
+    "episode": null,
+    "saga": "Freezer",
+    "series": "Dragon Ball Z",
+    "source_group": "curated_starter",
+    "image_url": null,
+    "id": 59,
+    "slug": "dende",
+    "aliases": [],
+    "review_flags": [
+      "episodio_da_verificare",
+      "revisione_editoriale_consigliata"
+    ],
+    "episode_source_status": "non_documentato"
+  },
+  {
+    "name": "Grande Anziano",
+    "gender": "Maschio",
+    "hair": "Calvo",
+    "origin": "Universo 7",
+    "race": "Namecciano",
+    "episode": null,
+    "saga": "Freezer",
+    "series": "Dragon Ball Z",
+    "source_group": "curated_starter",
+    "image_url": null,
+    "id": 60,
+    "slug": "grande-anziano",
+    "aliases": [],
+    "review_flags": [
+      "episodio_da_verificare",
+      "revisione_editoriale_consigliata"
+    ],
+    "episode_source_status": "non_documentato"
+  },
+  {
+    "name": "Porunga",
+    "gender": "Maschio",
+    "hair": "Nessuno",
+    "origin": "Universo 7",
+    "race": "Drago",
+    "episode": null,
+    "saga": "Freezer",
+    "series": "Dragon Ball Z",
+    "source_group": "curated_starter",
+    "image_url": null,
+    "id": 61,
+    "slug": "porunga",
+    "aliases": [],
+    "review_flags": [
+      "episodio_da_verificare",
+      "revisione_editoriale_consigliata"
+    ],
+    "episode_source_status": "non_documentato"
+  },
+  {
+    "name": "Trunks del futuro",
+    "gender": "Maschio",
+    "hair": "Viola",
+    "origin": "Universo 7",
+    "race": "Saiyan ibrido",
+    "episode": null,
+    "saga": "Androidi",
+    "series": "Dragon Ball Z",
+    "source_group": "curated_starter",
+    "image_url": null,
+    "id": 62,
+    "slug": "trunks-del-futuro",
+    "aliases": [
+      "Future Trunks",
+      "Trunks"
+    ],
+    "review_flags": [
+      "episodio_da_verificare",
+      "revisione_editoriale_consigliata"
+    ],
+    "episode_source_status": "non_documentato"
+  },
+  {
+    "name": "Androide 19",
+    "gender": "Maschio",
+    "hair": "Calvo",
+    "origin": "Universo 7",
+    "race": "Androide",
+    "episode": null,
+    "saga": "Androidi",
+    "series": "Dragon Ball Z",
+    "source_group": "curated_starter",
+    "image_url": null,
+    "id": 63,
+    "slug": "androide-19",
+    "aliases": [],
+    "review_flags": [
+      "episodio_da_verificare",
+      "revisione_editoriale_consigliata"
+    ],
+    "episode_source_status": "non_documentato"
+  },
+  {
+    "name": "Dottor Gelo",
+    "gender": "Maschio",
+    "hair": "Bianco",
+    "origin": "Universo 7",
+    "race": "Androide",
+    "episode": null,
+    "saga": "Androidi",
+    "series": "Dragon Ball Z",
+    "source_group": "curated_starter",
+    "image_url": null,
+    "id": 64,
+    "slug": "dottor-gelo",
+    "aliases": [],
+    "review_flags": [
+      "episodio_da_verificare",
+      "revisione_editoriale_consigliata"
+    ],
+    "episode_source_status": "non_documentato"
+  },
+  {
+    "name": "Androide 16",
+    "gender": "Maschio",
+    "hair": "Arancione",
+    "origin": "Universo 7",
+    "race": "Androide",
+    "episode": null,
+    "saga": "Androidi",
+    "series": "Dragon Ball Z",
+    "source_group": "curated_starter",
+    "image_url": null,
+    "id": 65,
+    "slug": "androide-16",
+    "aliases": [],
+    "review_flags": [
+      "episodio_da_verificare",
+      "revisione_editoriale_consigliata"
+    ],
+    "episode_source_status": "non_documentato"
+  },
+  {
+    "name": "Androide 17",
+    "gender": "Maschio",
+    "hair": "Nero",
+    "origin": "Universo 7",
+    "race": "Androide",
+    "episode": null,
+    "saga": "Androidi",
+    "series": "Dragon Ball Z",
+    "source_group": "curated_starter",
+    "image_url": null,
+    "id": 66,
+    "slug": "androide-17",
+    "aliases": [],
+    "review_flags": [
+      "episodio_da_verificare",
+      "revisione_editoriale_consigliata"
+    ],
+    "episode_source_status": "non_documentato"
+  },
+  {
+    "name": "Androide 18",
+    "gender": "Femmina",
+    "hair": "Biondo",
+    "origin": "Universo 7",
+    "race": "Androide",
+    "episode": null,
+    "saga": "Androidi",
+    "series": "Dragon Ball Z",
+    "source_group": "curated_starter",
+    "image_url": null,
+    "id": 67,
+    "slug": "androide-18",
+    "aliases": [],
+    "review_flags": [
+      "episodio_da_verificare",
+      "revisione_editoriale_consigliata"
+    ],
+    "episode_source_status": "non_documentato"
+  },
+  {
+    "name": "Cell",
+    "gender": "Maschio",
+    "hair": "Calvo",
+    "origin": "Universo 7",
+    "race": "Bio-androide",
+    "episode": null,
+    "saga": "Cell",
+    "series": "Dragon Ball Z",
+    "source_group": "curated_starter",
+    "image_url": null,
+    "id": 68,
+    "slug": "cell",
+    "aliases": [],
+    "review_flags": [
+      "episodio_da_verificare",
+      "revisione_editoriale_consigliata"
+    ],
+    "episode_source_status": "non_documentato"
+  },
+  {
+    "name": "Mr. Satan",
+    "gender": "Maschio",
+    "hair": "Nero",
+    "origin": "Universo 7",
+    "race": "Umano",
+    "episode": null,
+    "saga": "Cell",
+    "series": "Dragon Ball Z",
+    "source_group": "curated_starter",
+    "image_url": null,
+    "id": 69,
+    "slug": "mr-satan",
+    "aliases": [
+      "Hercule"
+    ],
+    "review_flags": [
+      "episodio_da_verificare",
+      "revisione_editoriale_consigliata"
+    ],
+    "episode_source_status": "non_documentato"
+  },
+  {
+    "name": "Cell Junior",
+    "gender": "Maschio",
+    "hair": "Calvo",
+    "origin": "Universo 7",
+    "race": "Bio-androide",
+    "episode": null,
+    "saga": "Cell",
+    "series": "Dragon Ball Z",
+    "source_group": "curated_starter",
+    "image_url": null,
+    "id": 70,
+    "slug": "cell-junior",
+    "aliases": [],
+    "review_flags": [
+      "episodio_da_verificare",
+      "revisione_editoriale_consigliata"
+    ],
+    "episode_source_status": "non_documentato"
+  },
+  {
+    "name": "Videl",
+    "gender": "Femmina",
+    "hair": "Nero",
+    "origin": "Universo 7",
+    "race": "Umano",
+    "episode": null,
+    "saga": "Majin Bu",
+    "series": "Dragon Ball Z",
+    "source_group": "curated_starter",
+    "image_url": null,
+    "id": 71,
+    "slug": "videl",
+    "aliases": [],
+    "review_flags": [
+      "episodio_da_verificare",
+      "revisione_editoriale_consigliata"
+    ],
+    "episode_source_status": "non_documentato"
+  },
+  {
+    "name": "Goten",
+    "gender": "Maschio",
+    "hair": "Nero",
+    "origin": "Universo 7",
+    "race": "Saiyan ibrido",
+    "episode": null,
+    "saga": "Majin Bu",
+    "series": "Dragon Ball Z",
+    "source_group": "curated_starter",
+    "image_url": null,
+    "id": 72,
+    "slug": "goten",
+    "aliases": [],
+    "review_flags": [
+      "episodio_da_verificare",
+      "revisione_editoriale_consigliata"
+    ],
+    "episode_source_status": "non_documentato"
+  },
+  {
+    "name": "Trunks bambino",
+    "gender": "Maschio",
+    "hair": "Viola",
+    "origin": "Universo 7",
+    "race": "Saiyan ibrido",
+    "episode": null,
+    "saga": "Majin Bu",
+    "series": "Dragon Ball Z",
+    "source_group": "curated_starter",
+    "image_url": null,
+    "id": 73,
+    "slug": "trunks-bambino",
+    "aliases": [
+      "Kid Trunks"
+    ],
+    "review_flags": [
+      "episodio_da_verificare",
+      "revisione_editoriale_consigliata"
+    ],
+    "episode_source_status": "non_documentato"
+  },
+  {
+    "name": "Gotenks",
+    "gender": "Maschio",
+    "hair": "Nero",
+    "origin": "Universo 7",
+    "race": "Fusione Saiyan",
+    "episode": null,
+    "saga": "Majin Bu",
+    "series": "Dragon Ball Z",
+    "source_group": "curated_starter",
+    "image_url": null,
+    "id": 74,
+    "slug": "gotenks",
+    "aliases": [],
+    "review_flags": [
+      "episodio_da_verificare",
+      "revisione_editoriale_consigliata"
+    ],
+    "episode_source_status": "non_documentato"
+  },
+  {
+    "name": "Majin Bu",
+    "gender": "Maschio",
+    "hair": "Calvo",
+    "origin": "Universo 7",
+    "race": "Majin",
+    "episode": null,
+    "saga": "Majin Bu",
+    "series": "Dragon Ball Z",
+    "source_group": "curated_starter",
+    "image_url": null,
+    "id": 75,
+    "slug": "majin-bu",
+    "aliases": [
+      "Majin Buu",
+      "Fat Buu"
+    ],
+    "review_flags": [
+      "episodio_da_verificare",
+      "revisione_editoriale_consigliata"
+    ],
+    "episode_source_status": "non_documentato"
+  },
+  {
+    "name": "Kid Bu",
+    "gender": "Maschio",
+    "hair": "Calvo",
+    "origin": "Universo 7",
+    "race": "Majin",
+    "episode": null,
+    "saga": "Majin Bu",
+    "series": "Dragon Ball Z",
+    "source_group": "curated_starter",
+    "image_url": null,
+    "id": 76,
+    "slug": "kid-bu",
+    "aliases": [
+      "Kid Buu"
+    ],
+    "review_flags": [
+      "episodio_da_verificare",
+      "revisione_editoriale_consigliata"
+    ],
+    "episode_source_status": "non_documentato"
+  },
+  {
+    "name": "Babidi",
+    "gender": "Maschio",
+    "hair": "Calvo",
+    "origin": "Universo 7",
+    "race": "Sconosciuta",
+    "episode": null,
+    "saga": "Majin Bu",
+    "series": "Dragon Ball Z",
+    "source_group": "curated_starter",
+    "image_url": null,
+    "id": 77,
+    "slug": "babidi",
+    "aliases": [],
+    "review_flags": [
+      "episodio_da_verificare",
+      "razza_da_verificare",
+      "revisione_editoriale_consigliata"
+    ],
+    "episode_source_status": "non_documentato"
+  },
+  {
+    "name": "Darbula",
+    "gender": "Maschio",
+    "hair": "Nero",
+    "origin": "Universo 7",
+    "race": "Demone",
+    "episode": null,
+    "saga": "Majin Bu",
+    "series": "Dragon Ball Z",
+    "source_group": "curated_starter",
+    "image_url": null,
+    "id": 78,
+    "slug": "darbula",
+    "aliases": [
+      "Dabura"
+    ],
+    "review_flags": [
+      "episodio_da_verificare",
+      "revisione_editoriale_consigliata"
+    ],
+    "episode_source_status": "non_documentato"
+  },
+  {
+    "name": "Kaioshin dell'Est",
+    "gender": "Maschio",
+    "hair": "Bianco",
+    "origin": "Universo 7",
+    "race": "Divinità",
+    "episode": null,
+    "saga": "Majin Bu",
+    "series": "Dragon Ball Z",
+    "source_group": "curated_starter",
+    "image_url": null,
+    "id": 79,
+    "slug": "kaioshin-dell-est",
+    "aliases": [],
+    "review_flags": [
+      "episodio_da_verificare",
+      "revisione_editoriale_consigliata"
+    ],
+    "episode_source_status": "non_documentato"
+  },
+  {
+    "name": "Kibith",
+    "gender": "Maschio",
+    "hair": "Bianco",
+    "origin": "Universo 7",
+    "race": "Divinità",
+    "episode": null,
+    "saga": "Majin Bu",
+    "series": "Dragon Ball Z",
+    "source_group": "curated_starter",
+    "image_url": null,
+    "id": 80,
+    "slug": "kibith",
+    "aliases": [],
+    "review_flags": [
+      "episodio_da_verificare",
+      "revisione_editoriale_consigliata"
+    ],
+    "episode_source_status": "non_documentato"
+  },
+  {
+    "name": "Kaioshin il Sommo",
+    "gender": "Maschio",
+    "hair": "Bianco",
+    "origin": "Universo 7",
+    "race": "Divinità",
+    "episode": null,
+    "saga": "Majin Bu",
+    "series": "Dragon Ball Z",
+    "source_group": "curated_starter",
+    "image_url": null,
+    "id": 81,
+    "slug": "kaioshin-il-sommo",
+    "aliases": [],
+    "review_flags": [
+      "episodio_da_verificare",
+      "revisione_editoriale_consigliata"
+    ],
+    "episode_source_status": "non_documentato"
+  },
+  {
+    "name": "Spopovich",
+    "gender": "Maschio",
+    "hair": "Calvo",
+    "origin": "Universo 7",
+    "race": "Umano",
+    "episode": null,
+    "saga": "Majin Bu",
+    "series": "Dragon Ball Z",
+    "source_group": "curated_starter",
+    "image_url": null,
+    "id": 82,
+    "slug": "spopovich",
+    "aliases": [],
+    "review_flags": [
+      "episodio_da_verificare",
+      "revisione_editoriale_consigliata"
+    ],
+    "episode_source_status": "non_documentato"
+  },
+  {
+    "name": "Yamu",
+    "gender": "Maschio",
+    "hair": "Calvo",
+    "origin": "Universo 7",
+    "race": "Umano",
+    "episode": null,
+    "saga": "Majin Bu",
+    "series": "Dragon Ball Z",
+    "source_group": "curated_starter",
+    "image_url": null,
+    "id": 83,
+    "slug": "yamu",
+    "aliases": [],
+    "review_flags": [
+      "episodio_da_verificare",
+      "revisione_editoriale_consigliata"
+    ],
+    "episode_source_status": "non_documentato"
+  },
+  {
+    "name": "Pui Pui",
+    "gender": "Maschio",
+    "hair": "Calvo",
+    "origin": "Universo 7",
+    "race": "Sconosciuta",
+    "episode": null,
+    "saga": "Majin Bu",
+    "series": "Dragon Ball Z",
+    "source_group": "curated_starter",
+    "image_url": null,
+    "id": 84,
+    "slug": "pui-pui",
+    "aliases": [],
+    "review_flags": [
+      "episodio_da_verificare",
+      "razza_da_verificare",
+      "revisione_editoriale_consigliata"
+    ],
+    "episode_source_status": "non_documentato"
+  },
+  {
+    "name": "Yakon",
+    "gender": "Maschio",
+    "hair": "Nessuno",
+    "origin": "Universo 7",
+    "race": "Sconosciuta",
+    "episode": null,
+    "saga": "Majin Bu",
+    "series": "Dragon Ball Z",
+    "source_group": "curated_starter",
+    "image_url": null,
+    "id": 85,
+    "slug": "yakon",
+    "aliases": [],
+    "review_flags": [
+      "episodio_da_verificare",
+      "razza_da_verificare",
+      "colore_capelli_da_verificare",
+      "revisione_editoriale_consigliata"
+    ],
+    "episode_source_status": "non_documentato"
+  },
+  {
+    "name": "Pan",
+    "gender": "Femmina",
+    "hair": "Nero",
+    "origin": "Universo 7",
+    "race": "Saiyan ibrido",
+    "episode": null,
+    "saga": "Fine di Z",
+    "series": "Dragon Ball Z",
+    "source_group": "curated_starter",
+    "image_url": null,
+    "id": 86,
+    "slug": "pan",
+    "aliases": [],
+    "review_flags": [
+      "episodio_da_verificare",
+      "revisione_editoriale_consigliata"
+    ],
+    "episode_source_status": "non_documentato"
+  },
+  {
+    "name": "Ub",
+    "gender": "Maschio",
+    "hair": "Nero",
+    "origin": "Universo 7",
+    "race": "Umano",
+    "episode": null,
+    "saga": "Fine di Z",
+    "series": "Dragon Ball Z",
+    "source_group": "curated_starter",
+    "image_url": null,
+    "id": 87,
+    "slug": "ub",
+    "aliases": [],
+    "review_flags": [
+      "episodio_da_verificare",
+      "revisione_editoriale_consigliata"
+    ],
+    "episode_source_status": "non_documentato"
+  },
+  {
+    "name": "Giru",
+    "gender": "Maschio",
+    "hair": "Nessuno",
+    "origin": "Universo 7",
+    "race": "Robot",
+    "episode": null,
+    "saga": "Sfere del Drago dalle stelle nere",
+    "series": "Dragon Ball GT",
+    "source_group": "curated_starter",
+    "image_url": null,
+    "id": 88,
+    "slug": "giru",
+    "aliases": [],
+    "review_flags": [
+      "episodio_da_verificare",
+      "revisione_editoriale_consigliata"
+    ],
+    "episode_source_status": "non_documentato"
+  },
+  {
+    "name": "Ledgic",
+    "gender": "Maschio",
+    "hair": "Bianco",
+    "origin": "Universo 7",
+    "race": "Sconosciuta",
+    "episode": null,
+    "saga": "Sfere del Drago dalle stelle nere",
+    "series": "Dragon Ball GT",
+    "source_group": "curated_starter",
+    "image_url": null,
+    "id": 89,
+    "slug": "ledgic",
+    "aliases": [],
+    "review_flags": [
+      "episodio_da_verificare",
+      "razza_da_verificare",
+      "revisione_editoriale_consigliata"
+    ],
+    "episode_source_status": "non_documentato"
+  },
+  {
+    "name": "Bon Para",
+    "gender": "Maschio",
+    "hair": "Calvo",
+    "origin": "Universo 7",
+    "race": "Sconosciuta",
+    "episode": null,
+    "saga": "Sfere del Drago dalle stelle nere",
+    "series": "Dragon Ball GT",
+    "source_group": "curated_starter",
+    "image_url": null,
+    "id": 90,
+    "slug": "bon-para",
+    "aliases": [],
+    "review_flags": [
+      "episodio_da_verificare",
+      "razza_da_verificare",
+      "revisione_editoriale_consigliata"
+    ],
+    "episode_source_status": "non_documentato"
+  },
+  {
+    "name": "Don Para",
+    "gender": "Maschio",
+    "hair": "Calvo",
+    "origin": "Universo 7",
+    "race": "Sconosciuta",
+    "episode": null,
+    "saga": "Sfere del Drago dalle stelle nere",
+    "series": "Dragon Ball GT",
+    "source_group": "curated_starter",
+    "image_url": null,
+    "id": 91,
+    "slug": "don-para",
+    "aliases": [],
+    "review_flags": [
+      "episodio_da_verificare",
+      "razza_da_verificare",
+      "revisione_editoriale_consigliata"
+    ],
+    "episode_source_status": "non_documentato"
+  },
+  {
+    "name": "Son Para",
+    "gender": "Maschio",
+    "hair": "Calvo",
+    "origin": "Universo 7",
+    "race": "Sconosciuta",
+    "episode": null,
+    "saga": "Sfere del Drago dalle stelle nere",
+    "series": "Dragon Ball GT",
+    "source_group": "curated_starter",
+    "image_url": null,
+    "id": 92,
+    "slug": "son-para",
+    "aliases": [],
+    "review_flags": [
+      "episodio_da_verificare",
+      "razza_da_verificare",
+      "revisione_editoriale_consigliata"
+    ],
+    "episode_source_status": "non_documentato"
+  },
+  {
+    "name": "Zoonama",
+    "gender": "Maschio",
+    "hair": "Nessuno",
+    "origin": "Universo 7",
+    "race": "Sconosciuta",
+    "episode": null,
+    "saga": "Sfere del Drago dalle stelle nere",
+    "series": "Dragon Ball GT",
+    "source_group": "curated_starter",
+    "image_url": null,
+    "id": 93,
+    "slug": "zoonama",
+    "aliases": [],
+    "review_flags": [
+      "episodio_da_verificare",
+      "razza_da_verificare",
+      "colore_capelli_da_verificare",
+      "revisione_editoriale_consigliata"
+    ],
+    "episode_source_status": "non_documentato"
+  },
+  {
+    "name": "Dolltaki",
+    "gender": "Maschio",
+    "hair": "Nero",
+    "origin": "Universo 7",
+    "race": "Sconosciuta",
+    "episode": null,
+    "saga": "Sfere del Drago dalle stelle nere",
+    "series": "Dragon Ball GT",
+    "source_group": "curated_starter",
+    "image_url": null,
+    "id": 94,
+    "slug": "dolltaki",
+    "aliases": [],
+    "review_flags": [
+      "episodio_da_verificare",
+      "razza_da_verificare",
+      "revisione_editoriale_consigliata"
+    ],
+    "episode_source_status": "non_documentato"
+  },
+  {
+    "name": "Luud",
+    "gender": "Altro / senza genere",
+    "hair": "Nessuno",
+    "origin": "Universo 7",
+    "race": "Robot",
+    "episode": null,
+    "saga": "Sfere del Drago dalle stelle nere",
+    "series": "Dragon Ball GT",
+    "source_group": "curated_starter",
+    "image_url": null,
+    "id": 95,
+    "slug": "luud",
+    "aliases": [],
+    "review_flags": [
+      "episodio_da_verificare",
+      "revisione_editoriale_consigliata"
+    ],
+    "episode_source_status": "non_documentato"
+  },
+  {
+    "name": "Generale Rilldo",
+    "gender": "Maschio",
+    "hair": "Calvo",
+    "origin": "Universo 7",
+    "race": "Mutante meccanico",
+    "episode": null,
+    "saga": "Baby",
+    "series": "Dragon Ball GT",
+    "source_group": "curated_starter",
+    "image_url": null,
+    "id": 96,
+    "slug": "generale-rilldo",
+    "aliases": [],
+    "review_flags": [
+      "episodio_da_verificare",
+      "revisione_editoriale_consigliata"
+    ],
+    "episode_source_status": "non_documentato"
+  },
+  {
+    "name": "Dottor Myuu",
+    "gender": "Maschio",
+    "hair": "Bianco",
+    "origin": "Universo 7",
+    "race": "Scienziato mutante",
+    "episode": null,
+    "saga": "Baby",
+    "series": "Dragon Ball GT",
+    "source_group": "curated_starter",
+    "image_url": null,
+    "id": 97,
+    "slug": "dottor-myuu",
+    "aliases": [],
+    "review_flags": [
+      "episodio_da_verificare",
+      "revisione_editoriale_consigliata"
+    ],
+    "episode_source_status": "non_documentato"
+  },
+  {
+    "name": "Baby",
+    "gender": "Maschio",
+    "hair": "Bianco",
+    "origin": "Universo 7",
+    "race": "Tsufuru",
+    "episode": null,
+    "saga": "Baby",
+    "series": "Dragon Ball GT",
+    "source_group": "curated_starter",
+    "image_url": null,
+    "id": 98,
+    "slug": "baby",
+    "aliases": [],
+    "review_flags": [
+      "episodio_da_verificare",
+      "revisione_editoriale_consigliata"
+    ],
+    "episode_source_status": "non_documentato"
+  },
+  {
+    "name": "Super Androide 17",
+    "gender": "Maschio",
+    "hair": "Nero",
+    "origin": "Universo 7",
+    "race": "Androide",
+    "episode": null,
+    "saga": "Super 17",
+    "series": "Dragon Ball GT",
+    "source_group": "curated_starter",
+    "image_url": null,
+    "id": 99,
+    "slug": "super-androide-17",
+    "aliases": [],
+    "review_flags": [
+      "episodio_da_verificare",
+      "revisione_editoriale_consigliata"
+    ],
+    "episode_source_status": "non_documentato"
+  },
+  {
+    "name": "Li Shenron",
+    "gender": "Maschio",
+    "hair": "Nessuno",
+    "origin": "Universo 7",
+    "race": "Drago malvagio",
+    "episode": null,
+    "saga": "Draghi malvagi",
+    "series": "Dragon Ball GT",
+    "source_group": "curated_starter",
+    "image_url": null,
+    "id": 100,
+    "slug": "li-shenron",
+    "aliases": [
+      "Omega Shenron",
+      "Syn Shenron"
+    ],
+    "review_flags": [
+      "episodio_da_verificare",
+      "revisione_editoriale_consigliata"
+    ],
+    "episode_source_status": "non_documentato"
+  },
+  {
+    "name": "Nuova Shenron",
+    "gender": "Maschio",
+    "hair": "Nessuno",
+    "origin": "Universo 7",
+    "race": "Drago malvagio",
+    "episode": null,
+    "saga": "Draghi malvagi",
+    "series": "Dragon Ball GT",
+    "source_group": "curated_starter",
+    "image_url": null,
+    "id": 101,
+    "slug": "nuova-shenron",
+    "aliases": [],
+    "review_flags": [
+      "episodio_da_verificare",
+      "revisione_editoriale_consigliata"
+    ],
+    "episode_source_status": "non_documentato"
+  },
+  {
+    "name": "Eis Shenron",
+    "gender": "Maschio",
+    "hair": "Nessuno",
+    "origin": "Universo 7",
+    "race": "Drago malvagio",
+    "episode": null,
+    "saga": "Draghi malvagi",
+    "series": "Dragon Ball GT",
+    "source_group": "curated_starter",
+    "image_url": null,
+    "id": 102,
+    "slug": "eis-shenron",
+    "aliases": [],
+    "review_flags": [
+      "episodio_da_verificare",
+      "revisione_editoriale_consigliata"
+    ],
+    "episode_source_status": "non_documentato"
+  },
+  {
+    "name": "Oceanus Shenron",
+    "gender": "Femmina",
+    "hair": "Blu",
+    "origin": "Universo 7",
+    "race": "Drago malvagio",
+    "episode": null,
+    "saga": "Draghi malvagi",
+    "series": "Dragon Ball GT",
+    "source_group": "curated_starter",
+    "image_url": null,
+    "id": 103,
+    "slug": "oceanus-shenron",
+    "aliases": [],
+    "review_flags": [
+      "episodio_da_verificare",
+      "revisione_editoriale_consigliata"
+    ],
+    "episode_source_status": "non_documentato"
+  },
+  {
+    "name": "Haze Shenron",
+    "gender": "Maschio",
+    "hair": "Nessuno",
+    "origin": "Universo 7",
+    "race": "Drago malvagio",
+    "episode": null,
+    "saga": "Draghi malvagi",
+    "series": "Dragon Ball GT",
+    "source_group": "curated_starter",
+    "image_url": null,
+    "id": 104,
+    "slug": "haze-shenron",
+    "aliases": [],
+    "review_flags": [
+      "episodio_da_verificare",
+      "revisione_editoriale_consigliata"
+    ],
+    "episode_source_status": "non_documentato"
+  },
+  {
+    "name": "Rage Shenron",
+    "gender": "Maschio",
+    "hair": "Nessuno",
+    "origin": "Universo 7",
+    "race": "Drago malvagio",
+    "episode": null,
+    "saga": "Draghi malvagi",
+    "series": "Dragon Ball GT",
+    "source_group": "curated_starter",
+    "image_url": null,
+    "id": 105,
+    "slug": "rage-shenron",
+    "aliases": [],
+    "review_flags": [
+      "episodio_da_verificare",
+      "revisione_editoriale_consigliata"
+    ],
+    "episode_source_status": "non_documentato"
+  },
+  {
+    "name": "Naturon Shenron",
+    "gender": "Maschio",
+    "hair": "Nessuno",
+    "origin": "Universo 7",
+    "race": "Drago malvagio",
+    "episode": null,
+    "saga": "Draghi malvagi",
+    "series": "Dragon Ball GT",
+    "source_group": "curated_starter",
+    "image_url": null,
+    "id": 106,
+    "slug": "naturon-shenron",
+    "aliases": [],
+    "review_flags": [
+      "episodio_da_verificare",
+      "revisione_editoriale_consigliata"
+    ],
+    "episode_source_status": "non_documentato"
+  },
+  {
+    "name": "Champa",
+    "gender": "Maschio",
+    "hair": "Nessuno",
+    "origin": "Universo 6",
+    "race": "Divinità",
+    "episode": null,
+    "saga": "Universo 6",
+    "series": "Dragon Ball Super",
+    "source_group": "curated_starter",
+    "image_url": null,
+    "id": 107,
+    "slug": "champa",
+    "aliases": [],
+    "review_flags": [
+      "episodio_da_verificare",
+      "revisione_editoriale_consigliata"
+    ],
+    "episode_source_status": "non_documentato"
+  },
+  {
+    "name": "Vados",
+    "gender": "Femmina",
+    "hair": "Bianco",
+    "origin": "Universo 6",
+    "race": "Angelo",
+    "episode": null,
+    "saga": "Universo 6",
+    "series": "Dragon Ball Super",
+    "source_group": "curated_starter",
+    "image_url": null,
+    "id": 108,
+    "slug": "vados",
+    "aliases": [],
+    "review_flags": [
+      "episodio_da_verificare",
+      "revisione_editoriale_consigliata"
+    ],
+    "episode_source_status": "non_documentato"
+  },
+  {
+    "name": "Hit",
+    "gender": "Maschio",
+    "hair": "Calvo",
+    "origin": "Universo 6",
+    "race": "Sconosciuta",
+    "episode": null,
+    "saga": "Universo 6",
+    "series": "Dragon Ball Super",
+    "source_group": "curated_starter",
+    "image_url": null,
+    "id": 109,
+    "slug": "hit",
+    "aliases": [],
+    "review_flags": [
+      "episodio_da_verificare",
+      "razza_da_verificare",
+      "revisione_editoriale_consigliata"
+    ],
+    "episode_source_status": "non_documentato"
+  },
+  {
+    "name": "Cabba",
+    "gender": "Maschio",
+    "hair": "Nero",
+    "origin": "Universo 6",
+    "race": "Saiyan",
+    "episode": null,
+    "saga": "Universo 6",
+    "series": "Dragon Ball Super",
+    "source_group": "curated_starter",
+    "image_url": null,
+    "id": 110,
+    "slug": "cabba",
+    "aliases": [],
+    "review_flags": [
+      "episodio_da_verificare",
+      "revisione_editoriale_consigliata"
+    ],
+    "episode_source_status": "non_documentato"
+  },
+  {
+    "name": "Frost",
+    "gender": "Maschio",
+    "hair": "Calvo",
+    "origin": "Universo 6",
+    "race": "Razza di Freezer",
+    "episode": null,
+    "saga": "Universo 6",
+    "series": "Dragon Ball Super",
+    "source_group": "curated_starter",
+    "image_url": null,
+    "id": 111,
+    "slug": "frost",
+    "aliases": [],
+    "review_flags": [
+      "episodio_da_verificare",
+      "revisione_editoriale_consigliata"
+    ],
+    "episode_source_status": "non_documentato"
+  },
+  {
+    "name": "Botamo",
+    "gender": "Maschio",
+    "hair": "Nessuno",
+    "origin": "Universo 6",
+    "race": "Sconosciuta",
+    "episode": null,
+    "saga": "Universo 6",
+    "series": "Dragon Ball Super",
+    "source_group": "curated_starter",
+    "image_url": null,
+    "id": 112,
+    "slug": "botamo",
+    "aliases": [],
+    "review_flags": [
+      "episodio_da_verificare",
+      "razza_da_verificare",
+      "colore_capelli_da_verificare",
+      "revisione_editoriale_consigliata"
+    ],
+    "episode_source_status": "non_documentato"
+  },
+  {
+    "name": "Magetta",
+    "gender": "Altro / senza genere",
+    "hair": "Nessuno",
+    "origin": "Universo 6",
+    "race": "Metalman",
+    "episode": null,
+    "saga": "Universo 6",
+    "series": "Dragon Ball Super",
+    "source_group": "curated_starter",
+    "image_url": null,
+    "id": 113,
+    "slug": "magetta",
+    "aliases": [],
+    "review_flags": [
+      "episodio_da_verificare",
+      "revisione_editoriale_consigliata"
+    ],
+    "episode_source_status": "non_documentato"
+  },
+  {
+    "name": "Monaka",
+    "gender": "Maschio",
+    "hair": "Nessuno",
+    "origin": "Universo 7",
+    "race": "Sconosciuta",
+    "episode": null,
+    "saga": "Universo 6",
+    "series": "Dragon Ball Super",
+    "source_group": "curated_starter",
+    "image_url": null,
+    "id": 114,
+    "slug": "monaka",
+    "aliases": [],
+    "review_flags": [
+      "episodio_da_verificare",
+      "razza_da_verificare",
+      "colore_capelli_da_verificare",
+      "revisione_editoriale_consigliata"
+    ],
+    "episode_source_status": "non_documentato"
+  },
+  {
+    "name": "Zeno",
+    "gender": "Maschio",
+    "hair": "Nessuno",
+    "origin": "Sconosciuto",
+    "race": "Divinità",
+    "episode": null,
+    "saga": "Universo 6",
+    "series": "Dragon Ball Super",
+    "source_group": "curated_starter",
+    "image_url": null,
+    "id": 115,
+    "slug": "zeno",
+    "aliases": [
+      "Zen-Oh",
+      "Zeno-sama"
+    ],
+    "review_flags": [
+      "episodio_da_verificare",
+      "universo_da_verificare",
+      "revisione_editoriale_consigliata"
+    ],
+    "episode_source_status": "non_documentato"
+  },
+  {
+    "name": "Gran Sacerdote",
+    "gender": "Maschio",
+    "hair": "Bianco",
+    "origin": "Sconosciuto",
+    "race": "Angelo",
+    "episode": null,
+    "saga": "Sopravvivenza degli universi",
+    "series": "Dragon Ball Super",
+    "source_group": "curated_starter",
+    "image_url": null,
+    "id": 116,
+    "slug": "gran-sacerdote",
+    "aliases": [],
+    "review_flags": [
+      "episodio_da_verificare",
+      "universo_da_verificare",
+      "revisione_editoriale_consigliata"
+    ],
+    "episode_source_status": "non_documentato"
+  },
+  {
+    "name": "Goku Black",
+    "gender": "Maschio",
+    "hair": "Nero",
+    "origin": "Universo 10",
+    "race": "Divinità",
+    "episode": null,
+    "saga": "Trunks del futuro",
+    "series": "Dragon Ball Super",
+    "source_group": "curated_starter",
+    "image_url": null,
+    "id": 117,
+    "slug": "goku-black",
+    "aliases": [
+      "Black Goku"
+    ],
+    "review_flags": [
+      "episodio_da_verificare",
+      "revisione_editoriale_consigliata"
+    ],
+    "episode_source_status": "non_documentato"
+  },
+  {
+    "name": "Zamasu",
+    "gender": "Maschio",
+    "hair": "Bianco",
+    "origin": "Universo 10",
+    "race": "Divinità",
+    "episode": null,
+    "saga": "Trunks del futuro",
+    "series": "Dragon Ball Super",
+    "source_group": "curated_starter",
+    "image_url": null,
+    "id": 118,
+    "slug": "zamasu",
+    "aliases": [],
+    "review_flags": [
+      "episodio_da_verificare",
+      "revisione_editoriale_consigliata"
+    ],
+    "episode_source_status": "non_documentato"
+  },
+  {
+    "name": "Gowasu",
+    "gender": "Maschio",
+    "hair": "Bianco",
+    "origin": "Universo 10",
+    "race": "Divinità",
+    "episode": null,
+    "saga": "Trunks del futuro",
+    "series": "Dragon Ball Super",
+    "source_group": "curated_starter",
+    "image_url": null,
+    "id": 119,
+    "slug": "gowasu",
+    "aliases": [],
+    "review_flags": [
+      "episodio_da_verificare",
+      "revisione_editoriale_consigliata"
+    ],
+    "episode_source_status": "non_documentato"
+  },
+  {
+    "name": "Jiren",
+    "gender": "Maschio",
+    "hair": "Calvo",
+    "origin": "Universo 11",
+    "race": "Sconosciuta",
+    "episode": 85,
+    "saga": "Sopravvivenza degli universi",
+    "series": "Dragon Ball Super",
+    "source_group": "curated_starter",
+    "image_url": null,
+    "id": 120,
+    "slug": "jiren",
+    "aliases": [],
+    "review_flags": [
+      "razza_da_verificare",
+      "revisione_editoriale_consigliata"
+    ],
+    "episode_source_status": "preliminare"
+  },
+  {
+    "name": "Toppo",
+    "gender": "Maschio",
+    "hair": "Calvo",
+    "origin": "Universo 11",
+    "race": "Sconosciuta",
+    "episode": null,
+    "saga": "Sopravvivenza degli universi",
+    "series": "Dragon Ball Super",
+    "source_group": "curated_starter",
+    "image_url": null,
+    "id": 121,
+    "slug": "toppo",
+    "aliases": [],
+    "review_flags": [
+      "episodio_da_verificare",
+      "razza_da_verificare",
+      "revisione_editoriale_consigliata"
+    ],
+    "episode_source_status": "non_documentato"
+  },
+  {
+    "name": "Dyspo",
+    "gender": "Maschio",
+    "hair": "Nessuno",
+    "origin": "Universo 11",
+    "race": "Sconosciuta",
+    "episode": null,
+    "saga": "Sopravvivenza degli universi",
+    "series": "Dragon Ball Super",
+    "source_group": "curated_starter",
+    "image_url": null,
+    "id": 122,
+    "slug": "dyspo",
+    "aliases": [],
+    "review_flags": [
+      "episodio_da_verificare",
+      "razza_da_verificare",
+      "colore_capelli_da_verificare",
+      "revisione_editoriale_consigliata"
+    ],
+    "episode_source_status": "non_documentato"
+  },
+  {
+    "name": "Caulifla",
+    "gender": "Femmina",
+    "hair": "Nero",
+    "origin": "Universo 6",
+    "race": "Saiyan",
+    "episode": null,
+    "saga": "Sopravvivenza degli universi",
+    "series": "Dragon Ball Super",
+    "source_group": "curated_starter",
+    "image_url": null,
+    "id": 123,
+    "slug": "caulifla",
+    "aliases": [],
+    "review_flags": [
+      "episodio_da_verificare",
+      "revisione_editoriale_consigliata"
+    ],
+    "episode_source_status": "non_documentato"
+  },
+  {
+    "name": "Kale",
+    "gender": "Femmina",
+    "hair": "Nero",
+    "origin": "Universo 6",
+    "race": "Saiyan",
+    "episode": null,
+    "saga": "Sopravvivenza degli universi",
+    "series": "Dragon Ball Super",
+    "source_group": "curated_starter",
+    "image_url": null,
+    "id": 124,
+    "slug": "kale",
+    "aliases": [],
+    "review_flags": [
+      "episodio_da_verificare",
+      "revisione_editoriale_consigliata"
+    ],
+    "episode_source_status": "non_documentato"
+  },
+  {
+    "name": "Kefla",
+    "gender": "Femmina",
+    "hair": "Nero",
+    "origin": "Universo 6",
+    "race": "Fusione Saiyan",
+    "episode": null,
+    "saga": "Sopravvivenza degli universi",
+    "series": "Dragon Ball Super",
+    "source_group": "curated_starter",
+    "image_url": null,
+    "id": 125,
+    "slug": "kefla",
+    "aliases": [],
+    "review_flags": [
+      "episodio_da_verificare",
+      "revisione_editoriale_consigliata"
+    ],
+    "episode_source_status": "non_documentato"
+  },
+  {
+    "name": "Ribrianne",
+    "gender": "Femmina",
+    "hair": "Verde",
+    "origin": "Universo 2",
+    "race": "Sconosciuta",
+    "episode": null,
+    "saga": "Sopravvivenza degli universi",
+    "series": "Dragon Ball Super",
+    "source_group": "curated_starter",
+    "image_url": null,
+    "id": 126,
+    "slug": "ribrianne",
+    "aliases": [],
+    "review_flags": [
+      "episodio_da_verificare",
+      "razza_da_verificare",
+      "revisione_editoriale_consigliata"
+    ],
+    "episode_source_status": "non_documentato"
+  },
+  {
+    "name": "Bergamo",
+    "gender": "Maschio",
+    "hair": "Nessuno",
+    "origin": "Universo 9",
+    "race": "Sconosciuta",
+    "episode": null,
+    "saga": "Sopravvivenza degli universi",
+    "series": "Dragon Ball Super",
+    "source_group": "curated_starter",
+    "image_url": null,
+    "id": 127,
+    "slug": "bergamo",
+    "aliases": [],
+    "review_flags": [
+      "episodio_da_verificare",
+      "razza_da_verificare",
+      "colore_capelli_da_verificare",
+      "revisione_editoriale_consigliata"
+    ],
+    "episode_source_status": "non_documentato"
+  },
+  {
+    "name": "Basil",
+    "gender": "Maschio",
+    "hair": "Nessuno",
+    "origin": "Universo 9",
+    "race": "Sconosciuta",
+    "episode": null,
+    "saga": "Sopravvivenza degli universi",
+    "series": "Dragon Ball Super",
+    "source_group": "curated_starter",
+    "image_url": null,
+    "id": 128,
+    "slug": "basil",
+    "aliases": [],
+    "review_flags": [
+      "episodio_da_verificare",
+      "razza_da_verificare",
+      "colore_capelli_da_verificare",
+      "revisione_editoriale_consigliata"
+    ],
+    "episode_source_status": "non_documentato"
+  },
+  {
+    "name": "Lavender",
+    "gender": "Maschio",
+    "hair": "Nessuno",
+    "origin": "Universo 9",
+    "race": "Sconosciuta",
+    "episode": null,
+    "saga": "Sopravvivenza degli universi",
+    "series": "Dragon Ball Super",
+    "source_group": "curated_starter",
+    "image_url": null,
+    "id": 129,
+    "slug": "lavender",
+    "aliases": [],
+    "review_flags": [
+      "episodio_da_verificare",
+      "razza_da_verificare",
+      "colore_capelli_da_verificare",
+      "revisione_editoriale_consigliata"
+    ],
+    "episode_source_status": "non_documentato"
+  },
+  {
+    "name": "Belmod",
+    "gender": "Maschio",
+    "hair": "Rosso",
+    "origin": "Universo 11",
+    "race": "Divinità",
+    "episode": null,
+    "saga": "Sopravvivenza degli universi",
+    "series": "Dragon Ball Super",
+    "source_group": "curated_starter",
+    "image_url": null,
+    "id": 130,
+    "slug": "belmod",
+    "aliases": [],
+    "review_flags": [
+      "episodio_da_verificare",
+      "revisione_editoriale_consigliata"
+    ],
+    "episode_source_status": "non_documentato"
+  },
+  {
+    "name": "Marcarita",
+    "gender": "Femmina",
+    "hair": "Bianco",
+    "origin": "Universo 11",
+    "race": "Angelo",
+    "episode": null,
+    "saga": "Sopravvivenza degli universi",
+    "series": "Dragon Ball Super",
+    "source_group": "curated_starter",
+    "image_url": null,
+    "id": 131,
+    "slug": "marcarita",
+    "aliases": [],
+    "review_flags": [
+      "episodio_da_verificare",
+      "revisione_editoriale_consigliata"
+    ],
+    "episode_source_status": "non_documentato"
+  },
+  {
+    "name": "Sidra",
+    "gender": "Maschio",
+    "hair": "Calvo",
+    "origin": "Universo 9",
+    "race": "Divinità",
+    "episode": null,
+    "saga": "Sopravvivenza degli universi",
+    "series": "Dragon Ball Super",
+    "source_group": "curated_starter",
+    "image_url": null,
+    "id": 132,
+    "slug": "sidra",
+    "aliases": [],
+    "review_flags": [
+      "episodio_da_verificare",
+      "revisione_editoriale_consigliata"
+    ],
+    "episode_source_status": "non_documentato"
+  },
+  {
+    "name": "Heles",
+    "gender": "Femmina",
+    "hair": "Nero",
+    "origin": "Universo 2",
+    "race": "Divinità",
+    "episode": null,
+    "saga": "Sopravvivenza degli universi",
+    "series": "Dragon Ball Super",
+    "source_group": "curated_starter",
+    "image_url": null,
+    "id": 133,
+    "slug": "heles",
+    "aliases": [],
+    "review_flags": [
+      "episodio_da_verificare",
+      "revisione_editoriale_consigliata"
+    ],
+    "episode_source_status": "non_documentato"
+  },
+  {
+    "name": "Quitela",
+    "gender": "Maschio",
+    "hair": "Nessuno",
+    "origin": "Universo 4",
+    "race": "Divinità",
+    "episode": null,
+    "saga": "Sopravvivenza degli universi",
+    "series": "Dragon Ball Super",
+    "source_group": "curated_starter",
+    "image_url": null,
+    "id": 134,
+    "slug": "quitela",
+    "aliases": [],
+    "review_flags": [
+      "episodio_da_verificare",
+      "revisione_editoriale_consigliata"
+    ],
+    "episode_source_status": "non_documentato"
+  },
+  {
+    "name": "Super Shenron",
+    "gender": "Maschio",
+    "hair": "Nessuno",
+    "origin": "Sconosciuto",
+    "race": "Drago",
+    "episode": null,
+    "saga": "Universo 6",
+    "series": "Dragon Ball Super",
+    "source_group": "curated_starter",
+    "image_url": null,
+    "id": 135,
+    "slug": "super-shenron",
+    "aliases": [],
+    "review_flags": [
+      "episodio_da_verificare",
+      "universo_da_verificare",
+      "revisione_editoriale_consigliata"
+    ],
+    "episode_source_status": "non_documentato"
+  },
+  {
+    "name": "Glorio",
+    "gender": "Maschio",
+    "hair": "Bianco",
+    "origin": "Sconosciuto",
+    "race": "Demone",
+    "episode": 1,
+    "saga": "Regno Demoniaco",
+    "series": "Dragon Ball Daima",
+    "source_group": "curated_starter",
+    "image_url": null,
+    "id": 136,
+    "slug": "glorio",
+    "aliases": [],
+    "review_flags": [
+      "universo_da_verificare",
+      "revisione_editoriale_consigliata"
+    ],
+    "episode_source_status": "preliminare"
+  },
+  {
+    "name": "Panzy",
+    "gender": "Femmina",
+    "hair": "Rosa",
+    "origin": "Sconosciuto",
+    "race": "Demone",
+    "episode": null,
+    "saga": "Regno Demoniaco",
+    "series": "Dragon Ball Daima",
+    "source_group": "curated_starter",
+    "image_url": null,
+    "id": 137,
+    "slug": "panzy",
+    "aliases": [
+      "Pansy"
+    ],
+    "review_flags": [
+      "episodio_da_verificare",
+      "universo_da_verificare",
+      "revisione_editoriale_consigliata"
+    ],
+    "episode_source_status": "non_documentato"
+  },
+  {
+    "name": "Gomah",
+    "gender": "Maschio",
+    "hair": "Nessuno",
+    "origin": "Sconosciuto",
+    "race": "Demone",
+    "episode": 1,
+    "saga": "Regno Demoniaco",
+    "series": "Dragon Ball Daima",
+    "source_group": "curated_starter",
+    "image_url": null,
+    "id": 138,
+    "slug": "gomah",
+    "aliases": [],
+    "review_flags": [
+      "universo_da_verificare",
+      "revisione_editoriale_consigliata"
+    ],
+    "episode_source_status": "preliminare"
+  },
+  {
+    "name": "Degesu",
+    "gender": "Maschio",
+    "hair": "Bianco",
+    "origin": "Sconosciuto",
+    "race": "Demone",
+    "episode": 1,
+    "saga": "Regno Demoniaco",
+    "series": "Dragon Ball Daima",
+    "source_group": "curated_starter",
+    "image_url": null,
+    "id": 139,
+    "slug": "degesu",
+    "aliases": [],
+    "review_flags": [
+      "universo_da_verificare",
+      "revisione_editoriale_consigliata"
+    ],
+    "episode_source_status": "preliminare"
+  },
+  {
+    "name": "Dottoressa Arinsu",
+    "gender": "Femmina",
+    "hair": "Bianco",
+    "origin": "Sconosciuto",
+    "race": "Demone",
+    "episode": 1,
+    "saga": "Regno Demoniaco",
+    "series": "Dragon Ball Daima",
+    "source_group": "curated_starter",
+    "image_url": null,
+    "id": 140,
+    "slug": "dottoressa-arinsu",
+    "aliases": [],
+    "review_flags": [
+      "universo_da_verificare",
+      "revisione_editoriale_consigliata"
+    ],
+    "episode_source_status": "preliminare"
+  },
+  {
+    "name": "Neva",
+    "gender": "Maschio",
+    "hair": "Bianco",
+    "origin": "Sconosciuto",
+    "race": "Namecciano",
+    "episode": 1,
+    "saga": "Regno Demoniaco",
+    "series": "Dragon Ball Daima",
+    "source_group": "curated_starter",
+    "image_url": null,
+    "id": 141,
+    "slug": "neva",
+    "aliases": [],
+    "review_flags": [
+      "universo_da_verificare",
+      "revisione_editoriale_consigliata"
+    ],
+    "episode_source_status": "preliminare"
+  },
+  {
+    "name": "Hybis",
+    "gender": "Maschio",
+    "hair": "Nero",
+    "origin": "Sconosciuto",
+    "race": "Demone",
+    "episode": null,
+    "saga": "Regno Demoniaco",
+    "series": "Dragon Ball Daima",
+    "source_group": "curated_starter",
+    "image_url": null,
+    "id": 142,
+    "slug": "hybis",
+    "aliases": [],
+    "review_flags": [
+      "episodio_da_verificare",
+      "universo_da_verificare",
+      "revisione_editoriale_consigliata"
+    ],
+    "episode_source_status": "non_documentato"
+  },
+  {
+    "name": "Re Kadan",
+    "gender": "Maschio",
+    "hair": "Nessuno",
+    "origin": "Sconosciuto",
+    "race": "Demone",
+    "episode": null,
+    "saga": "Regno Demoniaco",
+    "series": "Dragon Ball Daima",
+    "source_group": "curated_starter",
+    "image_url": null,
+    "id": 143,
+    "slug": "re-kadan",
+    "aliases": [],
+    "review_flags": [
+      "episodio_da_verificare",
+      "universo_da_verificare",
+      "revisione_editoriale_consigliata"
+    ],
+    "episode_source_status": "non_documentato"
+  },
+  {
+    "name": "Tamagami Numero 1",
+    "gender": "Altro / senza genere",
+    "hair": "Nessuno",
+    "origin": "Sconosciuto",
+    "race": "Guardiano",
+    "episode": null,
+    "saga": "Regno Demoniaco",
+    "series": "Dragon Ball Daima",
+    "source_group": "curated_starter",
+    "image_url": null,
+    "id": 144,
+    "slug": "tamagami-numero-1",
+    "aliases": [],
+    "review_flags": [
+      "episodio_da_verificare",
+      "universo_da_verificare",
+      "revisione_editoriale_consigliata"
+    ],
+    "episode_source_status": "non_documentato"
+  },
+  {
+    "name": "Tamagami Numero 2",
+    "gender": "Altro / senza genere",
+    "hair": "Nessuno",
+    "origin": "Sconosciuto",
+    "race": "Guardiano",
+    "episode": null,
+    "saga": "Regno Demoniaco",
+    "series": "Dragon Ball Daima",
+    "source_group": "curated_starter",
+    "image_url": null,
+    "id": 145,
+    "slug": "tamagami-numero-2",
+    "aliases": [],
+    "review_flags": [
+      "episodio_da_verificare",
+      "universo_da_verificare",
+      "revisione_editoriale_consigliata"
+    ],
+    "episode_source_status": "non_documentato"
+  },
+  {
+    "name": "Tamagami Numero 3",
+    "gender": "Altro / senza genere",
+    "hair": "Nessuno",
+    "origin": "Sconosciuto",
+    "race": "Guardiano",
+    "episode": null,
+    "saga": "Regno Demoniaco",
+    "series": "Dragon Ball Daima",
+    "source_group": "curated_starter",
+    "image_url": null,
+    "id": 146,
+    "slug": "tamagami-numero-3",
+    "aliases": [],
+    "review_flags": [
+      "episodio_da_verificare",
+      "universo_da_verificare",
+      "revisione_editoriale_consigliata"
+    ],
+    "episode_source_status": "non_documentato"
+  },
+  {
+    "name": "Majin Kuu",
+    "gender": "Maschio",
+    "hair": "Nessuno",
+    "origin": "Sconosciuto",
+    "race": "Majin",
+    "episode": null,
+    "saga": "Regno Demoniaco",
+    "series": "Dragon Ball Daima",
+    "source_group": "curated_starter",
+    "image_url": null,
+    "id": 147,
+    "slug": "majin-kuu",
+    "aliases": [],
+    "review_flags": [
+      "episodio_da_verificare",
+      "universo_da_verificare",
+      "revisione_editoriale_consigliata"
+    ],
+    "episode_source_status": "non_documentato"
+  },
+  {
+    "name": "Majin Duu",
+    "gender": "Maschio",
+    "hair": "Nessuno",
+    "origin": "Sconosciuto",
+    "race": "Majin",
+    "episode": null,
+    "saga": "Regno Demoniaco",
+    "series": "Dragon Ball Daima",
+    "source_group": "curated_starter",
+    "image_url": null,
+    "id": 148,
+    "slug": "majin-duu",
+    "aliases": [],
+    "review_flags": [
+      "episodio_da_verificare",
+      "universo_da_verificare",
+      "revisione_editoriale_consigliata"
+    ],
+    "episode_source_status": "non_documentato"
+  },
+  {
+    "name": "Garlic Jr.",
+    "gender": "Maschio",
+    "hair": "Nessuno",
+    "origin": "Universo 7",
+    "race": "Demone",
+    "episode": "Film",
+    "saga": "La vendetta divina",
+    "series": "Dragon Ball Z · Film",
+    "source_group": "curated_starter",
+    "image_url": null,
+    "id": 149,
+    "slug": "garlic-jr",
+    "aliases": [],
+    "review_flags": [
+      "revisione_editoriale_consigliata"
+    ],
+    "episode_source_status": "film"
+  },
+  {
+    "name": "Dottor Wheelo",
+    "gender": "Maschio",
+    "hair": "Nessuno",
+    "origin": "Universo 7",
+    "race": "Cervello biomeccanico",
+    "episode": "Film",
+    "saga": "Il più forte del mondo",
+    "series": "Dragon Ball Z · Film",
+    "source_group": "curated_starter",
+    "image_url": null,
+    "id": 150,
+    "slug": "dottor-wheelo",
+    "aliases": [],
+    "review_flags": [
+      "revisione_editoriale_consigliata"
+    ],
+    "episode_source_status": "film"
+  },
+  {
+    "name": "Turles",
+    "gender": "Maschio",
+    "hair": "Nero",
+    "origin": "Universo 7",
+    "race": "Saiyan",
+    "episode": "Film",
+    "saga": "La grande battaglia per il destino del mondo",
+    "series": "Dragon Ball Z · Film",
+    "source_group": "curated_starter",
+    "image_url": null,
+    "id": 151,
+    "slug": "turles",
+    "aliases": [],
+    "review_flags": [
+      "revisione_editoriale_consigliata"
+    ],
+    "episode_source_status": "film"
+  },
+  {
+    "name": "Lord Slug",
+    "gender": "Maschio",
+    "hair": "Calvo",
+    "origin": "Universo 7",
+    "race": "Namecciano",
+    "episode": "Film",
+    "saga": "La sfida dei guerrieri invincibili",
+    "series": "Dragon Ball Z · Film",
+    "source_group": "curated_starter",
+    "image_url": null,
+    "id": 152,
+    "slug": "lord-slug",
+    "aliases": [],
+    "review_flags": [
+      "revisione_editoriale_consigliata"
+    ],
+    "episode_source_status": "film"
+  },
+  {
+    "name": "Cooler",
+    "gender": "Maschio",
+    "hair": "Calvo",
+    "origin": "Universo 7",
+    "race": "Razza di Freezer",
+    "episode": "Film",
+    "saga": "Il destino dei Saiyan",
+    "series": "Dragon Ball Z · Film",
+    "source_group": "curated_starter",
+    "image_url": null,
+    "id": 153,
+    "slug": "cooler",
+    "aliases": [],
+    "review_flags": [
+      "revisione_editoriale_consigliata"
+    ],
+    "episode_source_status": "film"
+  },
+  {
+    "name": "Metal Cooler",
+    "gender": "Maschio",
+    "hair": "Calvo",
+    "origin": "Universo 7",
+    "race": "Androide",
+    "episode": "Film",
+    "saga": "L'invasione di Neo Namecc",
+    "series": "Dragon Ball Z · Film",
+    "source_group": "curated_starter",
+    "image_url": null,
+    "id": 154,
+    "slug": "metal-cooler",
+    "aliases": [],
+    "review_flags": [
+      "revisione_editoriale_consigliata"
+    ],
+    "episode_source_status": "film"
+  },
+  {
+    "name": "Androide 13",
+    "gender": "Maschio",
+    "hair": "Bianco",
+    "origin": "Universo 7",
+    "race": "Androide",
+    "episode": "Film",
+    "saga": "I tre Super Saiyan",
+    "series": "Dragon Ball Z · Film",
+    "source_group": "curated_starter",
+    "image_url": null,
+    "id": 155,
+    "slug": "androide-13",
+    "aliases": [],
+    "review_flags": [
+      "revisione_editoriale_consigliata"
+    ],
+    "episode_source_status": "film"
+  },
+  {
+    "name": "Androide 14",
+    "gender": "Maschio",
+    "hair": "Nero",
+    "origin": "Universo 7",
+    "race": "Androide",
+    "episode": "Film",
+    "saga": "I tre Super Saiyan",
+    "series": "Dragon Ball Z · Film",
+    "source_group": "curated_starter",
+    "image_url": null,
+    "id": 156,
+    "slug": "androide-14",
+    "aliases": [],
+    "review_flags": [
+      "revisione_editoriale_consigliata"
+    ],
+    "episode_source_status": "film"
+  },
+  {
+    "name": "Androide 15",
+    "gender": "Maschio",
+    "hair": "Nero",
+    "origin": "Universo 7",
+    "race": "Androide",
+    "episode": "Film",
+    "saga": "I tre Super Saiyan",
+    "series": "Dragon Ball Z · Film",
+    "source_group": "curated_starter",
+    "image_url": null,
+    "id": 157,
+    "slug": "androide-15",
+    "aliases": [],
+    "review_flags": [
+      "revisione_editoriale_consigliata"
+    ],
+    "episode_source_status": "film"
+  },
+  {
+    "name": "Broly (Z)",
+    "gender": "Maschio",
+    "hair": "Nero",
+    "origin": "Universo 7",
+    "race": "Saiyan",
+    "episode": "Film",
+    "saga": "Il Super Saiyan della leggenda",
+    "series": "Dragon Ball Z · Film",
+    "source_group": "curated_starter",
+    "image_url": null,
+    "id": 158,
+    "slug": "broly-z",
+    "aliases": [],
+    "review_flags": [
+      "revisione_editoriale_consigliata"
+    ],
+    "episode_source_status": "film"
+  },
+  {
+    "name": "Paragas (Z)",
+    "gender": "Maschio",
+    "hair": "Nero",
+    "origin": "Universo 7",
+    "race": "Saiyan",
+    "episode": "Film",
+    "saga": "Il Super Saiyan della leggenda",
+    "series": "Dragon Ball Z · Film",
+    "source_group": "curated_starter",
+    "image_url": null,
+    "id": 159,
+    "slug": "paragas-z",
+    "aliases": [
+      "Paragus"
+    ],
+    "review_flags": [
+      "revisione_editoriale_consigliata"
+    ],
+    "episode_source_status": "film"
+  },
+  {
+    "name": "Bojack",
+    "gender": "Maschio",
+    "hair": "Arancione",
+    "origin": "Universo 7",
+    "race": "Sconosciuta",
+    "episode": "Film",
+    "saga": "La minaccia del demone malvagio",
+    "series": "Dragon Ball Z · Film",
+    "source_group": "curated_starter",
+    "image_url": null,
+    "id": 160,
+    "slug": "bojack",
+    "aliases": [
+      "Boujack"
+    ],
+    "review_flags": [
+      "razza_da_verificare",
+      "revisione_editoriale_consigliata"
+    ],
+    "episode_source_status": "film"
+  },
+  {
+    "name": "Zangya",
+    "gender": "Femmina",
+    "hair": "Arancione",
+    "origin": "Universo 7",
+    "race": "Sconosciuta",
+    "episode": "Film",
+    "saga": "La minaccia del demone malvagio",
+    "series": "Dragon Ball Z · Film",
+    "source_group": "curated_starter",
+    "image_url": null,
+    "id": 161,
+    "slug": "zangya",
+    "aliases": [],
+    "review_flags": [
+      "razza_da_verificare",
+      "revisione_editoriale_consigliata"
+    ],
+    "episode_source_status": "film"
+  },
+  {
+    "name": "Bido",
+    "gender": "Maschio",
+    "hair": "Nero",
+    "origin": "Universo 7",
+    "race": "Sconosciuta",
+    "episode": "Film",
+    "saga": "La minaccia del demone malvagio",
+    "series": "Dragon Ball Z · Film",
+    "source_group": "curated_starter",
+    "image_url": null,
+    "id": 162,
+    "slug": "bido",
+    "aliases": [],
+    "review_flags": [
+      "razza_da_verificare",
+      "revisione_editoriale_consigliata"
+    ],
+    "episode_source_status": "film"
+  },
+  {
+    "name": "Bujin",
+    "gender": "Maschio",
+    "hair": "Calvo",
+    "origin": "Universo 7",
+    "race": "Sconosciuta",
+    "episode": "Film",
+    "saga": "La minaccia del demone malvagio",
+    "series": "Dragon Ball Z · Film",
+    "source_group": "curated_starter",
+    "image_url": null,
+    "id": 163,
+    "slug": "bujin",
+    "aliases": [],
+    "review_flags": [
+      "razza_da_verificare",
+      "revisione_editoriale_consigliata"
+    ],
+    "episode_source_status": "film"
+  },
+  {
+    "name": "Janemba",
+    "gender": "Maschio",
+    "hair": "Nessuno",
+    "origin": "Universo 7",
+    "race": "Demone",
+    "episode": "Film",
+    "saga": "Il diabolico guerriero degli inferi",
+    "series": "Dragon Ball Z · Film",
+    "source_group": "curated_starter",
+    "image_url": null,
+    "id": 164,
+    "slug": "janemba",
+    "aliases": [],
+    "review_flags": [
+      "revisione_editoriale_consigliata"
+    ],
+    "episode_source_status": "film"
+  },
+  {
+    "name": "Tapion",
+    "gender": "Maschio",
+    "hair": "Arancione",
+    "origin": "Universo 7",
+    "race": "Umanoide",
+    "episode": "Film",
+    "saga": "L'eroe del pianeta Conuts",
+    "series": "Dragon Ball Z · Film",
+    "source_group": "curated_starter",
+    "image_url": null,
+    "id": 165,
+    "slug": "tapion",
+    "aliases": [],
+    "review_flags": [
+      "revisione_editoriale_consigliata"
+    ],
+    "episode_source_status": "film"
+  },
+  {
+    "name": "Hirudegarn",
+    "gender": "Altro / senza genere",
+    "hair": "Nessuno",
+    "origin": "Universo 7",
+    "race": "Mostro",
+    "episode": "Film",
+    "saga": "L'eroe del pianeta Conuts",
+    "series": "Dragon Ball Z · Film",
+    "source_group": "curated_starter",
+    "image_url": null,
+    "id": 166,
+    "slug": "hirudegarn",
+    "aliases": [],
+    "review_flags": [
+      "revisione_editoriale_consigliata"
+    ],
+    "episode_source_status": "film"
+  },
+  {
+    "name": "Hoi",
+    "gender": "Maschio",
+    "hair": "Nero",
+    "origin": "Universo 7",
+    "race": "Stregone",
+    "episode": "Film",
+    "saga": "L'eroe del pianeta Conuts",
+    "series": "Dragon Ball Z · Film",
+    "source_group": "curated_starter",
+    "image_url": null,
+    "id": 167,
+    "slug": "hoi",
+    "aliases": [],
+    "review_flags": [
+      "revisione_editoriale_consigliata"
+    ],
+    "episode_source_status": "film"
+  },
+  {
+    "name": "Beerus",
+    "gender": "Maschio",
+    "hair": "Nessuno",
+    "origin": "Universo 7",
+    "race": "Divinità",
+    "episode": "Film",
+    "saga": "La battaglia degli dei",
+    "series": "Dragon Ball Super · Film",
+    "source_group": "curated_starter",
+    "image_url": "https://dragonball-api.com/characters/Beerus_DBS_Broly_Artwork.webp",
+    "id": 168,
+    "slug": "beerus",
+    "aliases": [
+      "Bills",
+      "Birusu"
+    ],
+    "review_flags": [
+      "revisione_editoriale_consigliata"
+    ],
+    "episode_source_status": "film"
+  },
+  {
+    "name": "Whis",
+    "gender": "Maschio",
+    "hair": "Bianco",
+    "origin": "Universo 7",
+    "race": "Angelo",
+    "episode": "Film",
+    "saga": "La battaglia degli dei",
+    "series": "Dragon Ball Super · Film",
+    "source_group": "curated_starter",
+    "image_url": "https://dragonball-api.com/characters/Whis_DBS_Broly_Artwork.webp",
+    "id": 169,
+    "slug": "whis",
+    "aliases": [],
+    "review_flags": [
+      "revisione_editoriale_consigliata"
+    ],
+    "episode_source_status": "film"
+  },
+  {
+    "name": "Broly (Super)",
+    "gender": "Maschio",
+    "hair": "Nero",
+    "origin": "Universo 7",
+    "race": "Saiyan",
+    "episode": "Film",
+    "saga": "Dragon Ball Super: Broly",
+    "series": "Dragon Ball Super · Film",
+    "source_group": "curated_starter",
+    "image_url": null,
+    "id": 170,
+    "slug": "broly-super",
+    "aliases": [],
+    "review_flags": [
+      "revisione_editoriale_consigliata"
+    ],
+    "episode_source_status": "film"
+  },
+  {
+    "name": "Paragas (Super)",
+    "gender": "Maschio",
+    "hair": "Nero",
+    "origin": "Universo 7",
+    "race": "Saiyan",
+    "episode": "Film",
+    "saga": "Dragon Ball Super: Broly",
+    "series": "Dragon Ball Super · Film",
+    "source_group": "curated_starter",
+    "image_url": null,
+    "id": 171,
+    "slug": "paragas-super",
+    "aliases": [],
+    "review_flags": [
+      "revisione_editoriale_consigliata"
+    ],
+    "episode_source_status": "film"
+  },
+  {
+    "name": "Cheelai",
+    "gender": "Femmina",
+    "hair": "Bianco",
+    "origin": "Universo 7",
+    "race": "Sconosciuta",
+    "episode": "Film",
+    "saga": "Dragon Ball Super: Broly",
+    "series": "Dragon Ball Super · Film",
+    "source_group": "curated_starter",
+    "image_url": null,
+    "id": 172,
+    "slug": "cheelai",
+    "aliases": [],
+    "review_flags": [
+      "razza_da_verificare",
+      "revisione_editoriale_consigliata"
+    ],
+    "episode_source_status": "film"
+  },
+  {
+    "name": "Lemo",
+    "gender": "Maschio",
+    "hair": "Calvo",
+    "origin": "Universo 7",
+    "race": "Sconosciuta",
+    "episode": "Film",
+    "saga": "Dragon Ball Super: Broly",
+    "series": "Dragon Ball Super · Film",
+    "source_group": "curated_starter",
+    "image_url": null,
+    "id": 173,
+    "slug": "lemo",
+    "aliases": [],
+    "review_flags": [
+      "razza_da_verificare",
+      "revisione_editoriale_consigliata"
+    ],
+    "episode_source_status": "film"
+  },
+  {
+    "name": "Gamma 1",
+    "gender": "Maschio",
+    "hair": "Nessuno",
+    "origin": "Universo 7",
+    "race": "Androide",
+    "episode": "Film",
+    "saga": "Dragon Ball Super: Super Hero",
+    "series": "Dragon Ball Super · Film",
+    "source_group": "curated_starter",
+    "image_url": null,
+    "id": 174,
+    "slug": "gamma-1",
+    "aliases": [],
+    "review_flags": [
+      "revisione_editoriale_consigliata"
+    ],
+    "episode_source_status": "film"
+  },
+  {
+    "name": "Gamma 2",
+    "gender": "Maschio",
+    "hair": "Nessuno",
+    "origin": "Universo 7",
+    "race": "Androide",
+    "episode": "Film",
+    "saga": "Dragon Ball Super: Super Hero",
+    "series": "Dragon Ball Super · Film",
+    "source_group": "curated_starter",
+    "image_url": null,
+    "id": 175,
+    "slug": "gamma-2",
+    "aliases": [],
+    "review_flags": [
+      "revisione_editoriale_consigliata"
+    ],
+    "episode_source_status": "film"
+  },
+  {
+    "name": "Cell Max",
+    "gender": "Maschio",
+    "hair": "Nessuno",
+    "origin": "Universo 7",
+    "race": "Bio-androide",
+    "episode": "Film",
+    "saga": "Dragon Ball Super: Super Hero",
+    "series": "Dragon Ball Super · Film",
+    "source_group": "curated_starter",
+    "image_url": null,
+    "id": 176,
+    "slug": "cell-max",
+    "aliases": [],
+    "review_flags": [
+      "revisione_editoriale_consigliata"
+    ],
+    "episode_source_status": "film"
+  },
+  {
+    "name": "Dottor Hedo",
+    "gender": "Maschio",
+    "hair": "Biondo",
+    "origin": "Universo 7",
+    "race": "Umano",
+    "episode": "Film",
+    "saga": "Dragon Ball Super: Super Hero",
+    "series": "Dragon Ball Super · Film",
+    "source_group": "curated_starter",
+    "image_url": null,
+    "id": 177,
+    "slug": "dottor-hedo",
+    "aliases": [],
+    "review_flags": [
+      "revisione_editoriale_consigliata"
+    ],
+    "episode_source_status": "film"
+  },
+  {
+    "name": "Magenta",
+    "gender": "Maschio",
+    "hair": "Rosso",
+    "origin": "Universo 7",
+    "race": "Umano",
+    "episode": "Film",
+    "saga": "Dragon Ball Super: Super Hero",
+    "series": "Dragon Ball Super · Film",
+    "source_group": "curated_starter",
+    "image_url": null,
+    "id": 178,
+    "slug": "magenta",
+    "aliases": [],
+    "review_flags": [
+      "revisione_editoriale_consigliata"
+    ],
+    "episode_source_status": "film"
+  },
+  {
+    "name": "Carmine",
+    "gender": "Maschio",
+    "hair": "Nero",
+    "origin": "Universo 7",
+    "race": "Umano",
+    "episode": "Film",
+    "saga": "Dragon Ball Super: Super Hero",
+    "series": "Dragon Ball Super · Film",
+    "source_group": "curated_starter",
+    "image_url": null,
+    "id": 179,
+    "slug": "carmine",
+    "aliases": [],
+    "review_flags": [
+      "revisione_editoriale_consigliata"
+    ],
+    "episode_source_status": "film"
+  }
+]

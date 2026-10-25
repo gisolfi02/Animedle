@@ -1,0 +1,1358 @@
+<!doctype html>
+<html lang="it">
+  <head>
+    <meta charset="utf-8" />
+    <meta
+      name="viewport"
+      content="width=device-width,initial-scale=1,viewport-fit=cover"
+    />
+    <meta name="theme-color" content="#0c0e18" />
+    <title>Bleachdle — Anime Dle</title>
+    <script
+      src="https://kit.fontawesome.com/7d86f6057b.js"
+      crossorigin="anonymous"
+    ></script>
+    <style>
+      :root {
+        --ink: #24323c;
+        --text2: #61727e;
+        --accent: #177a95;
+        --accent2: #56c6cf;
+        --paper: #f9fcfd;
+        --white: #fffdfa;
+        --line: #b9ccd2;
+        --good: #329764;
+        --bad: #c83f3e;
+        --part: #d7a72d;
+        --unknown: #6b7d8e;
+        --shadow: 0 10px 35px #16354421;
+      }
+      * {
+        box-sizing: border-box;
+      }
+      html {
+        scroll-behavior: smooth;
+      }
+      body {
+        margin: 0;
+        min-height: 100vh;
+        color: var(--ink);
+        font-family:
+          system-ui,
+          -apple-system,
+          BlinkMacSystemFont,
+          "Segoe UI",
+          sans-serif;
+        background: #d4e2e6;
+      }
+      body::before {
+        content: "";
+        position: fixed;
+        inset: 0;
+        pointer-events: none;
+        z-index: -1;
+        background:
+          radial-gradient(circle at 6% 12%, #b1d6dc9c 0 14%, transparent 15%),
+          radial-gradient(circle at 96% 8%, #bbd4da 0 14%, transparent 15%),
+          linear-gradient(120deg, #dce8eb, #c9d9e1 60%, #d7e5e8);
+      }
+      .shell {
+        width: min(1220px, calc(100% - 34px));
+        margin: 30px auto 60px;
+      }
+      .nav {
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+        gap: 18px;
+        border: 2px solid #476577;
+        border-radius: 16px;
+        padding: 16px 20px;
+        background: linear-gradient(125deg, #fffefa, #e8f3f5);
+        box-shadow: var(--shadow);
+      }
+      .brand {
+        display: flex;
+        align-items: center;
+        gap: 13px;
+        min-width: 0;
+      }
+      .symbol {
+        width: 52px;
+        height: 52px;
+        flex: 0 0 52px;
+        display: grid;
+        place-items: center;
+        border-radius: 50%;
+        color: #fff;
+        font-size: 29px;
+        font-weight: 900;
+        background: linear-gradient(135deg, #36c4d0, #125678);
+        border: 2px solid #345769;
+        transform: rotate(-8deg);
+      }
+      h1,
+      h2,
+      p {
+        margin: 0;
+      }
+      h1 {
+        font-family: Georgia, "Times New Roman", serif;
+        font-size: clamp(22px, 3.2vw, 34px);
+        line-height: 1.12;
+        color: #173f59;
+      }
+      h2 {
+        font-size: clamp(19px, 2.5vw, 28px);
+        text-align: center;
+        letter-spacing: 0.5px;
+        font-family: Georgia, serif;
+        color: #27536b;
+      }
+      .actions {
+        display: flex;
+        gap: 10px;
+        align-items: center;
+        flex-wrap: wrap;
+      }
+      button,
+      .btn {
+        font: inherit;
+        cursor: pointer;
+      }
+      .btn {
+        border: 1.5px solid #658a9b;
+        border-radius: 9px;
+        padding: 10px 14px;
+        background: #f7fbfc;
+        text-decoration: none;
+        font-weight: 720;
+        color: #28566b;
+        display: inline-flex;
+        align-items: center;
+        gap: 7px;
+        justify-content: center;
+      }
+      .btn.primary {
+        background: var(--accent);
+        color: #fff;
+        border-color: #115d75;
+      }
+      .btn:hover {
+        background: #dff2f7;
+        transform: translateY(-1px);
+      }
+      .btn.primary:hover {
+        background: #116d89;
+      }
+      .btn:focus-visible,
+      input:focus-visible,
+      .option:focus-visible {
+        outline: 3px solid #267bb7;
+        outline-offset: 2px;
+      }
+      button:disabled {
+        cursor: not-allowed;
+        opacity: 0.6;
+      }
+      .game-panel {
+        background: var(--white);
+        margin-top: 21px;
+        padding: 25px 26px;
+        border: 2px solid #667d89;
+        border-radius: 16px;
+        box-shadow: var(--shadow);
+        display: grid;
+        gap: 20px;
+        align-content: center;
+        justify-items: center;
+      }
+      .desc {
+        color: var(--text2);
+        text-align: center;
+        font-size: 14px;
+        line-height: 1.5;
+        max-width: 780px;
+        margin: -2px auto 0;
+      }
+      .input-wrap {
+        position: relative;
+        width: min(690px, 100%);
+        margin: 0 auto;
+        z-index: 9;
+      }
+      .input-line {
+        display: flex;
+        gap: 8px;
+        align-items: center;
+        padding: 5px;
+        background: #fff;
+        border: 2px solid #89aab8;
+        border-radius: 12px;
+        box-shadow: 0 4px 0 #d9e6e8;
+      }
+      .input-line:focus-within {
+        border-color: var(--accent);
+      }
+      .search-icon {
+        color: #4b8194;
+        font-size: 22px;
+        margin-left: 11px;
+        display: inline-flex;
+      }
+      #search {
+        border: 0;
+        outline: 0;
+        min-width: 0;
+        width: 100%;
+        padding: 13px 2px;
+        font-size: 17px;
+        background: transparent;
+        color: var(--ink);
+        flex: 1;
+        font-family: inherit;
+      }
+      .dropdown {
+        position: absolute;
+        top: calc(100% + 6px);
+        left: 0;
+        right: 0;
+        max-height: 350px;
+        overflow: auto;
+        overflow-x: hidden;
+        background: #fbfefe;
+        border: 2px solid #7ca0b2;
+        box-shadow: 0 15px 28px #182e4148;
+        border-radius: 10px;
+        color: var(--ink);
+        z-index: 12;
+      }
+      .dropdown[hidden] {
+        display: none;
+      }
+      .option {
+        border: 0;
+        width: 100%;
+        background: #fbfefe;
+        display: flex;
+        align-items: center;
+        gap: 10px;
+        text-align: left;
+        padding: 8px 11px;
+        color: var(--ink);
+        min-height: 56px;
+      }
+      .option:hover,
+      .option.active,
+      .option:focus-visible {
+        background: #e0f4f8;
+      }
+      .option + .option {
+        border-top: 1px solid #dce7ea;
+      }
+      .mini-place {
+        width: 41px;
+        height: 41px;
+        min-width: 41px;
+        flex: 0 0 41px;
+        overflow: hidden;
+        border-radius: 6px;
+        background: #d6e9ed;
+        border: 1px solid #96bdc9;
+        display: grid;
+        place-items: center;
+        font-weight: 900;
+        color: #386080;
+      }
+      .mini-place img {
+        display: block;
+        width: 100%;
+        height: 100%;
+        max-width: 100%;
+        max-height: 100%;
+        object-fit: cover;
+        object-position: center top;
+      }
+      .option-txt {
+        min-width: 0;
+      }
+      .option-name {
+        font-weight: 800;
+        font-size: 14px;
+      }
+      .option-extra {
+        font-size: 12px;
+        color: #597a87;
+      }
+      .no-results {
+        padding: 13px;
+        color: #6e8189;
+      }
+      .msg-bar {
+        width: 100%;
+        text-align: center;
+        min-height: 25px;
+        margin: -4px auto -3px;
+        color: #657988;
+        font-size: 14px;
+      }
+      .message {
+        color: #657988;
+      }
+      .message.success {
+        color: #228456;
+      }
+      .message.error {
+        color: #b73535;
+      }
+      .count {
+        display: inline-block;
+        margin-left: 5px;
+        font-size: 12px;
+        color: #68818d;
+      }
+      .result {
+        display: none;
+        text-align: center;
+        max-width: 680px;
+        margin: 0 auto;
+        padding: 16px;
+        border: 2px solid #61a87f;
+        background: #eaf7ee;
+        border-radius: 11px;
+      }
+      .result.open {
+        display: block;
+      }
+      .result.revealed {
+        border-color: #d09657;
+        background: #fff0e0;
+      }
+      .result strong {
+        font-size: 19px;
+        color: #236043;
+      }
+      .result.revealed strong {
+        color: #8f4a1d;
+      }
+      .result p {
+        margin: 8px 0 12px;
+        font-size: 14px;
+        color: #4a5b4d;
+      }
+      .table-scroll {
+        width: 100%;
+        max-width: 100%;
+        overflow-x: auto;
+        overscroll-behavior-x: contain;
+        -webkit-overflow-scrolling: touch;
+        padding-bottom: 6px;
+      }
+      table {
+        border-collapse: separate;
+        border-spacing: 5px;
+        width: 100%;
+        min-width: 1000px;
+        table-layout: fixed;
+      }
+      thead th {
+        border-bottom: 3px solid #506773;
+        font-weight: 850;
+        text-transform: uppercase;
+        text-align: center;
+        font-size: 11px;
+        letter-spacing: 0.22px;
+        line-height: 1.15;
+        vertical-align: bottom;
+        padding: 0 3px 8px;
+      }
+      th:nth-child(1) {
+        width: 119px;
+      }
+      th:nth-child(2) {
+        width: 82px;
+      }
+      th:nth-child(3) {
+        width: 105px;
+      }
+      th:nth-child(4) {
+        width: 131px;
+      }
+      th:nth-child(5) {
+        width: 152px;
+      }
+      th:nth-child(6) {
+        width: 136px;
+      }
+      th:nth-child(7) {
+        width: 143px;
+      }
+      th:nth-child(8) {
+        width: 132px;
+      }
+      td {
+        height: 110px;
+        text-align: center;
+        padding: 0;
+        vertical-align: middle;
+      }
+      .tile {
+        position: relative;
+        isolation: isolate;
+        overflow: hidden;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        flex-wrap: wrap;
+        align-content: center;
+        gap: 4px;
+        width: 100%;
+        height: 100%;
+        min-height: 105px;
+        border: 2px solid #ffffff66;
+        border-radius: 9px;
+        padding: 7px 5px;
+        background: var(--bad);
+        color: #fff;
+        font-size: 13px;
+        font-weight: 780;
+        line-height: 1.22;
+        overflow-wrap: anywhere;
+        box-shadow: inset 0 -11px #0000000c;
+        text-align: center;
+      }
+      .tile.ok {
+        background: var(--good);
+      }
+      .tile.partial {
+        background: var(--part);
+        color: #382916;
+      }
+      .tile.bad {
+        background: var(--bad);
+      }
+      .tile.unknown {
+        background: var(--unknown);
+      }
+      .tile .copy {
+        position: relative;
+        z-index: 1;
+        max-width: 100%;
+      }
+      .tile.arrow-up::before,
+      .tile.arrow-down::before {
+        position: absolute;
+        content: "↑";
+        inset: 0;
+        display: grid;
+        place-items: center;
+        font-size: 80px;
+        line-height: 1;
+        font-weight: 950;
+        color: #63090c;
+        opacity: 0.29;
+        z-index: 0;
+        pointer-events: none;
+      }
+      .tile.arrow-down::before {
+        content: "↓";
+      }
+      .tile.portrait {
+        padding: 0;
+        background: #c3dee7;
+        border-color: #6e99ac;
+        display: flex;
+        flex-direction: column;
+        flex-wrap: nowrap;
+        gap: 0;
+        min-height: 105px;
+        justify-content: space-between;
+      }
+      .photo {
+        height: 76px;
+        width: 100%;
+        position: relative;
+        display: grid;
+        place-items: center;
+        background: linear-gradient(135deg, #92cbd6, #447c98);
+        overflow: hidden;
+      }
+      .photo img {
+        position: absolute;
+        inset: 0;
+        width: 100%;
+        height: 100%;
+        object-fit: contain;
+        object-position: center top;
+        background: #bfdde6;
+        display: block;
+      }
+      .face-fallback {
+        font-size: 29px;
+        color: #f1fbff;
+      }
+      .tile.portrait .name {
+        font-size: 11px;
+        color: #203d50;
+        background: #e6f1f3;
+        width: 100%;
+        min-height: 27px;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        padding: 3px 2px;
+        line-height: 1.12;
+        max-width: 100%;
+        overflow-wrap: anywhere;
+      }
+      .empty {
+        text-align: center;
+        color: #748e99;
+        font-size: 13px;
+        padding: 20px 5px;
+      }
+      .scrollhelp {
+        color: #718996;
+        text-align: right;
+        font-size: 12px;
+        display: none;
+        width: 100%;
+        margin: -6px 0 -16px;
+      }
+      .legend {
+        max-width: 780px;
+        border: 1.5px solid #b9cbd4;
+        background: #f0f8fa;
+        border-radius: 13px;
+        padding: 14px 16px;
+        margin: 1px auto 0;
+      }
+      .legend h3 {
+        margin: 0 0 11px;
+        text-align: center;
+        font-family: Georgia, serif;
+        font-size: 17px;
+      }
+      .legend-grid {
+        display: grid;
+        grid-template-columns: repeat(5, minmax(0, 1fr));
+        gap: 8px;
+      }
+      .legend-item {
+        text-align: center;
+        font-size: 12px;
+        font-weight: 720;
+        line-height: 1.15;
+      }
+      .swatch {
+        display: grid;
+        place-items: center;
+        font-size: 20px;
+        color: #fff;
+        width: 36px;
+        height: 33px;
+        border-radius: 5px;
+        margin: 0 auto 5px;
+      }
+      .swatch.green {
+        background: var(--good);
+      }
+      .swatch.yellow {
+        background: var(--part);
+        color: #33291d;
+      }
+      .swatch.red {
+        background: var(--bad);
+      }
+      .swatch.gray {
+        background: var(--unknown);
+      }
+      .note {
+        color: #71818b;
+        text-align: center;
+        font-size: 12px;
+        max-width: 820px;
+        margin: 0 auto;
+        line-height: 1.45;
+      }
+      @media (max-width: 1030px) {
+        .scrollhelp {
+          display: block;
+        }
+      }
+      @media (max-width: 650px) {
+        .shell {
+          width: calc(100% - 20px);
+          margin: 10px auto 30px;
+        }
+        .nav {
+          padding: 13px;
+          flex-wrap: wrap;
+        }
+        .brand .symbol {
+          width: 40px;
+          height: 40px;
+          flex-basis: 40px;
+          font-size: 21px;
+        }
+        .actions {
+          width: 100%;
+          justify-content: flex-end;
+        }
+        .btn {
+          font-size: 12px;
+          padding: 9px 10px;
+        }
+        .game-panel {
+          padding: 18px 9px;
+        }
+        .desc {
+          font-size: 13px;
+        }
+        #search {
+          font-size: 16px;
+        }
+        .legend-grid {
+          grid-template-columns: repeat(2, minmax(0, 1fr));
+        }
+        .msg-bar {
+          line-height: 1.5;
+        }
+      }
+
+      /* ===== BLEACHDLE / SOUL SOCIETY — DARK INK THEME =====
+   Solo grafica. Layout, dati e logica di gioco invariati. */
+      :root {
+        --ink: #f4f1fb;
+        --text2: #b6bdd1;
+        --accent: #8e61df;
+        --accent2: #79cbdc;
+        --paper: #121522;
+        --white: #161a29;
+        --line: #484461;
+        --good: #258b62;
+        --bad: #c13f51;
+        --part: #d5aa3d;
+        --unknown: #60697e;
+        --shadow: 0 12px 42px #03040a80;
+      }
+      html {
+        color-scheme: dark;
+      }
+      body {
+        color: var(--ink);
+        background: #0c0e18;
+      }
+      body::before {
+        background:
+          radial-gradient(ellipse at 8% 12%, #44336a66 0, transparent 39%),
+          radial-gradient(ellipse at 94% 81%, #1f627355 0, transparent 36%),
+          repeating-linear-gradient(
+            130deg,
+            transparent 0px,
+            transparent 58px,
+            #d6d3e208 59px,
+            transparent 61px
+          ),
+          linear-gradient(120deg, #0c0e18, #17172b 57%, #111622);
+      }
+      .nav {
+        background: linear-gradient(112deg, #1e1c31, #141b2a 72%, #212038);
+        border: 2px solid #696087;
+        box-shadow:
+          0 15px 38px #03040a8a,
+          inset 0 1px #ffffff0e;
+      }
+      .symbol {
+        background: linear-gradient(140deg, #b6a6e1, #6842ab 48%, #272744);
+        border: 2px solid #d3c8ec;
+        color: #fff;
+        box-shadow:
+          0 0 0 3px #b69be51a,
+          0 5px 13px #0909168a;
+      }
+      h1 {
+        color: #f6f1ff;
+        letter-spacing: 0.35px;
+        text-shadow: 0 2px 15px #a886e53b;
+      }
+      h2 {
+        color: #ebdfff;
+      }
+      .btn {
+        background: #292b40;
+        color: #e5deff;
+        border: 1.5px solid #756c9b;
+      }
+      .btn.primary {
+        background: linear-gradient(135deg, #9464e8, #6843ae);
+        color: white;
+        border-color: #b59aea;
+        box-shadow: 0 3px 13px #9159d82f;
+      }
+      .btn:hover {
+        background: #3a3659;
+      }
+      .btn.primary:hover {
+        background: #784dbc;
+      }
+      .btn:focus-visible,
+      input:focus-visible,
+      .option:focus-visible {
+        outline-color: #97dded;
+      }
+      .game-panel {
+        background: linear-gradient(165deg, #1b1d2d, #141926 64%, #181a2c);
+        border: 2px solid #4b4565;
+        box-shadow:
+          0 16px 46px #0007,
+          inset 0 1px #ffffff0d;
+      }
+      .desc {
+        color: #bec1d3;
+      }
+      .input-line {
+        background: #f5f2ff;
+        border: 2px solid #ab94de;
+        box-shadow: 0 4px 0 #37314e;
+      }
+      .input-line:focus-within {
+        border-color: #c1abf1;
+      }
+      .search-icon {
+        color: #644998;
+      }
+      #search {
+        color: #1d2434;
+        caret-color: #7950c6;
+      }
+      #search::placeholder {
+        color: #6c6c80;
+      }
+      .dropdown {
+        background: #25283a;
+        color: #f5f1ff;
+        border: 2px solid #7a6b9e;
+        box-shadow: 0 16px 34px #040610b8;
+      }
+      .option {
+        background: #25283a;
+        color: #f5f1ff;
+      }
+      .option:hover,
+      .option.active,
+      .option:focus-visible {
+        background: #40365c;
+      }
+      .option + .option {
+        border-top: 1px solid #ffffff1c;
+      }
+      .option-extra {
+        color: #adb6d0;
+      }
+      .mini-place {
+        background: #373b54;
+        border-color: #77739c;
+        color: #e7dcff;
+      }
+      .no-results {
+        color: #c1bbd1;
+      }
+      .msg-bar,
+      .message {
+        color: #bac1d2;
+      }
+      .message.success {
+        color: #77dba6;
+      }
+      .message.error {
+        color: #ff91a0;
+      }
+      .count {
+        color: #a79cc7;
+      }
+      .table-scroll {
+        scrollbar-color: #6c6197 #1c2030;
+      }
+      thead th {
+        color: #efedf5;
+        border-bottom: 3px solid #8273ac;
+      }
+      .tile {
+        border-color: #ffffff38;
+        box-shadow:
+          inset 0 -9px #00000016,
+          0 3px 10px #0003;
+      }
+      .tile.ok {
+        background: var(--good);
+      }
+      .tile.partial {
+        background: var(--part);
+        color: #2d2412;
+      }
+      .tile.bad {
+        background: var(--bad);
+      }
+      .tile.unknown {
+        background: var(--unknown);
+      }
+      .tile.arrow-up::before,
+      .tile.arrow-down::before {
+        color: #210e2e;
+        opacity: 0.32;
+      }
+      .tile.portrait {
+        background: #27263c;
+        border-color: #9884c4;
+      }
+      .photo {
+        background: linear-gradient(125deg, #5c4a8a, #202c44);
+      }
+      .photo img {
+        background: #39334f;
+      }
+      .face-fallback {
+        color: #ede5ff;
+      }
+      .tile.portrait .name {
+        color: #f3efff;
+        background: #363249;
+        border-top: 1px solid #ffffff1f;
+      }
+      .empty {
+        color: #a9adbd;
+      }
+      .scrollhelp,
+      .note {
+        color: #b2b4c4;
+      }
+      .legend {
+        background: linear-gradient(115deg, #25283a, #1e2735);
+        border: 1.5px solid #675c8b;
+        box-shadow: inset 0 1px #ffffff0f;
+      }
+      .legend h3,
+      .legend-item {
+        color: #f0eafa;
+      }
+      .swatch.green {
+        background: var(--good);
+      }
+      .swatch.yellow {
+        background: var(--part);
+        color: #2a2316;
+      }
+      .swatch.red {
+        background: var(--bad);
+      }
+      .swatch.gray {
+        background: var(--unknown);
+      }
+      .result {
+        background: #1c362d;
+        border-color: #409576;
+      }
+      .result strong {
+        color: #a0efbf;
+      }
+      .result p {
+        color: #d4e8da;
+      }
+      .result.revealed {
+        background: #352d26;
+        border-color: #bd945e;
+      }
+      .result.revealed strong {
+        color: #f6c68a;
+      }
+    </style>
+  </head>
+  <body>
+    <div class="shell">
+      <header class="nav">
+        <div class="brand">
+          <div class="symbol" aria-hidden="true">魂</div>
+          <h1>Bleachdle</h1>
+        </div>
+        <div class="actions">
+          <a class="btn" href="../index.html"
+            ><i class="fa-solid fa-arrow-left" aria-hidden="true"></i> Tutti i
+            giochi</a
+          >
+          <button id="reveal" type="button" class="btn">
+            <i class="fa-solid fa-lightbulb" aria-hidden="true"></i> Mostra
+            soluzione
+          </button>
+          <button id="new" type="button" class="btn primary">
+            <i class="fa-solid fa-rotate-right" aria-hidden="true"></i> Nuova
+            partita
+          </button>
+        </div>
+      </header>
+      <main class="game-panel">
+        <h2>Indovina il personaggio di Bleach!</h2>
+        <div class="input-wrap">
+          <form class="input-line" id="guess-form" autocomplete="off">
+            <span class="search-icon" aria-hidden="true"
+              ><i class="fa-solid fa-magnifying-glass"></i
+            ></span>
+            <input
+              id="search"
+              type="search"
+              placeholder="Cerca un personaggio…"
+              aria-label="Nome del personaggio"
+              aria-controls="dropdown"
+              aria-expanded="false"
+              enterkeyhint="search"
+              autocorrect="off"
+              autocapitalize="none"
+              spellcheck="false"
+            />
+            <button class="btn primary" id="try" type="submit" disabled>
+              Prova <i class="fa-solid fa-paper-plane" aria-hidden="true"></i>
+            </button>
+          </form>
+          <div class="dropdown" id="dropdown" role="listbox" hidden></div>
+        </div>
+        <div id="result" class="result" aria-live="polite">
+          <strong id="resultTitle"></strong>
+          <p id="resultText"></p>
+          <button id="again" type="button" class="btn primary">
+            Gioca ancora
+            <i class="fa-solid fa-rotate-right" aria-hidden="true"></i>
+          </button>
+        </div>
+        <div
+          class="table-scroll"
+          tabindex="0"
+          aria-label="Tabella degli indizi; scorri orizzontalmente su mobile"
+        >
+          <table aria-label="Tentativi e indizi">
+            <thead>
+              <tr>
+                <th>Personaggio</th>
+                <th>Genere</th>
+                <th>Altezza</th>
+                <th>Razza</th>
+                <th>Professione</th>
+                <th>Luogo</th>
+                <th>Affiliazione</th>
+                <th>Primo arco</th>
+              </tr>
+            </thead>
+            <tbody id="attempts"></tbody>
+          </table>
+        </div>
+        <section class="legend" aria-label="Legenda degli indizi">
+          <h3>Legenda degli indizi</h3>
+          <div class="legend-grid">
+            <div class="legend-item">
+              <span class="swatch green"></span>Corretto
+            </div>
+            <div class="legend-item">
+              <span class="swatch yellow"></span>Parziale
+            </div>
+            <div class="legend-item">
+              <span class="swatch red"></span>Non corretto
+            </div>
+            <div class="legend-item">
+              <span class="swatch red"
+                ><i class="fas fa-arrow-up" aria-hidden="true"></i></span
+              >Più alto
+            </div>
+            <div class="legend-item">
+              <span class="swatch red"
+                ><i class="fas fa-arrow-down" aria-hidden="true"></i></span
+              >Più basso
+            </div>
+          </div>
+        </section>
+      </main>
+    </div>
+    <script>
+      (() => {
+        "use strict";
+        const $ = (id) => document.getElementById(id);
+        const labels = {
+          gender: "Genere",
+          height_cm: "Altezza",
+          race: "Razza",
+          profession: "Professione",
+          location: "Luogo",
+          affiliation: "Affiliazione",
+          first_arc: "Primo arco",
+        };
+        const pool = [],
+          used = new Set(),
+          tried = new Set();
+        let secret = null,
+          win = false,
+          shown = [],
+          selected = null,
+          choice = -1;
+        const norm = (s) =>
+          (s || "")
+            .toString()
+            .normalize("NFD")
+            .replace(/[\u0300-\u036f]/g, "")
+            .toLowerCase()
+            .replace(/[^\p{L}\p{N}]/gu, "");
+        const el = (tag, className, text) => {
+          const e = document.createElement(tag);
+          if (className) e.className = className;
+          if (text !== undefined) e.textContent = text;
+          return e;
+        };
+        const fmt = (v) =>
+          Array.isArray(v)
+            ? v.length
+              ? v.join(", ")
+              : "N/D"
+            : v === null || v === undefined || v === ""
+              ? "N/D"
+              : String(v);
+        const arr = (v) =>
+          Array.isArray(v)
+            ? v.filter(Boolean)
+            : v === null || v === undefined || v === " "
+              ? []
+              : [String(v)];
+        const known = (v) =>
+          v !== null &&
+          v !== undefined &&
+          (Array.isArray(v)
+            ? v.length > 0
+            : String(v).trim() !== "" && v !== "N/D");
+        const showResult = (title, text, revealed = false) => {
+          const box = $("result");
+          $("resultTitle").textContent = title;
+          $("resultText").textContent = text;
+          box.className = "result open" + (revealed ? " revealed" : "");
+        };
+        const safeMessage = (text, cls = "") => {
+          const e = $("message");
+          e.textContent = text;
+          e.className = "message" + (cls ? " " + cls : "");
+        };
+        const img = (url, alt) => {
+          const e = el("img");
+          e.src = url;
+          e.alt = alt;
+          e.loading = "lazy";
+          e.referrerPolicy = "no-referrer";
+          e.addEventListener("error", () => {
+            const parent = e.parentElement;
+            e.remove();
+            if (parent && !parent.textContent.trim()) {
+              const badge = el(
+                "span",
+                parent.classList.contains("photo") ? "face-fallback" : "",
+                alt.slice(0, 1).toUpperCase(),
+              );
+              parent.append(badge);
+            }
+          });
+          return e;
+        };
+        const allMatches = (q) => {
+          if (!q.trim()) return [];
+          let n = norm(q);
+          return pool
+            .filter((c) =>
+              [c.name, ...(c.aliases || [])].some((x) => norm(x).includes(n)),
+            )
+            .sort(
+              (a, b) =>
+                Number(norm(b.name).startsWith(n)) -
+                  Number(norm(a.name).startsWith(n)) ||
+                a.name.localeCompare(b.name),
+            )
+            .slice(0, 12);
+        };
+        function toggleDropdown(open) {
+          $("dropdown").hidden = !open;
+          $("search").setAttribute("aria-expanded", String(open));
+        }
+        function showMatches() {
+          const box = $("dropdown"),
+            q = $("search").value;
+          box.replaceChildren();
+          shown = allMatches(q);
+          choice = -1;
+          if (!q.trim()) {
+            toggleDropdown(false);
+            return;
+          }
+          if (!shown.length) {
+            box.append(el("div", "no-results", "Nessun personaggio trovato"));
+            toggleDropdown(true);
+            return;
+          }
+          for (let i = 0; i < shown.length; i++) {
+            const c = shown[i],
+              b = el("button", "option");
+            b.type = "button";
+            b.setAttribute("role", "option");
+            let pic = el("span", "mini-place");
+            if (c.image_url) pic.append(img(c.image_url, c.name));
+            else pic.textContent = c.name.slice(0, 1);
+            b.append(pic);
+            const words = el("span", "option-txt");
+            words.append(el("span", "option-name", c.name));
+            words.append(
+              el("div", "option-extra", c.source_category || "Bleach"),
+            );
+            b.append(words);
+            b.addEventListener("click", () => choose(c));
+            box.append(b);
+          }
+          toggleDropdown(true);
+        }
+        function choose(c) {
+          selected = c;
+          $("search").value = c.name;
+          toggleDropdown(false);
+          $("search").focus();
+        }
+        function compare(c, key) {
+          const sv = secret[key],
+            cv = c[key];
+          if (!known(cv) || !known(sv))
+            return { status: "unknown", direction: null };
+          if (key === "height_cm" || key === "first_arc") {
+            const other = key === "first_arc" ? secret.first_arc_order : sv;
+            const now = key === "first_arc" ? c.first_arc_order : cv;
+            if (now === null || other === null)
+              return { status: "unknown", direction: null };
+            return now === other
+              ? { status: "ok", direction: null }
+              : { status: "bad", direction: now < other ? "up" : "down" };
+          }
+          if (key === "gender")
+            return { status: cv === sv ? "ok" : "bad", direction: null };
+          const a = arr(cv),
+            b = arr(sv),
+            na = new Set(a.map(norm)),
+            nb = new Set(b.map(norm));
+          return na.size === nb.size && [...na].every((z) => nb.has(z))
+            ? { status: "ok", direction: null }
+            : [...na].some((z) => nb.has(z))
+              ? { status: "partial", direction: null }
+              : { status: "bad", direction: null };
+        }
+        function cell(c, key) {
+          const v = c[key],
+            s = compare(c, key),
+            tile = el(
+              "div",
+              "tile " + s.status + (s.direction ? " arrow-" + s.direction : ""),
+            );
+          let value = fmt(v);
+          if (key === "height_cm" && v !== null) value = v + " cm";
+          const t = el("span", "copy", value);
+          tile.append(t);
+          const td = el("td");
+          td.append(tile);
+          return td;
+        }
+        function portrait(c) {
+          const td = el("td"),
+            tile = el("div", "tile portrait"),
+            photo = el("div", "photo");
+          if (c.image_url) photo.append(img(c.image_url, c.name));
+          else photo.append(el("span", "face-fallback", (c.name || "?")[0]));
+          tile.append(photo, el("span", "name", c.name));
+          td.append(tile);
+          return td;
+        }
+        function render(c) {
+          const tbody = $("attempts");
+          if (tbody.querySelector(".empty")) tbody.replaceChildren();
+          const tr = el("tr");
+          tr.append(portrait(c));
+          for (const key of Object.keys(labels)) tr.append(cell(c, key));
+          tbody.prepend(tr);
+        }
+        function tryGuess() {
+          if (!secret) {
+            safeMessage("Il dataset non è ancora disponibile.", "error");
+            return;
+          }
+          if (win) {
+            safeMessage("Partita conclusa: premi Nuova partita.");
+            return;
+          }
+          let q = $("search").value.trim();
+          let c =
+            selected && norm(selected.name) === norm(q)
+              ? selected
+              : pool.find(
+                  (z) =>
+                    norm(z.name) === norm(q) ||
+                    z.aliases?.some((a) => norm(a) === norm(q)),
+                );
+          if (!c) {
+            const m = allMatches(q);
+            if (m.length === 1) c = m[0];
+          }
+          if (!c) {
+            safeMessage("Seleziona un personaggio dai suggerimenti.", "error");
+            showMatches();
+            return;
+          }
+          if (tried.has(c.id)) {
+            safeMessage("Hai già provato questo personaggio.", "error");
+            return;
+          }
+          tried.add(c.id);
+          render(c);
+          $("count").textContent =
+            tried.size + " tentativ" + (tried.size === 1 ? "o" : "i");
+          $("search").value = "";
+          selected = null;
+          toggleDropdown(false);
+          if (c.id === secret.id) {
+            win = true;
+            safeMessage(
+              "Complimenti! Hai indovinato " +
+                secret.name +
+                " in " +
+                tried.size +
+                " tentativ" +
+                (tried.size === 1 ? "o!" : "i!"),
+              "success",
+            );
+            $("try").disabled = true;
+            showResult(
+              "Hai indovinato!",
+              "Il personaggio era " +
+                secret.name +
+                ". Tentativi: " +
+                tried.size +
+                ".",
+            );
+          } else safeMessage("Continua a cercare! Ogni riquadro è un indizio.");
+        }
+        function begin() {
+          if (!pool.length) return;
+          const available = pool.filter((c) => c.eligible_target);
+          if (!available.length) {
+            safeMessage(
+              "Nessun personaggio selezionabile nel dataset.",
+              "error",
+            );
+            return;
+          }
+          if (used.size >= available.length) used.clear();
+          const left = available.filter((c) => !used.has(c.id));
+          secret = left[Math.floor(Math.random() * left.length)];
+          used.add(secret.id);
+          tried.clear();
+          win = false;
+          selected = null;
+          $("attempts").replaceChildren();
+          const tr = el("tr");
+          const empty = el(
+            "td",
+            "empty",
+            "Nuova partita iniziata: prova a indovinare!",
+          );
+          empty.colSpan = 8;
+          tr.append(empty);
+          $("attempts").append(tr);
+          $("result").className = "result";
+          $("search").value = "";
+          $("search").disabled = false;
+          $("try").disabled = false;
+          $("reveal").disabled = false;
+          $("count").textContent = "0 tentativi";
+          toggleDropdown(false);
+          safeMessage("Personaggio segreto estratto. Buona fortuna!");
+        }
+        $("guess-form").addEventListener("submit", (e) => {
+          e.preventDefault();
+          tryGuess();
+        });
+        $("search").addEventListener("input", () => {
+          selected = null;
+          showMatches();
+        });
+        $("search").addEventListener("keydown", (e) => {
+          if ($("dropdown").hidden) return;
+          if (e.key === "Escape") {
+            toggleDropdown(false);
+            return;
+          }
+          if (e.key === "ArrowDown" || e.key === "ArrowUp") {
+            e.preventDefault();
+            if (!shown.length) return;
+            choice =
+              (choice + (e.key === "ArrowDown" ? 1 : -1) + shown.length) %
+              shown.length;
+            Array.from($("dropdown").children).forEach((z, i) =>
+              z.classList.toggle("active", i === choice),
+            );
+            return;
+          }
+          if (e.key === "Enter" && choice >= 0) {
+            e.preventDefault();
+            choose(shown[choice]);
+            return;
+          }
+        });
+        document.addEventListener("click", (e) => {
+          if (!e.target.closest(".input-wrap")) toggleDropdown(false);
+        });
+        $("new").addEventListener("click", begin);
+        $("again").addEventListener("click", begin);
+        $("reveal").addEventListener("click", () => {
+          if (!secret) return;
+          if (!tried.has(secret.id)) {
+            tried.add(secret.id);
+            render(secret);
+          }
+          win = true;
+          $("try").disabled = true;
+          safeMessage(
+            "La soluzione era " +
+              secret.name +
+              ". Premi Nuova partita per ricominciare.",
+          );
+          showResult(
+            "Soluzione: " + secret.name,
+            "Puoi iniziare immediatamente una nuova partita.",
+            true,
+          );
+        });
+        fetch("./characters.json", { cache: "no-store" })
+          .then((r) => {
+            if (!r.ok) throw new Error("HTTP " + r.status);
+            return r.json();
+          })
+          .then((data) => {
+            if (!Array.isArray(data) || data.length === 0)
+              throw Error("Dataset vuoto o malformato");
+            for (const c of data) {
+              if (c && c.id && c.name) pool.push(c);
+            }
+            pool.sort((a, b) => a.name.localeCompare(b.name));
+            begin();
+          })
+          .catch((e) => {
+            console.error("Errore caricamento Bleachdle", e);
+            $("try").disabled = true;
+            $("new").disabled = true;
+            $("reveal").disabled = true;
+            safeMessage(
+              "Impossibile leggere characters.json. Apri il gioco su GitHub Pages o con un server locale. (" +
+                e.message +
+                ")",
+              "error",
+            );
+            $("count").textContent = "Errore dataset";
+          });
+      })();
+    </script>
+  </body>
+</html>

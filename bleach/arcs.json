@@ -1,0 +1,172 @@
+[
+  {
+    "id": "agent",
+    "name": "Agent of the Shinigami",
+    "order": 1,
+    "manga_start": 1,
+    "manga_end": 70,
+    "anime_start": 1,
+    "anime_end": 20,
+    "type": "manga"
+  },
+  {
+    "id": "sneak",
+    "name": "Soul Society: Sneak Entry",
+    "order": 2,
+    "manga_start": 71,
+    "manga_end": 117,
+    "anime_start": 21,
+    "anime_end": 41,
+    "type": "manga"
+  },
+  {
+    "id": "rescue",
+    "name": "Soul Society: Rescue",
+    "order": 3,
+    "manga_start": 118,
+    "manga_end": 183,
+    "anime_start": 42,
+    "anime_end": 63,
+    "type": "manga"
+  },
+  {
+    "id": "bount",
+    "name": "Bount",
+    "order": 4,
+    "manga_start": null,
+    "manga_end": null,
+    "anime_start": 64,
+    "anime_end": 91,
+    "type": "anime-only"
+  },
+  {
+    "id": "bount_assault",
+    "name": "Bount Assault on Soul Society",
+    "order": 5,
+    "manga_start": null,
+    "manga_end": null,
+    "anime_start": 92,
+    "anime_end": 109,
+    "type": "anime-only"
+  },
+  {
+    "id": "arrival",
+    "name": "Arrancar: Arrival",
+    "order": 6,
+    "manga_start": 184,
+    "manga_end": 229,
+    "anime_start": 110,
+    "anime_end": 131,
+    "type": "manga"
+  },
+  {
+    "id": "hueco_entry",
+    "name": "Arrancar: Hueco Mundo Entry",
+    "order": 7,
+    "manga_start": 230,
+    "manga_end": 251,
+    "anime_start": 132,
+    "anime_end": 151,
+    "type": "manga"
+  },
+  {
+    "id": "fierce",
+    "name": "Arrancar: Fierce Fight",
+    "order": 8,
+    "manga_start": 252,
+    "manga_end": 286,
+    "anime_start": 152,
+    "anime_end": 167,
+    "type": "manga"
+  },
+  {
+    "id": "amagai",
+    "name": "New Captain Shūsuke Amagai",
+    "order": 9,
+    "manga_start": null,
+    "manga_end": null,
+    "anime_start": 168,
+    "anime_end": 189,
+    "type": "anime-only"
+  },
+  {
+    "id": "arr_vs_shini",
+    "name": "Arrancar vs. Shinigami",
+    "order": 10,
+    "manga_start": 287,
+    "manga_end": 315,
+    "anime_start": 190,
+    "anime_end": 205,
+    "type": "manga"
+  },
+  {
+    "id": "past",
+    "name": "Turn Back the Pendulum",
+    "order": 11,
+    "manga_start": null,
+    "manga_end": null,
+    "anime_start": 206,
+    "anime_end": 212,
+    "type": "special manga"
+  },
+  {
+    "id": "karakura",
+    "name": "Decisive Battle of Karakura",
+    "order": 12,
+    "manga_start": 316,
+    "manga_end": 340,
+    "anime_start": 213,
+    "anime_end": 229,
+    "type": "manga"
+  },
+  {
+    "id": "zanpakuto",
+    "name": "Zanpakutō Unknown Tales",
+    "order": 13,
+    "manga_start": null,
+    "manga_end": null,
+    "anime_start": 230,
+    "anime_end": 265,
+    "type": "anime-only"
+  },
+  {
+    "id": "downfall",
+    "name": "Arrancar: Downfall",
+    "order": 14,
+    "manga_start": 341,
+    "manga_end": 423,
+    "anime_start": 266,
+    "anime_end": 316,
+    "type": "manga"
+  },
+  {
+    "id": "gotei_invasion",
+    "name": "Gotei 13 Invading Army",
+    "order": 15,
+    "manga_start": null,
+    "manga_end": null,
+    "anime_start": 317,
+    "anime_end": 342,
+    "type": "anime-only"
+  },
+  {
+    "id": "lost_agent",
+    "name": "The Lost Agent (Fullbring)",
+    "order": 16,
+    "manga_start": 424,
+    "manga_end": 479,
+    "anime_start": 343,
+    "anime_end": 366,
+    "type": "manga"
+  },
+  {
+    "id": "tybw",
+    "name": "Thousand-Year Blood War",
+    "order": 17,
+    "manga_start": 480,
+    "manga_end": 686,
+    "anime_start": 367,
+    "anime_end": 406,
+    "type": "manga"
+  }
+]

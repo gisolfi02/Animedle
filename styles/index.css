@@ -22,9 +22,7 @@ body {
     BlinkMacSystemFont,
     "Segoe UI",
     sans-serif;
-  background:
-    radial-gradient(ellipse at 88% 4%, #623c3157 0, transparent 30%),
-    radial-gradient(ellipse at 3% 54%, #244e6459 0, transparent 32%), #0e1420;
+  background: radial-gradient(ellipse at 88% 4%, #623c3157 0, transparent 30%), radial-gradient(ellipse at 3% 54%, #244e6459 0, transparent 32%), #0e1420;
   overflow-x: hidden;
 }
 body::before {
@@ -33,14 +31,7 @@ body::before {
   inset: 0;
   pointer-events: none;
   z-index: -1;
-  background-image:
-    radial-gradient(#ffffff18 0.8px, transparent 0.8px),
-    linear-gradient(
-      115deg,
-      transparent 0 44%,
-      #ffffff06 44.1% 44.35%,
-      transparent 44.5%
-    );
+  background-image: radial-gradient(#ffffff18 0.8px, transparent 0.8px), linear-gradient(115deg, transparent 0 44%, #ffffff06 44.1% 44.35%, transparent 44.5%);
   background-size:
     24px 24px,
     100% 100%;
@@ -145,9 +136,7 @@ a {
   align-items: center;
   border: 1px solid #8a6857;
   border-radius: 22px;
-  background:
-    radial-gradient(circle at 82% 55%, #cf654f25, transparent 33%),
-    linear-gradient(111deg, #1e2738 0%, #151c2b 62%, #252132 100%);
+  background: radial-gradient(circle at 82% 55%, #cf654f25, transparent 33%), linear-gradient(111deg, #1e2738 0%, #151c2b 62%, #252132 100%);
   box-shadow:
     0 23px 45px #0003,
     inset 0 1px #ffffff1a;
@@ -158,14 +147,7 @@ a {
   inset: 0;
   pointer-events: none;
   z-index: -1;
-  background:
-    repeating-linear-gradient(
-      130deg,
-      transparent 0 45px,
-      #ffffff09 46px,
-      transparent 47px
-    ),
-    linear-gradient(90deg, transparent 72%, #f7bf6815 72.2%, transparent 72.5%);
+  background: repeating-linear-gradient(130deg, transparent 0 45px, #ffffff09 46px, transparent 47px), linear-gradient(90deg, transparent 72%, #f7bf6815 72.2%, transparent 72.5%);
 }
 .hero::after {
   content: "";
@@ -421,10 +403,7 @@ h1 .highlight {
   position: absolute;
   inset: 0;
   z-index: -2;
-  background:
-    linear-gradient(180deg, #10182322 7%, transparent 32%, #050b149c 100%),
-    linear-gradient(90deg, #0815234a, transparent 76%),
-    linear-gradient(135deg, var(--accent-dark), #121c2b);
+  background: linear-gradient(180deg, #10182322 7%, transparent 32%, #050b149c 100%), linear-gradient(90deg, #0815234a, transparent 76%), linear-gradient(135deg, var(--accent-dark), #121c2b);
   transition: transform 0.45s ease;
 }
 .banner.onepiece::before {
@@ -529,11 +508,7 @@ h1 .highlight {
   gap: 14px;
   min-height: 98px;
   padding: 18px 21px;
-  background: linear-gradient(
-    110deg,
-    color-mix(in srgb, var(--accent) 9%, #192434),
-    #152030 77%
-  );
+  background: linear-gradient(110deg, color-mix(in srgb, var(--accent) 9%, #192434), #152030 77%);
   border-top: 1px solid #ffffff22;
 }
 .card-body h3 {
@@ -550,6 +525,7 @@ h1 .highlight {
 .enter {
   flex: 0 0 44px;
   width: 44px;
+  padding-top: 5px;
   height: 44px;
   display: grid;
   place-items: center;

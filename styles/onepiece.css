@@ -531,6 +531,7 @@ td {
   }
   .head {
     align-items: flex-start;
+    flex-wrap: wrap;
   }
   .main {
     padding: 17px 10px;
@@ -565,7 +566,7 @@ td {
     gap: 8px;
   }
   .head .actions {
-    justify-content: flex-end;
+    justify-content: center;
   }
   input {
     font-size: 15px;

@@ -892,6 +892,7 @@
       </header>
       <main class="game-panel">
         <h2>Indovina il personaggio di Bleach!</h2>
+        <p class="desc" style="display: none"></p>
         <div class="input-wrap">
           <form class="input-line" id="guess-form" autocomplete="off">
             <span class="search-icon" aria-hidden="true"
@@ -915,6 +916,11 @@
           </form>
           <div class="dropdown" id="dropdown" role="listbox" hidden></div>
         </div>
+        <div class="msg-bar" aria-live="polite">
+          <span class="message" id="message" role="status" style="display: none"
+            >Caricamento dei personaggi...</span
+          ><span class="count" id="count" style="display: none"></span>
+        </div>
         <div id="result" class="result" aria-live="polite">
           <strong id="resultTitle"></strong>
           <p id="resultText"></p>
@@ -923,6 +929,9 @@
             <i class="fa-solid fa-rotate-right" aria-hidden="true"></i>
           </button>
         </div>
+        <p class="scrollhelp" style="display: none">
+          Scorri orizzontalmente per vedere tutti gli indizi →
+        </p>
         <div
           class="table-scroll"
           tabindex="0"
@@ -941,7 +950,13 @@
                 <th>Primo arco</th>
               </tr>
             </thead>
-            <tbody id="attempts"></tbody>
+            <tbody id="attempts">
+              <tr>
+                <td colspan="8" class="empty" style="display: none">
+                  Seleziona un personaggio e premi «Prova».
+                </td>
+              </tr>
+            </tbody>
           </table>
         </div>
         <section class="legend" aria-label="Legenda degli indizi">
@@ -958,16 +973,18 @@
             </div>
             <div class="legend-item">
               <span class="swatch red"
-                ><i class="fas fa-arrow-up" aria-hidden="true"></i></span
+                ><i class="fa-solid fa-arrow-up" aria-hidden="true"></i></span
               >Più alto
             </div>
             <div class="legend-item">
               <span class="swatch red"
-                ><i class="fas fa-arrow-down" aria-hidden="true"></i></span
+                ><i class="fa-solid fa-arrow-down" aria-hidden="true"></i></span
               >Più basso
             </div>
           </div>
         </section>
+        <p class="note" style="display: none"></p>
+        <p></p>
       </main>
     </div>
     <script>
@@ -1032,6 +1049,7 @@
         };
         const safeMessage = (text, cls = "") => {
           const e = $("message");
+          e.textContent = text;
           e.className = "message" + (cls ? " " + cls : "");
         };
         const img = (url, alt) => {
@@ -1252,7 +1270,11 @@
           selected = null;
           $("attempts").replaceChildren();
           const tr = el("tr");
-          const empty = el("");
+          const empty = el(
+            "td",
+            "empty",
+            "Nuova partita iniziata: prova a indovinare!",
+          );
           empty.colSpan = 8;
           tr.append(empty);
           $("attempts").append(tr);
@@ -1261,6 +1283,7 @@
           $("search").disabled = false;
           $("try").disabled = false;
           $("reveal").disabled = false;
+          $("count").textContent = "0 tentativi";
           toggleDropdown(false);
           safeMessage("Personaggio segreto estratto. Buona fortuna!");
         }

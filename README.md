@@ -78,13 +78,11 @@ Ogni gioco ha una propria identità grafica, un insieme di personaggi e categori
 
 | Indicatore | Significato                                                                                                                              |
 | :--------: | ---------------------------------------------------------------------------------------------------------------------------------------- |
-|     🟩     | **Corretto** — l'attributo coincide con quello del personaggio segreto.                                                                  |
-|     🟨     | **Parziale** — esiste una corrispondenza parziale, nelle categorie che la prevedono.                                                     |
-|     🟥     | **Errato** — l'attributo non corrisponde.                                                                                                |
-|     ⬜     | **Sconosciuto / non disponibile** — il dato non permette un confronto completo, quando previsto.                                         |
-|  ⬆️ / ⬇️   | **Più alto / più basso** — il valore cercato è maggiore o minore (per esempio altezza, taglia o ordine di debutto, a seconda del gioco). |
-
-> **Nessuna sfida giornaliera obbligatoria:** puoi iniziare nuove partite e continuare a giocare senza attendere il giorno successivo.
+|     🟩     | **Corretto** - l'attributo coincide con quello del personaggio segreto.                                                                  |
+|     🟨     | **Parziale** - esiste una corrispondenza parziale, nelle categorie che la prevedono.                                                     |
+|     🟥     | **Errato** - l'attributo non corrisponde.                                                                                                |
+|     ⬜     | **Sconosciuto / non disponibile** - il dato non permette un confronto completo, quando previsto.                                         |
+|  ⬆️ / ⬇️   | **Più alto / più basso** - il valore cercato è maggiore o minore (per esempio altezza, taglia o ordine di debutto, a seconda del gioco). |
 
 <details>
 <summary><strong>📋 Quali attributi vengono confrontati?</strong></summary>
@@ -145,16 +143,12 @@ Animedle/
 │   ├── dragonball.js
 │   ├── bleach.js
 │   └── ambient.js           # Gestione audio condivisa, se abilitata
-├── css/                      # Fogli di stile dei giochi
+├── styles/                      # Fogli di stile dei giochi
 ├── images/                   # Banner e icone del sito
 └── audio/                    # Sottofondi ambientali, se presenti
 ```
 
-> La struttura è indicativa per le cartelle opzionali (`css/`, `audio/`) e può variare leggermente in base a come sono organizzati i file della repository.
-
 ## 🚀 Avvio in locale
-
-Non serve installare Node.js, pacchetti npm o un database.
 
 **1. Clona la repository:**
 
@@ -175,7 +169,7 @@ python -m http.server 8000
 http://localhost:8000/
 ```
 
-> **Importante:** non aprire direttamente i file HTML con `file://`. I giochi che caricano i personaggi tramite `fetch()` richiedono normalmente un server HTTP, anche in locale. In alternativa puoi usare **Live Server** su Visual Studio Code.
+> **Importante:** non aprire direttamente i file HTML con `file://`. I giochi caricano i personaggi tramite `fetch()` richiedono normalmente un server HTTP, anche in locale. In alternativa puoi usare **Live Server** su Visual Studio Code.
 
 ## 🧭 Personalizzazione
 
@@ -193,17 +187,13 @@ Hai notato un dato errato, un'immagine non disponibile o un problema nell'interf
 
 Animedle è un **progetto fan-made non ufficiale**, realizzato per passione e intrattenimento. Non è affiliato né approvato dai creatori, dagli editori o dagli altri titolari dei diritti delle opere rappresentate.
 
-_One Piece_, _Naruto_, _Dragon Ball_ e _Bleach_, con i rispettivi personaggi, nomi, immagini e altri elementi protetti, appartengono ai relativi aventi diritto. La presenza di materiali nel progetto non implica un'autorizzazione al loro riutilizzo. Eventuali contenuti audio devono essere utilizzati nel rispetto delle rispettive licenze.
-
-Per i termini di riutilizzo del **codice del progetto**, fare riferimento all'eventuale file `LICENSE` presente nella repository.
+_One Piece_, _Naruto_, _Dragon Ball_ e _Bleach_, con i rispettivi personaggi, nomi, immagini e altri elementi protetti, appartengono ai relativi aventi diritto. La presenza di materiali nel progetto non implica un'autorizzazione al loro riutilizzo.
 
 ---
 
 <div align="center">
 
 **Fatto con passione per gli anime.** ❤️
-
-_Quale universo riuscirai a conquistare?_
 
 **[🎮 GIOCA AD ANIMEDLE](https://gisolfi02.github.io/Animedle/)**
 

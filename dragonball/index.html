@@ -7,6 +7,8 @@
     <script src="https://kit.fontawesome.com/7d86f6057b.js" crossorigin="anonymous"></script>
     <script src="../js/dragonball.js" defer></script>
     <link rel="stylesheet" href="../styles/dragonball.css" />
+    <link rel="icon" type="image/png" href="../images/logo.png" />
+    <link rel="manifest" href="../manifest.json" />
     <title>Dragonballdle</title>
   </head>
   <body>
@@ -30,17 +32,7 @@
         <div class="search">
           <div class="input-line">
             <span class="input-icon" aria-hidden="true"><i class="fas fa-magnifying-glass"></i></span>
-            <input
-              id="guessInput"
-              type="text"
-              placeholder="Nome del personaggio..."
-              autocomplete="off"
-              autocapitalize="off"
-              spellcheck="false"
-              aria-label="Nome del personaggio"
-              aria-expanded="false"
-              aria-controls="matches"
-            />
+            <input id="guessInput" type="text" placeholder="Nome del personaggio..." autocomplete="off" autocapitalize="off" spellcheck="false" aria-label="Nome del personaggio" aria-expanded="false" aria-controls="matches" />
             <button class="btn primary" type="button" id="submitGuess">Prova <i class="fas fa-paper-plane"></i></button>
           </div>
           <div id="matches" class="dropdown" role="listbox"></div>

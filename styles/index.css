@@ -525,7 +525,7 @@ h1 .highlight {
 .enter {
   flex: 0 0 44px;
   width: 44px;
-  padding-top: 5px;
+  padding-bottom: 5px;
   height: 44px;
   display: grid;
   place-items: center;
@@ -564,6 +564,9 @@ h1 .highlight {
   }
   .hero-copy {
     width: 78%;
+  }
+  .enter {
+    padding-bottom: 1%;
   }
 }
 @media (max-width: 660px) {

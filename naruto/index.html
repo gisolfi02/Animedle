@@ -6,6 +6,7 @@
     <meta name="theme-color" content="#b84e24" />
     <script src="https://kit.fontawesome.com/7d86f6057b.js" crossorigin="anonymous"></script>
     <script src="../js/naruto.js" defer></script>
+    <script src="../js/ambient.js" defer></script>
     <link rel="icon" type="image/png" href="../images/logo.png" />
     <link rel="stylesheet" href="../styles/naruto.css" />
     <link rel="manifest" href="../manifest.json" />
@@ -30,6 +31,11 @@
           <button type="button" id="restart" class="btn primary">
             <i class="fa-solid fa-rotate-right" style="color: rgb(255, 255, 255)"></i>
             Nuova partita
+          </button>
+          <button class="btn" id="ambientToggle" type="button" aria-pressed="false">
+            <span id="ambientIcon">
+              <i class="fa-solid fa-volume-xmark"></i>
+            </span>
           </button>
         </div>
       </header>
@@ -92,5 +98,6 @@
         </div>
       </main>
     </div>
+    <audio id="ambientAudio" src="../audio/naruto.mp3" loop preload="none"></audio>
   </body>
 </html>

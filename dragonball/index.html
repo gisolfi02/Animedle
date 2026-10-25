@@ -6,6 +6,7 @@
     <meta name="theme-color" content="#102554" />
     <script src="https://kit.fontawesome.com/7d86f6057b.js" crossorigin="anonymous"></script>
     <script src="../js/dragonball.js" defer></script>
+    <script src="../js/ambient.js" defer></script>
     <link rel="stylesheet" href="../styles/dragonball.css" />
     <link rel="icon" type="image/png" href="../images/logo.png" />
     <link rel="manifest" href="../manifest.json" />
@@ -24,6 +25,11 @@
           <a href="../index.html" class="btn"><i class="fas fa-arrow-left"></i> Tutti i giochi</a>
           <button type="button" class="btn" id="showAnswer"><i class="fas fa-lightbulb"></i> Mostra soluzione</button>
           <button type="button" class="btn primary" id="restart"><i class="fas fa-rotate-right"></i> Nuova partita</button>
+          <button class="btn" id="ambientToggle" type="button" aria-pressed="false">
+            <span id="ambientIcon">
+              <i class="fa-solid fa-volume-xmark"></i>
+            </span>
+          </button>
         </div>
       </header>
       <main>
@@ -72,5 +78,6 @@
         </div>
       </main>
     </div>
+    <audio id="ambientAudio" src="../audio/dragonball.mp3" loop preload="none"></audio>
   </body>
 </html>

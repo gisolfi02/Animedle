@@ -6,6 +6,7 @@
     <meta name="color-scheme" content="light" />
     <script src="https://kit.fontawesome.com/7d86f6057b.js" crossorigin="anonymous"></script>
     <script src="../js/onepiece.js" defer></script>
+    <script src="../js/ambient.js" defer></script>
     <link rel="stylesheet" href="../styles/onepiece.css" />
     <link rel="icon" type="image/png" href="../images/logo.png" />
     <link rel="manifest" href="../manifest.json" />
@@ -26,6 +27,11 @@
           <button class="btn primary" id="newGame" type="button">
             <i class="fa-solid fa-rotate-right" style="color: rgb(255, 255, 255)"></i>
             Nuova partita
+          </button>
+          <button class="btn" id="ambientToggle" type="button" aria-pressed="false">
+            <span id="ambientIcon">
+              <i class="fa-solid fa-volume-xmark"></i>
+            </span>
           </button>
         </div>
       </header>
@@ -99,5 +105,6 @@
         </div>
       </main>
     </div>
+    <audio id="ambientAudio" src="../audio/onepiece.mp3" loop preload="none"></audio>
   </body>
 </html>

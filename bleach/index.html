@@ -7,6 +7,7 @@
     <title>Bleachdle</title>
     <script src="https://kit.fontawesome.com/7d86f6057b.js" crossorigin="anonymous"></script>
     <script src="../js/bleach.js" defer></script>
+    <script src="../js/ambient.js" defer></script>
     <link rel="stylesheet" href="../styles/bleach.css" />
     <link rel="icon" type="image/png" href="../images/logo.png" />
     <link rel="manifest" href="../manifest.json" />
@@ -22,10 +23,16 @@
           <a class="btn" href="../index.html"><i class="fa-solid fa-arrow-left" aria-hidden="true"></i> Tutti i giochi</a>
           <button id="reveal" type="button" class="btn"><i class="fa-solid fa-lightbulb" aria-hidden="true"></i> Mostra soluzione</button>
           <button id="new" type="button" class="btn primary"><i class="fa-solid fa-rotate-right" aria-hidden="true"></i> Nuova partita</button>
+          <button class="btn" id="ambientToggle" type="button" aria-pressed="false">
+            <span id="ambientIcon">
+              <i class="fa-solid fa-volume-xmark"></i>
+            </span>
+          </button>
         </div>
       </header>
       <main class="game-panel">
         <h2>Indovina il personaggio di Bleach!</h2>
+
         <p class="desc" style="display: none"></p>
         <div class="input-wrap">
           <form class="input-line" id="guess-form" autocomplete="off">
@@ -87,5 +94,6 @@
         <p></p>
       </main>
     </div>
+    <audio id="ambientAudio" src="../audio/bleach.mp3" loop preload="none"></audio>
   </body>
 </html>

@@ -436,6 +436,8 @@
         place-items: center;
         background: linear-gradient(135deg, #f4b75d, #b55331);
         overflow: hidden;
+        border-top-left-radius: 5px;
+        border-top-right-radius: 5px;
       }
       .portrait-media b {
         font-size: 29px;
@@ -462,6 +464,8 @@
         justify-content: center;
         padding: 3px 2px;
         line-height: 1.12;
+        border-bottom-left-radius: 4px;
+        border-bottom-right-radius: 4px;
       }
       .tile.portrait.hit {
         border: 3px solid #2f9b55;
@@ -571,7 +575,445 @@
           font-size: 16px;
         }
         .legend-grid {
-          grid-template-columns: repeat(2, 1fr);
+          grid-template-columns: repeat(3, 1fr);
+        }
+      }
+
+      /* ==============================================
+         NARUTODLE — THEME: PERGAMENA DELLO SHINOBI
+         Solo presentazione: nessuna modifica al gioco.
+         ============================================== */
+      :root {
+        --ink: #2d3129;
+        --text2: #615847;
+        --orange: #d85a22;
+        --orange2: #f8ad4a;
+        --sand: #f0dfb8;
+        --white: #fff5dc;
+        --line: #a99a73;
+        --good: #278357;
+        --bad: #bf4240;
+        --part: #e3b83e;
+        --shadow:
+          0 22px 46px rgba(4, 24, 21, 0.34), 0 5px 12px rgba(16, 32, 22, 0.18);
+        --forest: #102925;
+        --forest-light: #24483c;
+        --paper: #f5ead0;
+        --paper-light: #fff8e7;
+        --copper: #cb752f;
+      }
+
+      body {
+        background: #102923;
+        background-image:
+          radial-gradient(
+            ellipse at 5% 10%,
+            rgba(76, 117, 74, 0.33),
+            transparent 42%
+          ),
+          radial-gradient(
+            ellipse at 100% 84%,
+            rgba(210, 98, 38, 0.18),
+            transparent 45%
+          ),
+          linear-gradient(145deg, #193e32 0%, #0c2321 57%, #132c27 100%);
+        background-attachment: fixed;
+      }
+      body::before {
+        background:
+          repeating-linear-gradient(
+            60deg,
+            transparent 0 76px,
+            rgba(215, 226, 178, 0.035) 77px 78px,
+            transparent 79px 156px
+          ),
+          repeating-linear-gradient(
+            -60deg,
+            transparent 0 76px,
+            rgba(215, 226, 178, 0.035) 77px 78px,
+            transparent 79px 156px
+          ),
+          radial-gradient(
+            circle at 15% 17%,
+            transparent 0 34px,
+            rgba(224, 179, 103, 0.085) 35px 36px,
+            transparent 37px 64px,
+            rgba(224, 179, 103, 0.07) 65px 66px,
+            transparent 67px
+          );
+        opacity: 1;
+        z-index: -1;
+      }
+      .shell {
+        margin-top: 30px;
+      }
+
+      /* Villaggio della Foglia: testata come una targa ninja */
+      .nav {
+        position: relative;
+        isolation: isolate;
+        overflow: hidden;
+        padding: 18px 22px;
+        border: 1px solid rgba(223, 185, 111, 0.74);
+        border-bottom: 4px solid #b9652d;
+        border-radius: 17px;
+        background: linear-gradient(
+          115deg,
+          rgba(11, 34, 30, 0.96),
+          rgba(34, 69, 55, 0.98) 62%,
+          rgba(14, 40, 36, 0.98)
+        );
+        box-shadow:
+          0 18px 34px #06181455,
+          inset 0 1px 0 #f7dea64d;
+        color: #f8eacc;
+      }
+      .nav::before {
+        content: "";
+        position: absolute;
+        inset: 0;
+        z-index: -1;
+        opacity: 0.25;
+        pointer-events: none;
+        background: repeating-linear-gradient(
+          110deg,
+          transparent 0 19px,
+          rgba(239, 225, 190, 0.1) 20px,
+          transparent 21px 43px
+        );
+      }
+      .nav::after {
+        content: "忍";
+        position: absolute;
+        right: 27%;
+        top: -28px;
+        font-size: 155px;
+        font-family: Georgia, serif;
+        font-weight: 900;
+        line-height: 1;
+        color: rgba(244, 207, 141, 0.055);
+        pointer-events: none;
+        z-index: -1;
+      }
+      .brand {
+        gap: 15px;
+      }
+      .symbol {
+        width: 58px;
+        height: 58px;
+        flex: 0 0 58px;
+        border-radius: 50%;
+        border: 3px solid #f1c17c;
+        outline: 2px solid #9d4a23;
+        outline-offset: 2px;
+        background:
+          radial-gradient(circle at 35% 23%, #f8bb68 0%, transparent 35%),
+          linear-gradient(145deg, #e4742f, #a83220);
+        color: #fff7e8;
+        font-size: 31px;
+        box-shadow:
+          0 4px 0 #061c1b,
+          0 0 22px #e1844344;
+        transform: rotate(-7deg);
+        text-shadow: 0 2px 2px #7c2616;
+      }
+      h1 {
+        color: #ffe6ac;
+        font-family: Georgia, "Times New Roman", serif;
+        letter-spacing: 0.5px;
+        text-shadow: 0 2px 0 #091d18;
+      }
+      .sub {
+        color: #d8caa8;
+      }
+
+      /* Pulsanti in rame e tessuto shinobi */
+      .btn {
+        border: 1px solid #ae9369;
+        border-bottom: 3px solid #85704e;
+        border-radius: 9px;
+        background: linear-gradient(180deg, #fcf0d6, #e9d4ac);
+        color: #243a2f;
+        box-shadow: 0 4px 12px #061a1940;
+        transition:
+          background 0.15s ease,
+          transform 0.15s ease,
+          box-shadow 0.15s ease;
+      }
+      .btn:hover {
+        background: #fff7e5;
+        transform: translateY(-2px);
+        box-shadow: 0 6px 13px #061a1940;
+      }
+      .btn.primary {
+        border-color: #eeac55;
+        border-bottom-color: #8e351e;
+        background: linear-gradient(180deg, #e87936, #c84921);
+        color: #fff9e7;
+        text-shadow: 0 1px 2px #61200d;
+      }
+      .btn.primary:hover {
+        background: linear-gradient(180deg, #f08c42, #d85927);
+      }
+      .btn:focus-visible,
+      input:focus-visible,
+      .option:focus-visible {
+        outline-color: #e5933a;
+      }
+
+      /* Rotolo antico contenente gli indizi */
+      main {
+        position: relative;
+        isolation: isolate;
+        overflow: visible;
+        margin-top: 24px;
+        border: 2px solid #c49a58;
+        border-radius: 17px;
+        padding: 35px 27px 29px;
+        background:
+          radial-gradient(ellipse at 0% 0%, #e5ca9450, transparent 48%),
+          radial-gradient(ellipse at 100% 100%, #c5a16b42, transparent 43%),
+          repeating-linear-gradient(
+            0deg,
+            transparent 0 35px,
+            #a78b5e0b 36px 37px,
+            transparent 38px 71px
+          ),
+          linear-gradient(145deg, #f9eed6, #fff7e8 52%, #f3e2bc);
+        box-shadow:
+          var(--shadow),
+          inset 0 0 0 5px rgba(255, 250, 232, 0.5),
+          inset 0 0 42px rgba(149, 103, 52, 0.19);
+      }
+      main::before,
+      main::after {
+        content: "";
+        position: absolute;
+        left: 21px;
+        right: 21px;
+        height: 11px;
+        z-index: 0;
+        pointer-events: none;
+        border: 1px solid #a96d37;
+        border-radius: 8px;
+        background: linear-gradient(
+          180deg,
+          #efc180 0%,
+          #bb834d 48%,
+          #8e502a 54%,
+          #d19e61 100%
+        );
+        box-shadow: 0 3px 7px #59371940;
+      }
+      main::before {
+        top: -8px;
+      }
+      main::after {
+        bottom: -8px;
+      }
+      main > * {
+        position: relative;
+      }
+      h2 {
+        font-family: Georgia, "Times New Roman", serif;
+        color: #4d3926;
+        letter-spacing: 0.3px;
+        text-shadow: 0 1px 0 #fffefa;
+      }
+      h2::after {
+        content: "";
+        display: block;
+        width: 90px;
+        height: 3px;
+        margin: 11px auto 0;
+        border-radius: 9px;
+        background: linear-gradient(
+          90deg,
+          transparent,
+          #df7e38 18%,
+          #ab4922 52%,
+          #df7e38 82%,
+          transparent
+        );
+      }
+      .desc {
+        color: #62563e;
+      }
+      .input-wrap {
+        width: min(690px, 100%);
+      }
+      .input-line {
+        background: #fffcf3;
+        border: 2px solid #a88b60;
+        border-bottom: 4px solid #b68b56;
+        box-shadow:
+          0 6px 13px rgba(85, 65, 36, 0.14),
+          inset 0 0 0 1px #fff6dd;
+        border-radius: 12px;
+      }
+      .input-line:focus-within {
+        border-color: #d87934;
+        box-shadow: 0 0 0 4px #e28e3745;
+      }
+      .search-icon {
+        color: #af682c;
+      }
+      #guessInput {
+        color: #253a2f;
+      }
+      #guessInput::placeholder {
+        color: #8f8875;
+      }
+      .dropdown {
+        border: 2px solid #ad8855;
+        background: #fff9e9;
+        box-shadow: 0 16px 27px #1e25194d;
+      }
+      .option {
+        background: #fff9e9;
+      }
+      .option:hover,
+      .option.active {
+        background: #f5dcab;
+      }
+      .option + .option {
+        border-top-color: #e6d5ae;
+      }
+      .mini {
+        background: #ecd5a4;
+        border-color: #b5996b;
+      }
+      .opt-sub {
+        color: #75674f;
+      }
+      .msg {
+        color: #645942;
+        font-weight: 600;
+      }
+
+      /* Colonne: pergamena e sigilli colorati senza toccare i confronti */
+      thead th {
+        color: #3c4933;
+        border-bottom: 3px solid #a66b37;
+        text-shadow: 0 1px 0 #fff8e5;
+      }
+      .tile {
+        border-radius: 9px;
+        border: 2px solid #fff5de77;
+        box-shadow:
+          inset 0 -9px 0 #041c191a,
+          0 3px 0 #71512d22;
+        text-shadow: 0 1px 2px #071f1d66;
+      }
+      .tile.correct {
+        background: #27865c;
+      }
+      .tile.partial {
+        background: #e4b942;
+        color: #332918;
+        text-shadow: none;
+      }
+      .tile.wrong {
+        background: #c64642;
+      }
+      .tile .tag,
+      .tile .nitem {
+        border: 1px solid #ffffff33;
+      }
+      .tile.portrait {
+        background: #f0c987;
+        border-color: #9e7543;
+      }
+      .portrait-media {
+        background: linear-gradient(140deg, #df914a, #9f4924);
+      }
+      .portrait-media img {
+        background: #e9d0a3;
+      }
+      .name {
+        background: #f6e5c4;
+        color: #342e24;
+        font-weight: 800;
+      }
+      .tile.portrait.hit {
+        border-color: #2f9b55;
+      }
+      .scrollhelp {
+        color: #6f603e;
+      }
+
+      /* Legenda simile a un pannello di missione */
+      .legend {
+        width: min(780px, 100%);
+        border: 1px solid #927345;
+        border-top: 4px solid #cf8c44;
+        border-radius: 12px;
+        background: linear-gradient(115deg, #243e35, #182e2b);
+        box-shadow:
+          0 6px 16px #102a2733,
+          inset 0 1px 0 #fbe3ad22;
+        color: #f6e9ce;
+        padding: 16px 19px;
+      }
+      .legend h3 {
+        color: #f5d599;
+        letter-spacing: 0.3px;
+      }
+      .legend-item {
+        color: #f3e8d4;
+      }
+      .swatch {
+        border: 1px solid #ffffff3d;
+        box-shadow: 0 2px 0 #0e1d1a;
+      }
+      .foot {
+        color: #76664b;
+      }
+      .result {
+        box-shadow: 0 9px 15px #28493420;
+      }
+
+      @media (max-width: 650px) {
+        .shell {
+          margin: 14px auto 34px;
+        }
+        .nav {
+          padding: 14px 12px;
+          gap: 13px;
+        }
+        .brand .symbol {
+          width: 43px;
+          height: 43px;
+          flex-basis: 43px;
+          font-size: 22px;
+          outline-offset: 1px;
+        }
+        .nav::after {
+          right: 7%;
+          top: 0;
+          font-size: 108px;
+        }
+        h1 {
+          font-size: clamp(23px, 6vw, 29px);
+        }
+        main {
+          padding: 27px 10px 25px;
+        }
+        main::before,
+        main::after {
+          left: 12px;
+          right: 12px;
+        }
+        .legend {
+          padding: 13px 12px;
+        }
+        .btn {
+          box-shadow: 0 2px 5px #071d1a33;
+        }
+      }
+      @media (prefers-reduced-motion: reduce) {
+        .btn {
+          transition: none;
         }
       }
     </style>
@@ -639,6 +1081,13 @@
           <div class="dropdown" role="listbox" id="matches"></div>
         </div>
 
+        <div
+          id="message"
+          class="msg"
+          role="status"
+          aria-live="polite"
+          style="display: none"
+        ></div>
         <div id="result" class="result" aria-live="polite">
           <strong id="resultTitle"></strong>
           <p id="resultText"></p>
@@ -865,7 +1314,7 @@
           "nature_types": [],
           "attributes": [],
           "debut_chapter": 29,
-          "first_arc": "Prologo – Paese delle Onde",
+          "first_arc": "Prologo",
           "first_arc_order": 1,
           "source_jutsu": [
             "The Springtime of Youth wiki has an article about this topic:",
@@ -1178,7 +1627,7 @@
           "nature_types": [],
           "attributes": [],
           "debut_chapter": 29,
-          "first_arc": "Prologo – Paese delle Onde",
+          "first_arc": "Prologo",
           "first_arc_order": 1,
           "source_jutsu": [
             "The Springtime of Youth wiki has an article about this topic:",
@@ -1253,7 +1702,7 @@
           "nature_types": [],
           "attributes": [],
           "debut_chapter": 29,
-          "first_arc": "Prologo – Paese delle Onde",
+          "first_arc": "Prologo",
           "first_arc_order": 1,
           "source_jutsu": [
             "The Springtime of Youth wiki has an article about this topic:",
@@ -1771,7 +2220,7 @@
           "nature_types": ["Fuoco"],
           "attributes": [],
           "debut_chapter": 2,
-          "first_arc": "Prologo – Paese delle Onde",
+          "first_arc": "Prologo",
           "first_arc_order": 1,
           "source_jutsu": [
             "Naruto: Shinobi Collection Shippū Ranbu27 July 2015"
@@ -2129,7 +2578,7 @@
           "nature_types": ["Acqua"],
           "attributes": [],
           "debut_chapter": 1,
-          "first_arc": "Prologo – Paese delle Onde",
+          "first_arc": "Prologo",
           "first_arc_order": 1,
           "source_jutsu": [
             "Combination Transformation",
@@ -2441,7 +2890,7 @@
           "nature_types": [],
           "attributes": [],
           "debut_chapter": 29,
-          "first_arc": "Prologo – Paese delle Onde",
+          "first_arc": "Prologo",
           "first_arc_order": 1,
           "source_jutsu": [
             "The Springtime of Youth wiki has an article about this topic:",
@@ -2466,7 +2915,7 @@
           "nature_types": ["Acqua"],
           "attributes": ["Ninja traditore", "Mercenario"],
           "debut_chapter": 9,
-          "first_arc": "Prologo – Paese delle Onde",
+          "first_arc": "Prologo",
           "first_arc_order": 1,
           "source_jutsu": ["Water Release: Hiding in Water Technique"],
           "source_kekkei_genkai": [],
@@ -2536,7 +2985,7 @@
           "nature_types": ["Vento", "Acqua"],
           "attributes": ["Mercenario"],
           "debut_chapter": 15,
-          "first_arc": "Prologo – Paese delle Onde",
+          "first_arc": "Prologo",
           "first_arc_order": 1,
           "source_jutsu": [
             "Certain-Kill Ice Spears (Anime only)",
@@ -2882,7 +3331,7 @@
           "nature_types": ["Fuoco", "Vento", "Fulmine", "Terra", "Acqua"],
           "attributes": [],
           "debut_chapter": 1,
-          "first_arc": "Prologo – Paese delle Onde",
+          "first_arc": "Prologo",
           "first_arc_order": 1,
           "source_jutsu": [
             "Dead Demon Consuming Seal",
@@ -3271,7 +3720,7 @@
           "nature_types": ["Fuoco", "Acqua"],
           "attributes": [],
           "debut_chapter": 1,
-          "first_arc": "Prologo – Paese delle Onde",
+          "first_arc": "Prologo",
           "first_arc_order": 1,
           "source_jutsu": [
             "Demonic Illusion: Hell Viewing Technique (Anime only)",
@@ -3810,7 +4259,7 @@
           "nature_types": ["Fulmine", "Terra", "Acqua", "Fuoco", "Vento"],
           "attributes": [],
           "debut_chapter": 3,
-          "first_arc": "Prologo – Paese delle Onde",
+          "first_arc": "Prologo",
           "first_arc_order": 1,
           "source_jutsu": [
             "Area Scanning Technique",
@@ -4471,7 +4920,7 @@
           "nature_types": ["Fuoco", "Vento", "Fulmine"],
           "attributes": [],
           "debut_chapter": 2,
-          "first_arc": "Prologo – Paese delle Onde",
+          "first_arc": "Prologo",
           "first_arc_order": 1,
           "source_jutsu": [
             "Adamantine Seal: Monkey Yang Suppression (Anime only)",
@@ -5225,7 +5674,7 @@
           "nature_types": ["Acqua"],
           "attributes": ["Ninja traditore", "Mercenario"],
           "debut_chapter": 9,
-          "first_arc": "Prologo – Paese delle Onde",
+          "first_arc": "Prologo",
           "first_arc_order": 1,
           "source_jutsu": ["Water Release: Hiding in Water Technique"],
           "source_kekkei_genkai": [],
@@ -5523,7 +5972,7 @@
           "nature_types": ["Terra"],
           "attributes": ["Ninja traditore"],
           "debut_chapter": 1,
-          "first_arc": "Prologo – Paese delle Onde",
+          "first_arc": "Prologo",
           "first_arc_order": 1,
           "source_jutsu": [
             "Animal Cursed Seal (Anime only)",
@@ -5775,7 +6224,7 @@
           "nature_types": ["Vento", "Fulmine", "Terra", "Acqua", "Fuoco"],
           "attributes": ["Jinchūriki", "Saggio"],
           "debut_chapter": 1,
-          "first_arc": "Prologo – Paese delle Onde",
+          "first_arc": "Prologo",
           "first_arc_order": 1,
           "source_jutsu": [
             "All Directions Shuriken",
@@ -6246,7 +6695,7 @@
           "nature_types": [],
           "attributes": [],
           "debut_chapter": 29,
-          "first_arc": "Prologo – Paese delle Onde",
+          "first_arc": "Prologo",
           "first_arc_order": 1,
           "source_jutsu": [
             "The Springtime of Youth wiki has an article about this topic:",
@@ -6618,7 +7067,7 @@
           "nature_types": ["Terra", "Acqua", "Fuoco"],
           "attributes": ["Ninja medico"],
           "debut_chapter": 3,
-          "first_arc": "Prologo – Paese delle Onde",
+          "first_arc": "Prologo",
           "first_arc_order": 1,
           "source_jutsu": [
             "Area Scanning Technique (Manga only)",
@@ -6718,7 +7167,7 @@
           "nature_types": ["Fulmine", "Fuoco", "Vento", "Terra", "Acqua"],
           "attributes": ["Ninja traditore"],
           "debut_chapter": 3,
-          "first_arc": "Prologo – Paese delle Onde",
+          "first_arc": "Prologo",
           "first_arc_order": 1,
           "source_jutsu": [
             "Afterglow",
@@ -6908,7 +7357,7 @@
           "nature_types": [],
           "attributes": [],
           "debut_chapter": 29,
-          "first_arc": "Prologo – Paese delle Onde",
+          "first_arc": "Prologo",
           "first_arc_order": 1,
           "source_jutsu": [
             "The Springtime of Youth wiki has an article about this topic:",
@@ -7895,7 +8344,7 @@
           "nature_types": [],
           "attributes": [],
           "debut_chapter": 29,
-          "first_arc": "Prologo – Paese delle Onde",
+          "first_arc": "Prologo",
           "first_arc_order": 1,
           "source_jutsu": [
             "The Springtime of Youth wiki has an article about this topic:",
@@ -7958,7 +8407,7 @@
           "nature_types": [],
           "attributes": [],
           "debut_chapter": 18,
-          "first_arc": "Prologo – Paese delle Onde",
+          "first_arc": "Prologo",
           "first_arc_order": 1,
           "source_jutsu": ["Iaidō"],
           "source_kekkei_genkai": [],
@@ -8352,7 +8801,7 @@
           "nature_types": ["Acqua"],
           "attributes": ["Ninja traditore", "Mercenario"],
           "debut_chapter": 10,
-          "first_arc": "Prologo – Paese delle Onde",
+          "first_arc": "Prologo",
           "first_arc_order": 1,
           "source_jutsu": [
             "Flying Revolving Sword",
@@ -8478,7 +8927,7 @@
           "nature_types": [],
           "attributes": [],
           "debut_chapter": 18,
-          "first_arc": "Prologo – Paese delle Onde",
+          "first_arc": "Prologo",
           "first_arc_order": 1,
           "source_jutsu": ["Iaidō"],
           "source_kekkei_genkai": [],
@@ -8525,7 +8974,7 @@
           "nature_types": [],
           "attributes": [],
           "debut_chapter": 29,
-          "first_arc": "Prologo – Paese delle Onde",
+          "first_arc": "Prologo",
           "first_arc_order": 1,
           "source_jutsu": [
             "The Springtime of Youth wiki has an article about this topic:",

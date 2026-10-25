@@ -12,14 +12,8 @@
     "episode": 1,
     "source_group": "csv_personalizzato",
     "slug": "goku",
-    "aliases": [
-      "Son Goku",
-      "Kakarot",
-      "Kakaroth"
-    ],
-    "review_flags": [
-      "revisione_editoriale_consigliata"
-    ],
+    "aliases": ["Son Goku", "Kakarot", "Kakaroth"],
+    "review_flags": ["revisione_editoriale_consigliata"],
     "episode_source_status": "preliminare"
   },
   {
@@ -35,12 +29,8 @@
     "episode": 1,
     "source_group": "csv_personalizzato",
     "slug": "bulma",
-    "aliases": [
-      "Bulma Brief"
-    ],
-    "review_flags": [
-      "revisione_editoriale_consigliata"
-    ],
+    "aliases": ["Bulma Brief"],
+    "review_flags": ["revisione_editoriale_consigliata"],
     "episode_source_status": "preliminare"
   },
   {
@@ -56,12 +46,8 @@
     "episode": 4,
     "source_group": "csv_personalizzato",
     "slug": "oolong",
-    "aliases": [
-      "Olong"
-    ],
-    "review_flags": [
-      "revisione_editoriale_consigliata"
-    ],
+    "aliases": ["Olong"],
+    "review_flags": ["revisione_editoriale_consigliata"],
     "episode_source_status": "preliminare"
   },
   {
@@ -78,9 +64,7 @@
     "source_group": "csv_personalizzato",
     "slug": "yamcha",
     "aliases": [],
-    "review_flags": [
-      "revisione_editoriale_consigliata"
-    ],
+    "review_flags": ["revisione_editoriale_consigliata"],
     "episode_source_status": "preliminare"
   },
   {
@@ -97,9 +81,7 @@
     "source_group": "csv_personalizzato",
     "slug": "puar",
     "aliases": [],
-    "review_flags": [
-      "revisione_editoriale_consigliata"
-    ],
+    "review_flags": ["revisione_editoriale_consigliata"],
     "episode_source_status": "preliminare"
   },
   {
@@ -115,15 +97,8 @@
     "episode": 3,
     "source_group": "csv_personalizzato",
     "slug": "maestro-muten",
-    "aliases": [
-      "Roshi",
-      "Muten Roshi",
-      "Genio delle Tartarughe",
-      "Master Roshi"
-    ],
-    "review_flags": [
-      "revisione_editoriale_consigliata"
-    ],
+    "aliases": ["Roshi", "Muten Roshi", "Genio delle Tartarughe", "Master Roshi"],
+    "review_flags": ["revisione_editoriale_consigliata"],
     "episode_source_status": "preliminare"
   },
   {
@@ -139,13 +114,8 @@
     "episode": 14,
     "source_group": "csv_personalizzato",
     "slug": "crilin",
-    "aliases": [
-      "Krillin",
-      "Kuririn"
-    ],
-    "review_flags": [
-      "revisione_editoriale_consigliata"
-    ],
+    "aliases": ["Krillin", "Kuririn"],
+    "review_flags": ["revisione_editoriale_consigliata"],
     "episode_source_status": "preliminare"
   },
   {
@@ -162,9 +132,7 @@
     "source_group": "csv_personalizzato",
     "slug": "chichi",
     "aliases": [],
-    "review_flags": [
-      "revisione_editoriale_consigliata"
-    ],
+    "review_flags": ["revisione_editoriale_consigliata"],
     "episode_source_status": "preliminare"
   },
   {
@@ -181,10 +149,7 @@
     "source_group": "csv_personalizzato",
     "slug": "pilaf",
     "aliases": [],
-    "review_flags": [
-      "razza_da_verificare",
-      "revisione_editoriale_consigliata"
-    ],
+    "review_flags": ["razza_da_verificare", "revisione_editoriale_consigliata"],
     "episode_source_status": "preliminare"
   },
   {
@@ -201,10 +166,7 @@
     "source_group": "csv_personalizzato",
     "slug": "shu",
     "aliases": [],
-    "review_flags": [
-      "episodio_da_verificare",
-      "revisione_editoriale_consigliata"
-    ],
+    "review_flags": ["episodio_da_verificare", "revisione_editoriale_consigliata"],
     "episode_source_status": "da_verificare"
   },
   {
@@ -221,10 +183,7 @@
     "source_group": "csv_personalizzato",
     "slug": "mai",
     "aliases": [],
-    "review_flags": [
-      "episodio_da_verificare",
-      "revisione_editoriale_consigliata"
-    ],
+    "review_flags": ["episodio_da_verificare", "revisione_editoriale_consigliata"],
     "episode_source_status": "da_verificare"
   },
   {
@@ -241,10 +200,7 @@
     "source_group": "csv_personalizzato",
     "slug": "lunch",
     "aliases": [],
-    "review_flags": [
-      "episodio_da_verificare",
-      "revisione_editoriale_consigliata"
-    ],
+    "review_flags": ["episodio_da_verificare", "revisione_editoriale_consigliata"],
     "episode_source_status": "da_verificare"
   },
   {
@@ -261,10 +217,7 @@
     "source_group": "csv_personalizzato",
     "slug": "nonno-gohan",
     "aliases": [],
-    "review_flags": [
-      "episodio_da_verificare",
-      "revisione_editoriale_consigliata"
-    ],
+    "review_flags": ["episodio_da_verificare", "revisione_editoriale_consigliata"],
     "episode_source_status": "da_verificare"
   },
   {
@@ -280,14 +233,8 @@
     "episode": null,
     "source_group": "csv_personalizzato",
     "slug": "tenshinhan",
-    "aliases": [
-      "Tien",
-      "Tenshinhan"
-    ],
-    "review_flags": [
-      "episodio_da_verificare",
-      "revisione_editoriale_consigliata"
-    ],
+    "aliases": ["Tien", "Tenshinhan"],
+    "review_flags": ["episodio_da_verificare", "revisione_editoriale_consigliata"],
     "episode_source_status": "da_verificare"
   },
   {
@@ -303,14 +250,8 @@
     "episode": null,
     "source_group": "csv_personalizzato",
     "slug": "jiaozi",
-    "aliases": [
-      "Chaoz",
-      "Chiaotzu"
-    ],
-    "review_flags": [
-      "episodio_da_verificare",
-      "revisione_editoriale_consigliata"
-    ],
+    "aliases": ["Chaoz", "Chiaotzu"],
+    "review_flags": ["episodio_da_verificare", "revisione_editoriale_consigliata"],
     "episode_source_status": "da_verificare"
   },
   {
@@ -327,10 +268,7 @@
     "source_group": "csv_personalizzato",
     "slug": "yajirobei",
     "aliases": [],
-    "review_flags": [
-      "episodio_da_verificare",
-      "revisione_editoriale_consigliata"
-    ],
+    "review_flags": ["episodio_da_verificare", "revisione_editoriale_consigliata"],
     "episode_source_status": "da_verificare"
   },
   {
@@ -346,14 +284,8 @@
     "episode": null,
     "source_group": "csv_personalizzato",
     "slug": "piccolo",
-    "aliases": [
-      "Junior",
-      "Piccolo Jr."
-    ],
-    "review_flags": [
-      "episodio_da_verificare",
-      "revisione_editoriale_consigliata"
-    ],
+    "aliases": ["Junior", "Piccolo Jr."],
+    "review_flags": ["episodio_da_verificare", "revisione_editoriale_consigliata"],
     "episode_source_status": "da_verificare"
   },
   {
@@ -370,11 +302,7 @@
     "source_group": "csv_personalizzato",
     "slug": "mr-popo",
     "aliases": [],
-    "review_flags": [
-      "episodio_da_verificare",
-      "razza_da_verificare",
-      "revisione_editoriale_consigliata"
-    ],
+    "review_flags": ["episodio_da_verificare", "razza_da_verificare", "revisione_editoriale_consigliata"],
     "episode_source_status": "da_verificare"
   },
   {
@@ -390,12 +318,8 @@
     "episode": 1,
     "source_group": "csv_personalizzato",
     "slug": "gohan",
-    "aliases": [
-      "Son Gohan"
-    ],
-    "review_flags": [
-      "revisione_editoriale_consigliata"
-    ],
+    "aliases": ["Son Gohan"],
+    "review_flags": ["revisione_editoriale_consigliata"],
     "episode_source_status": "preliminare"
   },
   {
@@ -411,12 +335,8 @@
     "episode": 1,
     "source_group": "csv_personalizzato",
     "slug": "radish",
-    "aliases": [
-      "Raditz"
-    ],
-    "review_flags": [
-      "revisione_editoriale_consigliata"
-    ],
+    "aliases": ["Raditz"],
+    "review_flags": ["revisione_editoriale_consigliata"],
     "episode_source_status": "preliminare"
   },
   {
@@ -433,10 +353,7 @@
     "source_group": "csv_personalizzato",
     "slug": "vegeta",
     "aliases": [],
-    "review_flags": [
-      "episodio_da_verificare",
-      "revisione_editoriale_consigliata"
-    ],
+    "review_flags": ["episodio_da_verificare", "revisione_editoriale_consigliata"],
     "episode_source_status": "da_verificare"
   },
   {
@@ -453,10 +370,7 @@
     "source_group": "csv_personalizzato",
     "slug": "nappa",
     "aliases": [],
-    "review_flags": [
-      "episodio_da_verificare",
-      "revisione_editoriale_consigliata"
-    ],
+    "review_flags": ["episodio_da_verificare", "revisione_editoriale_consigliata"],
     "episode_source_status": "da_verificare"
   },
   {
@@ -473,10 +387,7 @@
     "source_group": "csv_personalizzato",
     "slug": "saibaiman",
     "aliases": [],
-    "review_flags": [
-      "episodio_da_verificare",
-      "revisione_editoriale_consigliata"
-    ],
+    "review_flags": ["episodio_da_verificare", "revisione_editoriale_consigliata"],
     "episode_source_status": "da_verificare"
   },
   {
@@ -492,13 +403,8 @@
     "episode": null,
     "source_group": "csv_personalizzato",
     "slug": "re-kaio-del-nord",
-    "aliases": [
-      "King Kai"
-    ],
-    "review_flags": [
-      "episodio_da_verificare",
-      "revisione_editoriale_consigliata"
-    ],
+    "aliases": ["King Kai"],
+    "review_flags": ["episodio_da_verificare", "revisione_editoriale_consigliata"],
     "episode_source_status": "da_verificare"
   },
   {
@@ -515,10 +421,7 @@
     "source_group": "csv_personalizzato",
     "slug": "bubbles",
     "aliases": [],
-    "review_flags": [
-      "episodio_da_verificare",
-      "revisione_editoriale_consigliata"
-    ],
+    "review_flags": ["episodio_da_verificare", "revisione_editoriale_consigliata"],
     "episode_source_status": "da_verificare"
   },
   {
@@ -535,10 +438,7 @@
     "source_group": "csv_personalizzato",
     "slug": "gregory",
     "aliases": [],
-    "review_flags": [
-      "episodio_da_verificare",
-      "revisione_editoriale_consigliata"
-    ],
+    "review_flags": ["episodio_da_verificare", "revisione_editoriale_consigliata"],
     "episode_source_status": "da_verificare"
   },
   {
@@ -555,11 +455,7 @@
     "source_group": "csv_personalizzato",
     "slug": "dodoria",
     "aliases": [],
-    "review_flags": [
-      "episodio_da_verificare",
-      "razza_da_verificare",
-      "revisione_editoriale_consigliata"
-    ],
+    "review_flags": ["episodio_da_verificare", "razza_da_verificare", "revisione_editoriale_consigliata"],
     "episode_source_status": "da_verificare"
   },
   {
@@ -576,11 +472,7 @@
     "source_group": "csv_personalizzato",
     "slug": "zarbon",
     "aliases": [],
-    "review_flags": [
-      "episodio_da_verificare",
-      "razza_da_verificare",
-      "revisione_editoriale_consigliata"
-    ],
+    "review_flags": ["episodio_da_verificare", "razza_da_verificare", "revisione_editoriale_consigliata"],
     "episode_source_status": "da_verificare"
   },
   {
@@ -597,11 +489,7 @@
     "source_group": "csv_personalizzato",
     "slug": "guldo",
     "aliases": [],
-    "review_flags": [
-      "episodio_da_verificare",
-      "razza_da_verificare",
-      "revisione_editoriale_consigliata"
-    ],
+    "review_flags": ["episodio_da_verificare", "razza_da_verificare", "revisione_editoriale_consigliata"],
     "episode_source_status": "da_verificare"
   },
   {
@@ -618,11 +506,7 @@
     "source_group": "csv_personalizzato",
     "slug": "recoome",
     "aliases": [],
-    "review_flags": [
-      "episodio_da_verificare",
-      "razza_da_verificare",
-      "revisione_editoriale_consigliata"
-    ],
+    "review_flags": ["episodio_da_verificare", "razza_da_verificare", "revisione_editoriale_consigliata"],
     "episode_source_status": "da_verificare"
   },
   {
@@ -639,11 +523,7 @@
     "source_group": "csv_personalizzato",
     "slug": "jeice",
     "aliases": [],
-    "review_flags": [
-      "episodio_da_verificare",
-      "razza_da_verificare",
-      "revisione_editoriale_consigliata"
-    ],
+    "review_flags": ["episodio_da_verificare", "razza_da_verificare", "revisione_editoriale_consigliata"],
     "episode_source_status": "da_verificare"
   },
   {
@@ -660,12 +540,7 @@
     "source_group": "csv_personalizzato",
     "slug": "burter",
     "aliases": [],
-    "review_flags": [
-      "episodio_da_verificare",
-      "razza_da_verificare",
-      "colore_capelli_da_verificare",
-      "revisione_editoriale_consigliata"
-    ],
+    "review_flags": ["episodio_da_verificare", "razza_da_verificare", "colore_capelli_da_verificare", "revisione_editoriale_consigliata"],
     "episode_source_status": "da_verificare"
   },
   {
@@ -681,14 +556,8 @@
     "episode": null,
     "source_group": "csv_personalizzato",
     "slug": "capitano-ginew",
-    "aliases": [
-      "Captain Ginyu"
-    ],
-    "review_flags": [
-      "episodio_da_verificare",
-      "razza_da_verificare",
-      "revisione_editoriale_consigliata"
-    ],
+    "aliases": ["Captain Ginyu"],
+    "review_flags": ["episodio_da_verificare", "razza_da_verificare", "revisione_editoriale_consigliata"],
     "episode_source_status": "da_verificare"
   },
   {
@@ -704,14 +573,8 @@
     "episode": null,
     "source_group": "csv_personalizzato",
     "slug": "freezer",
-    "aliases": [
-      "Frieza",
-      "Freeza"
-    ],
-    "review_flags": [
-      "episodio_da_verificare",
-      "revisione_editoriale_consigliata"
-    ],
+    "aliases": ["Frieza", "Freeza"],
+    "review_flags": ["episodio_da_verificare", "revisione_editoriale_consigliata"],
     "episode_source_status": "da_verificare"
   },
   {
@@ -728,10 +591,7 @@
     "source_group": "csv_personalizzato",
     "slug": "dende",
     "aliases": [],
-    "review_flags": [
-      "episodio_da_verificare",
-      "revisione_editoriale_consigliata"
-    ],
+    "review_flags": ["episodio_da_verificare", "revisione_editoriale_consigliata"],
     "episode_source_status": "da_verificare"
   },
   {
@@ -748,10 +608,7 @@
     "source_group": "csv_personalizzato",
     "slug": "porunga",
     "aliases": [],
-    "review_flags": [
-      "episodio_da_verificare",
-      "revisione_editoriale_consigliata"
-    ],
+    "review_flags": ["episodio_da_verificare", "revisione_editoriale_consigliata"],
     "episode_source_status": "da_verificare"
   },
   {
@@ -767,14 +624,8 @@
     "episode": null,
     "source_group": "csv_personalizzato",
     "slug": "trunks-del-futuro",
-    "aliases": [
-      "Future Trunks",
-      "Trunks"
-    ],
-    "review_flags": [
-      "episodio_da_verificare",
-      "revisione_editoriale_consigliata"
-    ],
+    "aliases": ["Future Trunks", "Trunks"],
+    "review_flags": ["episodio_da_verificare", "revisione_editoriale_consigliata"],
     "episode_source_status": "da_verificare"
   },
   {
@@ -791,10 +642,7 @@
     "source_group": "csv_personalizzato",
     "slug": "androide-19",
     "aliases": [],
-    "review_flags": [
-      "episodio_da_verificare",
-      "revisione_editoriale_consigliata"
-    ],
+    "review_flags": ["episodio_da_verificare", "revisione_editoriale_consigliata"],
     "episode_source_status": "da_verificare"
   },
   {
@@ -811,10 +659,7 @@
     "source_group": "csv_personalizzato",
     "slug": "dottor-gelo",
     "aliases": [],
-    "review_flags": [
-      "episodio_da_verificare",
-      "revisione_editoriale_consigliata"
-    ],
+    "review_flags": ["episodio_da_verificare", "revisione_editoriale_consigliata"],
     "episode_source_status": "da_verificare"
   },
   {
@@ -831,10 +676,7 @@
     "source_group": "csv_personalizzato",
     "slug": "androide-16",
     "aliases": [],
-    "review_flags": [
-      "episodio_da_verificare",
-      "revisione_editoriale_consigliata"
-    ],
+    "review_flags": ["episodio_da_verificare", "revisione_editoriale_consigliata"],
     "episode_source_status": "da_verificare"
   },
   {
@@ -851,10 +693,7 @@
     "source_group": "csv_personalizzato",
     "slug": "androide-17",
     "aliases": [],
-    "review_flags": [
-      "episodio_da_verificare",
-      "revisione_editoriale_consigliata"
-    ],
+    "review_flags": ["episodio_da_verificare", "revisione_editoriale_consigliata"],
     "episode_source_status": "da_verificare"
   },
   {
@@ -871,10 +710,7 @@
     "source_group": "csv_personalizzato",
     "slug": "androide-18",
     "aliases": [],
-    "review_flags": [
-      "episodio_da_verificare",
-      "revisione_editoriale_consigliata"
-    ],
+    "review_flags": ["episodio_da_verificare", "revisione_editoriale_consigliata"],
     "episode_source_status": "da_verificare"
   },
   {
@@ -891,10 +727,7 @@
     "source_group": "csv_personalizzato",
     "slug": "cell",
     "aliases": [],
-    "review_flags": [
-      "episodio_da_verificare",
-      "revisione_editoriale_consigliata"
-    ],
+    "review_flags": ["episodio_da_verificare", "revisione_editoriale_consigliata"],
     "episode_source_status": "da_verificare"
   },
   {
@@ -910,13 +743,8 @@
     "episode": null,
     "source_group": "csv_personalizzato",
     "slug": "mr-satan",
-    "aliases": [
-      "Hercule"
-    ],
-    "review_flags": [
-      "episodio_da_verificare",
-      "revisione_editoriale_consigliata"
-    ],
+    "aliases": ["Hercule"],
+    "review_flags": ["episodio_da_verificare", "revisione_editoriale_consigliata"],
     "episode_source_status": "da_verificare"
   },
   {
@@ -933,10 +761,7 @@
     "source_group": "csv_personalizzato",
     "slug": "videl",
     "aliases": [],
-    "review_flags": [
-      "episodio_da_verificare",
-      "revisione_editoriale_consigliata"
-    ],
+    "review_flags": ["episodio_da_verificare", "revisione_editoriale_consigliata"],
     "episode_source_status": "da_verificare"
   },
   {
@@ -953,10 +778,7 @@
     "source_group": "csv_personalizzato",
     "slug": "goten",
     "aliases": [],
-    "review_flags": [
-      "episodio_da_verificare",
-      "revisione_editoriale_consigliata"
-    ],
+    "review_flags": ["episodio_da_verificare", "revisione_editoriale_consigliata"],
     "episode_source_status": "da_verificare"
   },
   {
@@ -972,14 +794,8 @@
     "episode": null,
     "source_group": "csv_personalizzato",
     "slug": "majin-bu",
-    "aliases": [
-      "Majin Buu",
-      "Fat Buu"
-    ],
-    "review_flags": [
-      "episodio_da_verificare",
-      "revisione_editoriale_consigliata"
-    ],
+    "aliases": ["Majin Buu", "Fat Buu"],
+    "review_flags": ["episodio_da_verificare", "revisione_editoriale_consigliata"],
     "episode_source_status": "da_verificare"
   },
   {
@@ -996,11 +812,7 @@
     "source_group": "csv_personalizzato",
     "slug": "babidi",
     "aliases": [],
-    "review_flags": [
-      "episodio_da_verificare",
-      "razza_da_verificare",
-      "revisione_editoriale_consigliata"
-    ],
+    "review_flags": ["episodio_da_verificare", "razza_da_verificare", "revisione_editoriale_consigliata"],
     "episode_source_status": "da_verificare"
   },
   {
@@ -1016,13 +828,8 @@
     "episode": null,
     "source_group": "csv_personalizzato",
     "slug": "darbula",
-    "aliases": [
-      "Dabura"
-    ],
-    "review_flags": [
-      "episodio_da_verificare",
-      "revisione_editoriale_consigliata"
-    ],
+    "aliases": ["Dabura"],
+    "review_flags": ["episodio_da_verificare", "revisione_editoriale_consigliata"],
     "episode_source_status": "da_verificare"
   },
   {
@@ -1039,10 +846,7 @@
     "source_group": "csv_personalizzato",
     "slug": "kaioshin-dell-est",
     "aliases": [],
-    "review_flags": [
-      "episodio_da_verificare",
-      "revisione_editoriale_consigliata"
-    ],
+    "review_flags": ["episodio_da_verificare", "revisione_editoriale_consigliata"],
     "episode_source_status": "da_verificare"
   },
   {
@@ -1059,10 +863,7 @@
     "source_group": "csv_personalizzato",
     "slug": "kibith",
     "aliases": [],
-    "review_flags": [
-      "episodio_da_verificare",
-      "revisione_editoriale_consigliata"
-    ],
+    "review_flags": ["episodio_da_verificare", "revisione_editoriale_consigliata"],
     "episode_source_status": "da_verificare"
   },
   {
@@ -1079,10 +880,7 @@
     "source_group": "csv_personalizzato",
     "slug": "kaioshin-il-sommo",
     "aliases": [],
-    "review_flags": [
-      "episodio_da_verificare",
-      "revisione_editoriale_consigliata"
-    ],
+    "review_flags": ["episodio_da_verificare", "revisione_editoriale_consigliata"],
     "episode_source_status": "da_verificare"
   },
   {
@@ -1099,10 +897,7 @@
     "source_group": "csv_personalizzato",
     "slug": "spopovich",
     "aliases": [],
-    "review_flags": [
-      "episodio_da_verificare",
-      "revisione_editoriale_consigliata"
-    ],
+    "review_flags": ["episodio_da_verificare", "revisione_editoriale_consigliata"],
     "episode_source_status": "da_verificare"
   },
   {
@@ -1119,11 +914,7 @@
     "source_group": "csv_personalizzato",
     "slug": "pui-pui",
     "aliases": [],
-    "review_flags": [
-      "episodio_da_verificare",
-      "razza_da_verificare",
-      "revisione_editoriale_consigliata"
-    ],
+    "review_flags": ["episodio_da_verificare", "razza_da_verificare", "revisione_editoriale_consigliata"],
     "episode_source_status": "da_verificare"
   },
   {
@@ -1140,12 +931,7 @@
     "source_group": "csv_personalizzato",
     "slug": "yakon",
     "aliases": [],
-    "review_flags": [
-      "episodio_da_verificare",
-      "razza_da_verificare",
-      "colore_capelli_da_verificare",
-      "revisione_editoriale_consigliata"
-    ],
+    "review_flags": ["episodio_da_verificare", "razza_da_verificare", "colore_capelli_da_verificare", "revisione_editoriale_consigliata"],
     "episode_source_status": "da_verificare"
   },
   {
@@ -1162,10 +948,7 @@
     "source_group": "csv_personalizzato",
     "slug": "pan",
     "aliases": [],
-    "review_flags": [
-      "episodio_da_verificare",
-      "revisione_editoriale_consigliata"
-    ],
+    "review_flags": ["episodio_da_verificare", "revisione_editoriale_consigliata"],
     "episode_source_status": "da_verificare"
   },
   {
@@ -1182,10 +965,7 @@
     "source_group": "csv_personalizzato",
     "slug": "ub",
     "aliases": [],
-    "review_flags": [
-      "episodio_da_verificare",
-      "revisione_editoriale_consigliata"
-    ],
+    "review_flags": ["episodio_da_verificare", "revisione_editoriale_consigliata"],
     "episode_source_status": "da_verificare"
   },
   {
@@ -1202,10 +982,7 @@
     "source_group": "csv_personalizzato",
     "slug": "giru",
     "aliases": [],
-    "review_flags": [
-      "episodio_da_verificare",
-      "revisione_editoriale_consigliata"
-    ],
+    "review_flags": ["episodio_da_verificare", "revisione_editoriale_consigliata"],
     "episode_source_status": "da_verificare"
   },
   {
@@ -1222,10 +999,7 @@
     "source_group": "csv_personalizzato",
     "slug": "baby",
     "aliases": [],
-    "review_flags": [
-      "episodio_da_verificare",
-      "revisione_editoriale_consigliata"
-    ],
+    "review_flags": ["episodio_da_verificare", "revisione_editoriale_consigliata"],
     "episode_source_status": "da_verificare"
   },
   {
@@ -1241,14 +1015,8 @@
     "episode": null,
     "source_group": "csv_personalizzato",
     "slug": "li-shenron",
-    "aliases": [
-      "Omega Shenron",
-      "Syn Shenron"
-    ],
-    "review_flags": [
-      "episodio_da_verificare",
-      "revisione_editoriale_consigliata"
-    ],
+    "aliases": ["Omega Shenron", "Syn Shenron"],
+    "review_flags": ["episodio_da_verificare", "revisione_editoriale_consigliata"],
     "episode_source_status": "da_verificare"
   },
   {
@@ -1265,10 +1033,7 @@
     "source_group": "csv_personalizzato",
     "slug": "champa",
     "aliases": [],
-    "review_flags": [
-      "episodio_da_verificare",
-      "revisione_editoriale_consigliata"
-    ],
+    "review_flags": ["episodio_da_verificare", "revisione_editoriale_consigliata"],
     "episode_source_status": "da_verificare"
   },
   {
@@ -1285,11 +1050,7 @@
     "source_group": "csv_personalizzato",
     "slug": "hit",
     "aliases": [],
-    "review_flags": [
-      "episodio_da_verificare",
-      "razza_da_verificare",
-      "revisione_editoriale_consigliata"
-    ],
+    "review_flags": ["episodio_da_verificare", "razza_da_verificare", "revisione_editoriale_consigliata"],
     "episode_source_status": "da_verificare"
   },
   {
@@ -1306,10 +1067,7 @@
     "source_group": "csv_personalizzato",
     "slug": "cabba",
     "aliases": [],
-    "review_flags": [
-      "episodio_da_verificare",
-      "revisione_editoriale_consigliata"
-    ],
+    "review_flags": ["episodio_da_verificare", "revisione_editoriale_consigliata"],
     "episode_source_status": "da_verificare"
   },
   {
@@ -1326,10 +1084,7 @@
     "source_group": "csv_personalizzato",
     "slug": "frost",
     "aliases": [],
-    "review_flags": [
-      "episodio_da_verificare",
-      "revisione_editoriale_consigliata"
-    ],
+    "review_flags": ["episodio_da_verificare", "revisione_editoriale_consigliata"],
     "episode_source_status": "da_verificare"
   },
   {
@@ -1346,12 +1101,7 @@
     "source_group": "csv_personalizzato",
     "slug": "botamo",
     "aliases": [],
-    "review_flags": [
-      "episodio_da_verificare",
-      "razza_da_verificare",
-      "colore_capelli_da_verificare",
-      "revisione_editoriale_consigliata"
-    ],
+    "review_flags": ["episodio_da_verificare", "razza_da_verificare", "colore_capelli_da_verificare", "revisione_editoriale_consigliata"],
     "episode_source_status": "da_verificare"
   },
   {
@@ -1368,10 +1118,7 @@
     "source_group": "csv_personalizzato",
     "slug": "magetta",
     "aliases": [],
-    "review_flags": [
-      "episodio_da_verificare",
-      "revisione_editoriale_consigliata"
-    ],
+    "review_flags": ["episodio_da_verificare", "revisione_editoriale_consigliata"],
     "episode_source_status": "da_verificare"
   },
   {
@@ -1388,12 +1135,7 @@
     "source_group": "csv_personalizzato",
     "slug": "monaka",
     "aliases": [],
-    "review_flags": [
-      "episodio_da_verificare",
-      "razza_da_verificare",
-      "colore_capelli_da_verificare",
-      "revisione_editoriale_consigliata"
-    ],
+    "review_flags": ["episodio_da_verificare", "razza_da_verificare", "colore_capelli_da_verificare", "revisione_editoriale_consigliata"],
     "episode_source_status": "da_verificare"
   },
   {
@@ -1409,15 +1151,8 @@
     "episode": null,
     "source_group": "csv_personalizzato",
     "slug": "zeno",
-    "aliases": [
-      "Zen-Oh",
-      "Zeno-sama"
-    ],
-    "review_flags": [
-      "episodio_da_verificare",
-      "universo_da_verificare",
-      "revisione_editoriale_consigliata"
-    ],
+    "aliases": ["Zen-Oh", "Zeno-sama"],
+    "review_flags": ["episodio_da_verificare", "universo_da_verificare", "revisione_editoriale_consigliata"],
     "episode_source_status": "da_verificare"
   },
   {
@@ -1434,11 +1169,7 @@
     "source_group": "csv_personalizzato",
     "slug": "gran-sacerdote",
     "aliases": [],
-    "review_flags": [
-      "episodio_da_verificare",
-      "universo_da_verificare",
-      "revisione_editoriale_consigliata"
-    ],
+    "review_flags": ["episodio_da_verificare", "universo_da_verificare", "revisione_editoriale_consigliata"],
     "episode_source_status": "da_verificare"
   },
   {
@@ -1454,13 +1185,8 @@
     "episode": null,
     "source_group": "csv_personalizzato",
     "slug": "goku-black",
-    "aliases": [
-      "Black Goku"
-    ],
-    "review_flags": [
-      "episodio_da_verificare",
-      "revisione_editoriale_consigliata"
-    ],
+    "aliases": ["Black Goku"],
+    "review_flags": ["episodio_da_verificare", "revisione_editoriale_consigliata"],
     "episode_source_status": "da_verificare"
   },
   {
@@ -1477,10 +1203,7 @@
     "source_group": "csv_personalizzato",
     "slug": "zamasu",
     "aliases": [],
-    "review_flags": [
-      "episodio_da_verificare",
-      "revisione_editoriale_consigliata"
-    ],
+    "review_flags": ["episodio_da_verificare", "revisione_editoriale_consigliata"],
     "episode_source_status": "da_verificare"
   },
   {
@@ -1497,10 +1220,7 @@
     "source_group": "csv_personalizzato",
     "slug": "jiren",
     "aliases": [],
-    "review_flags": [
-      "razza_da_verificare",
-      "revisione_editoriale_consigliata"
-    ],
+    "review_flags": ["razza_da_verificare", "revisione_editoriale_consigliata"],
     "episode_source_status": "preliminare"
   },
   {
@@ -1517,11 +1237,7 @@
     "source_group": "csv_personalizzato",
     "slug": "toppo",
     "aliases": [],
-    "review_flags": [
-      "episodio_da_verificare",
-      "razza_da_verificare",
-      "revisione_editoriale_consigliata"
-    ],
+    "review_flags": ["episodio_da_verificare", "razza_da_verificare", "revisione_editoriale_consigliata"],
     "episode_source_status": "da_verificare"
   },
   {
@@ -1538,12 +1254,7 @@
     "source_group": "csv_personalizzato",
     "slug": "dyspo",
     "aliases": [],
-    "review_flags": [
-      "episodio_da_verificare",
-      "razza_da_verificare",
-      "colore_capelli_da_verificare",
-      "revisione_editoriale_consigliata"
-    ],
+    "review_flags": ["episodio_da_verificare", "razza_da_verificare", "colore_capelli_da_verificare", "revisione_editoriale_consigliata"],
     "episode_source_status": "da_verificare"
   },
   {
@@ -1560,10 +1271,7 @@
     "source_group": "csv_personalizzato",
     "slug": "caulifla",
     "aliases": [],
-    "review_flags": [
-      "episodio_da_verificare",
-      "revisione_editoriale_consigliata"
-    ],
+    "review_flags": ["episodio_da_verificare", "revisione_editoriale_consigliata"],
     "episode_source_status": "da_verificare"
   },
   {
@@ -1580,10 +1288,7 @@
     "source_group": "csv_personalizzato",
     "slug": "kale",
     "aliases": [],
-    "review_flags": [
-      "episodio_da_verificare",
-      "revisione_editoriale_consigliata"
-    ],
+    "review_flags": ["episodio_da_verificare", "revisione_editoriale_consigliata"],
     "episode_source_status": "da_verificare"
   },
   {
@@ -1600,11 +1305,7 @@
     "source_group": "csv_personalizzato",
     "slug": "ribrianne",
     "aliases": [],
-    "review_flags": [
-      "episodio_da_verificare",
-      "razza_da_verificare",
-      "revisione_editoriale_consigliata"
-    ],
+    "review_flags": ["episodio_da_verificare", "razza_da_verificare", "revisione_editoriale_consigliata"],
     "episode_source_status": "da_verificare"
   },
   {
@@ -1621,12 +1322,7 @@
     "source_group": "csv_personalizzato",
     "slug": "bergamo",
     "aliases": [],
-    "review_flags": [
-      "episodio_da_verificare",
-      "razza_da_verificare",
-      "colore_capelli_da_verificare",
-      "revisione_editoriale_consigliata"
-    ],
+    "review_flags": ["episodio_da_verificare", "razza_da_verificare", "colore_capelli_da_verificare", "revisione_editoriale_consigliata"],
     "episode_source_status": "da_verificare"
   },
   {
@@ -1643,12 +1339,7 @@
     "source_group": "csv_personalizzato",
     "slug": "basil",
     "aliases": [],
-    "review_flags": [
-      "episodio_da_verificare",
-      "razza_da_verificare",
-      "colore_capelli_da_verificare",
-      "revisione_editoriale_consigliata"
-    ],
+    "review_flags": ["episodio_da_verificare", "razza_da_verificare", "colore_capelli_da_verificare", "revisione_editoriale_consigliata"],
     "episode_source_status": "da_verificare"
   },
   {
@@ -1665,12 +1356,7 @@
     "source_group": "csv_personalizzato",
     "slug": "lavender",
     "aliases": [],
-    "review_flags": [
-      "episodio_da_verificare",
-      "razza_da_verificare",
-      "colore_capelli_da_verificare",
-      "revisione_editoriale_consigliata"
-    ],
+    "review_flags": ["episodio_da_verificare", "razza_da_verificare", "colore_capelli_da_verificare", "revisione_editoriale_consigliata"],
     "episode_source_status": "da_verificare"
   },
   {
@@ -1687,10 +1373,7 @@
     "source_group": "csv_personalizzato",
     "slug": "quitela",
     "aliases": [],
-    "review_flags": [
-      "episodio_da_verificare",
-      "revisione_editoriale_consigliata"
-    ],
+    "review_flags": ["episodio_da_verificare", "revisione_editoriale_consigliata"],
     "episode_source_status": "da_verificare"
   },
   {
@@ -1707,10 +1390,7 @@
     "source_group": "csv_personalizzato",
     "slug": "glorio",
     "aliases": [],
-    "review_flags": [
-      "universo_da_verificare",
-      "revisione_editoriale_consigliata"
-    ],
+    "review_flags": ["universo_da_verificare", "revisione_editoriale_consigliata"],
     "episode_source_status": "preliminare"
   },
   {
@@ -1726,14 +1406,8 @@
     "episode": null,
     "source_group": "csv_personalizzato",
     "slug": "panzy",
-    "aliases": [
-      "Pansy"
-    ],
-    "review_flags": [
-      "episodio_da_verificare",
-      "universo_da_verificare",
-      "revisione_editoriale_consigliata"
-    ],
+    "aliases": ["Pansy"],
+    "review_flags": ["episodio_da_verificare", "universo_da_verificare", "revisione_editoriale_consigliata"],
     "episode_source_status": "da_verificare"
   },
   {
@@ -1750,10 +1424,7 @@
     "source_group": "csv_personalizzato",
     "slug": "gomah",
     "aliases": [],
-    "review_flags": [
-      "universo_da_verificare",
-      "revisione_editoriale_consigliata"
-    ],
+    "review_flags": ["universo_da_verificare", "revisione_editoriale_consigliata"],
     "episode_source_status": "preliminare"
   },
   {
@@ -1770,9 +1441,7 @@
     "source_group": "csv_personalizzato",
     "slug": "garlic-jr",
     "aliases": [],
-    "review_flags": [
-      "revisione_editoriale_consigliata"
-    ],
+    "review_flags": ["revisione_editoriale_consigliata"],
     "episode_source_status": "preliminare"
   },
   {
@@ -1789,9 +1458,7 @@
     "source_group": "csv_personalizzato",
     "slug": "dottor-wheelo",
     "aliases": [],
-    "review_flags": [
-      "revisione_editoriale_consigliata"
-    ],
+    "review_flags": ["revisione_editoriale_consigliata"],
     "episode_source_status": "preliminare"
   },
   {
@@ -1808,9 +1475,7 @@
     "source_group": "csv_personalizzato",
     "slug": "turles",
     "aliases": [],
-    "review_flags": [
-      "revisione_editoriale_consigliata"
-    ],
+    "review_flags": ["revisione_editoriale_consigliata"],
     "episode_source_status": "preliminare"
   },
   {
@@ -1827,9 +1492,7 @@
     "source_group": "csv_personalizzato",
     "slug": "lord-slug",
     "aliases": [],
-    "review_flags": [
-      "revisione_editoriale_consigliata"
-    ],
+    "review_flags": ["revisione_editoriale_consigliata"],
     "episode_source_status": "preliminare"
   },
   {
@@ -1846,9 +1509,7 @@
     "source_group": "csv_personalizzato",
     "slug": "cooler",
     "aliases": [],
-    "review_flags": [
-      "revisione_editoriale_consigliata"
-    ],
+    "review_flags": ["revisione_editoriale_consigliata"],
     "episode_source_status": "preliminare"
   },
   {
@@ -1865,9 +1526,7 @@
     "source_group": "csv_personalizzato",
     "slug": "metal-cooler",
     "aliases": [],
-    "review_flags": [
-      "revisione_editoriale_consigliata"
-    ],
+    "review_flags": ["revisione_editoriale_consigliata"],
     "episode_source_status": "preliminare"
   },
   {
@@ -1884,9 +1543,7 @@
     "source_group": "csv_personalizzato",
     "slug": "broly-z",
     "aliases": [],
-    "review_flags": [
-      "revisione_editoriale_consigliata"
-    ],
+    "review_flags": ["revisione_editoriale_consigliata"],
     "episode_source_status": "preliminare"
   },
   {
@@ -1902,13 +1559,8 @@
     "episode": "Film",
     "source_group": "csv_personalizzato",
     "slug": "bojack",
-    "aliases": [
-      "Boujack"
-    ],
-    "review_flags": [
-      "razza_da_verificare",
-      "revisione_editoriale_consigliata"
-    ],
+    "aliases": ["Boujack"],
+    "review_flags": ["razza_da_verificare", "revisione_editoriale_consigliata"],
     "episode_source_status": "preliminare"
   },
   {
@@ -1925,10 +1577,7 @@
     "source_group": "csv_personalizzato",
     "slug": "zangya",
     "aliases": [],
-    "review_flags": [
-      "razza_da_verificare",
-      "revisione_editoriale_consigliata"
-    ],
+    "review_flags": ["razza_da_verificare", "revisione_editoriale_consigliata"],
     "episode_source_status": "preliminare"
   },
   {
@@ -1945,10 +1594,7 @@
     "source_group": "csv_personalizzato",
     "slug": "bido",
     "aliases": [],
-    "review_flags": [
-      "razza_da_verificare",
-      "revisione_editoriale_consigliata"
-    ],
+    "review_flags": ["razza_da_verificare", "revisione_editoriale_consigliata"],
     "episode_source_status": "preliminare"
   },
   {
@@ -1965,10 +1611,7 @@
     "source_group": "csv_personalizzato",
     "slug": "bujin",
     "aliases": [],
-    "review_flags": [
-      "razza_da_verificare",
-      "revisione_editoriale_consigliata"
-    ],
+    "review_flags": ["razza_da_verificare", "revisione_editoriale_consigliata"],
     "episode_source_status": "preliminare"
   },
   {
@@ -1985,9 +1628,7 @@
     "source_group": "csv_personalizzato",
     "slug": "janemba",
     "aliases": [],
-    "review_flags": [
-      "revisione_editoriale_consigliata"
-    ],
+    "review_flags": ["revisione_editoriale_consigliata"],
     "episode_source_status": "preliminare"
   },
   {
@@ -2004,9 +1645,7 @@
     "source_group": "csv_personalizzato",
     "slug": "tapion",
     "aliases": [],
-    "review_flags": [
-      "revisione_editoriale_consigliata"
-    ],
+    "review_flags": ["revisione_editoriale_consigliata"],
     "episode_source_status": "preliminare"
   },
   {
@@ -2023,9 +1662,7 @@
     "source_group": "csv_personalizzato",
     "slug": "hirudegarn",
     "aliases": [],
-    "review_flags": [
-      "revisione_editoriale_consigliata"
-    ],
+    "review_flags": ["revisione_editoriale_consigliata"],
     "episode_source_status": "preliminare"
   },
   {
@@ -2042,9 +1679,7 @@
     "source_group": "csv_personalizzato",
     "slug": "hoi",
     "aliases": [],
-    "review_flags": [
-      "revisione_editoriale_consigliata"
-    ],
+    "review_flags": ["revisione_editoriale_consigliata"],
     "episode_source_status": "preliminare"
   },
   {
@@ -2060,13 +1695,8 @@
     "episode": "Film",
     "source_group": "csv_personalizzato",
     "slug": "beerus",
-    "aliases": [
-      "Bills",
-      "Birusu"
-    ],
-    "review_flags": [
-      "revisione_editoriale_consigliata"
-    ],
+    "aliases": ["Bills", "Birusu"],
+    "review_flags": ["revisione_editoriale_consigliata"],
     "episode_source_status": "preliminare"
   },
   {
@@ -2083,9 +1713,7 @@
     "source_group": "csv_personalizzato",
     "slug": "whis",
     "aliases": [],
-    "review_flags": [
-      "revisione_editoriale_consigliata"
-    ],
+    "review_flags": ["revisione_editoriale_consigliata"],
     "episode_source_status": "preliminare"
   },
   {
@@ -2102,9 +1730,7 @@
     "source_group": "csv_personalizzato",
     "slug": "gamma-1",
     "aliases": [],
-    "review_flags": [
-      "revisione_editoriale_consigliata"
-    ],
+    "review_flags": ["revisione_editoriale_consigliata"],
     "episode_source_status": "preliminare"
   },
   {
@@ -2121,9 +1747,7 @@
     "source_group": "csv_personalizzato",
     "slug": "gamma-2",
     "aliases": [],
-    "review_flags": [
-      "revisione_editoriale_consigliata"
-    ],
+    "review_flags": ["revisione_editoriale_consigliata"],
     "episode_source_status": "preliminare"
   },
   {
@@ -2140,9 +1764,7 @@
     "source_group": "csv_personalizzato",
     "slug": "cell-max",
     "aliases": [],
-    "review_flags": [
-      "revisione_editoriale_consigliata"
-    ],
+    "review_flags": ["revisione_editoriale_consigliata"],
     "episode_source_status": "preliminare"
   }
 ]

@@ -1,0 +1,3401 @@
+[
+  {
+    "id": 1,
+    "name": "Monkey D. Luffy",
+    "aliases": [],
+    "gender": "Male",
+    "affiliation": "Straw Hat Pirates",
+    "devil_fruit_type": "Zoan",
+    "haki": { "observation": true, "armament": true, "conqueror": true },
+    "bounty_beli": 3000000000,
+    "height_cm": 174,
+    "origin": "East Blue",
+    "first_arc": "Romance Dawn",
+    "first_arc_order": 1,
+    "first_appearance": { "chapter": 1, "episode": 1 },
+    "devil_fruit": {
+      "name": "Gomu Gomu no Mi",
+      "translated_name": "Gum-Gum Fruit",
+      "description": "Grants the user's body the properties of rubber"
+    },
+    "image_url": "https://ucarecdn.com/e2da9f5b-5e2c-4c61-b0c0-a49e9b1bddc5/MonkeyDLuffy0b25d859.png",
+    "wanted_image_urls": ["https://ucarecdn.com/f8bb6fb9-1c31-4a50-9f78-78b063dbcecb/monkeydluffy_wanted_1.jpg", "https://ucarecdn.com/b7ba1266-232b-46e5-b760-7b6366a2d60f/monkeydluffy_wanted_2.jpg"],
+    "laugh_audio_urls": ["https://ucarecdn.com/ecebe4ba-c3f4-41b0-b11c-2a12a3b90c45/monkeydluffy_laugh_1.mp3"]
+  },
+  {
+    "id": 2,
+    "name": "Usopp",
+    "aliases": [],
+    "gender": "Male",
+    "affiliation": "Straw Hat Pirates",
+    "devil_fruit_type": "None",
+    "haki": {
+      "observation": true,
+      "armament": false,
+      "conqueror": false
+    },
+    "bounty_beli": 500000000,
+
+    "height_cm": 176,
+    "origin": "East Blue",
+    "first_arc": "Syrup Village",
+    "first_arc_order": 3,
+    "first_appearance": { "chapter": 23, "episode": 8 },
+    "devil_fruit": {
+      "name": null,
+      "translated_name": null,
+      "description": null
+    },
+    "image_url": "https://ucarecdn.com/31325125-e040-40c2-bded-1f971fb50a28/Usopp8103124b.png",
+    "wanted_image_urls": ["https://ucarecdn.com/a1ddff20-933f-43a4-8973-fc410970968e/usopp_wanted_1.avif"],
+    "laugh_audio_urls": []
+  },
+  {
+    "id": 3,
+    "name": "Nami",
+    "aliases": [],
+    "gender": "Female",
+    "affiliation": "Straw Hat Pirates",
+    "devil_fruit_type": "None",
+    "haki": {
+      "observation": false,
+      "armament": false,
+      "conqueror": false
+    },
+    "bounty_beli": 366000000,
+
+    "height_cm": 170,
+    "origin": "East Blue",
+    "first_arc": "Romance Dawn",
+    "first_arc_order": 1,
+    "first_appearance": { "chapter": 8, "episode": 1 },
+    "devil_fruit": {
+      "name": null,
+      "translated_name": null,
+      "description": null
+    },
+    "image_url": "https://ucarecdn.com/4ed9ebae-db6a-4907-a9ae-5eeda185cd29/Namia7ad4806.png",
+    "wanted_image_urls": ["https://ucarecdn.com/b63271c2-a677-4883-b704-c9f30e5a4bff/nami_wanted_1.webp"],
+    "laugh_audio_urls": ["https://ucarecdn.com/2c9c8cf0-ed21-4ad6-b214-bff01e559b2d/nami_laugh_1.mp3"]
+  },
+  {
+    "id": 4,
+    "name": "Roronoa Zoro",
+    "aliases": [],
+    "gender": "Male",
+    "affiliation": "Straw Hat Pirates",
+    "devil_fruit_type": "None",
+    "haki": { "observation": false, "armament": true, "conqueror": true },
+    "bounty_beli": 1111000000,
+
+    "height_cm": 181,
+    "origin": "East Blue",
+    "first_arc": "Romance Dawn",
+    "first_arc_order": 1,
+    "first_appearance": { "chapter": 3, "episode": 1 },
+    "devil_fruit": {
+      "name": null,
+      "translated_name": null,
+      "description": null
+    },
+    "image_url": "https://ucarecdn.com/973e5558-8918-4bee-98e4-39359058053b/RoronoaZoro8e6c24d5.png",
+    "wanted_image_urls": ["https://ucarecdn.com/672d75ce-b7b2-4fe3-835f-4ae2ff14f1b2/roronoazoro_wanted_1.webp"],
+    "laugh_audio_urls": ["https://ucarecdn.com/1bf1bbda-02a0-4975-afb1-929dc4dfe674/roronoazoro_laugh_1.mp3"]
+  },
+  {
+    "id": 5,
+    "name": "Vinsmoke Sanji",
+    "aliases": [],
+    "gender": "Male",
+    "affiliation": "Straw Hat Pirates",
+    "devil_fruit_type": "None",
+    "haki": { "observation": true, "armament": true, "conqueror": false },
+    "bounty_beli": 1032000000,
+
+    "height_cm": 180,
+    "origin": "North Blue",
+    "first_arc": "Baratie",
+    "first_arc_order": 4,
+    "first_appearance": { "chapter": 43, "episode": 20 },
+    "devil_fruit": {
+      "name": null,
+      "translated_name": null,
+      "description": null
+    },
+    "image_url": "https://ucarecdn.com/c30ba38d-63e1-4939-8d2a-9f31e8f80d27/VinsmokeSanji2615d736.png",
+    "wanted_image_urls": ["https://ucarecdn.com/276ebff0-517d-4004-ae32-bb8a81d74d75/vinsmokesanji_wanted_1.png"],
+    "laugh_audio_urls": ["https://ucarecdn.com/7b6ff7cb-6ba0-4133-9cf8-18c58c44cea3/vinsmokesanji_laugh_1.mp3"]
+  },
+  {
+    "id": 6,
+    "name": "Gol D. Roger",
+    "aliases": [],
+    "gender": "Male",
+    "affiliation": "Roger Pirates",
+    "devil_fruit_type": "None",
+    "haki": { "observation": true, "armament": true, "conqueror": true },
+    "bounty_beli": 5564800000,
+
+    "height_cm": 274,
+    "origin": "East Blue",
+    "first_arc": "Romance Dawn",
+    "first_arc_order": 1,
+    "first_appearance": { "chapter": 1, "episode": 1 },
+    "devil_fruit": {
+      "name": null,
+      "translated_name": null,
+      "description": null
+    },
+    "image_url": "https://ucarecdn.com/5616301a-4b54-4adc-af9f-61cd03724db4/GolDRoger10e6f0e4.png",
+    "wanted_image_urls": ["https://ucarecdn.com/7f309177-3fe4-4ff3-ac97-616b1f6a150f/goldroger_wanted_1.webp"],
+    "laugh_audio_urls": ["https://ucarecdn.com/b465697f-e421-452e-b5c4-f53a532146d2/goldroger_laugh_1.mp3"]
+  },
+  {
+    "id": 7,
+    "name": "Shanks",
+    "aliases": [],
+    "gender": "Male",
+    "affiliation": "Red-Haired Pirates",
+    "devil_fruit_type": "None",
+    "haki": { "observation": true, "armament": true, "conqueror": true },
+    "bounty_beli": 4048900000,
+
+    "height_cm": 199,
+    "origin": "West Blue",
+    "first_arc": "Romance Dawn",
+    "first_arc_order": 1,
+    "first_appearance": { "chapter": 1, "episode": 4 },
+    "devil_fruit": {
+      "name": null,
+      "translated_name": null,
+      "description": null
+    },
+    "image_url": "https://ucarecdn.com/a10a29aa-d2a0-4e6d-82b7-ec3037c01169/Shanks2df0fd33.png",
+    "wanted_image_urls": ["https://ucarecdn.com/49abfdc0-64f4-4ab0-af9f-346ee9b0ebcf/shanks_wanted_1.avif"],
+    "laugh_audio_urls": ["https://ucarecdn.com/ae8e4143-8884-4b67-aaf4-bd83ddeb86d4/shanks_laugh_1.mp3"]
+  },
+  {
+    "id": 8,
+    "name": "Benn Beckman",
+    "aliases": [],
+    "gender": "Male",
+    "affiliation": "Red-Haired Pirates",
+    "devil_fruit_type": "None",
+    "haki": {
+      "observation": false,
+      "armament": true,
+      "conqueror": false
+    },
+    "bounty_beli": 0,
+
+    "height_cm": 206,
+    "origin": "North Blue",
+    "first_arc": "Romance Dawn",
+    "first_arc_order": 1,
+    "first_appearance": { "chapter": 1, "episode": 4 },
+    "devil_fruit": {
+      "name": null,
+      "translated_name": null,
+      "description": null
+    },
+    "image_url": "https://ucarecdn.com/2aa72963-dd22-4d59-a6a2-eea6a42472a0/BennBeckman7eb4c718.png",
+    "wanted_image_urls": [],
+    "laugh_audio_urls": []
+  },
+  {
+    "id": 9,
+    "name": "Koby",
+    "aliases": [],
+    "gender": "Male",
+    "affiliation": "Marines",
+    "devil_fruit_type": "None",
+    "haki": { "observation": true, "armament": true, "conqueror": false },
+    "bounty_beli": 0,
+
+    "height_cm": 167,
+    "origin": "East Blue",
+    "first_arc": "Romance Dawn",
+    "first_arc_order": 1,
+    "first_appearance": { "chapter": 2, "episode": 1 },
+    "devil_fruit": {
+      "name": null,
+      "translated_name": null,
+      "description": null
+    },
+    "image_url": "https://ucarecdn.com/f389c5ab-ea29-4885-9049-8fa9c8129095/Kobyb049cb35.png",
+    "wanted_image_urls": [],
+    "laugh_audio_urls": []
+  },
+  {
+    "id": 10,
+    "name": "Buggy",
+    "aliases": [],
+    "gender": "Male",
+    "affiliation": "Cross Guild",
+    "devil_fruit_type": "Paramecia",
+    "haki": {
+      "observation": false,
+      "armament": false,
+      "conqueror": false
+    },
+    "bounty_beli": 3189000000,
+
+    "height_cm": 192,
+    "origin": "Grand Line",
+    "first_arc": "Orange Town",
+    "first_arc_order": 2,
+    "first_appearance": { "chapter": 9, "episode": 4 },
+    "devil_fruit": {
+      "name": "Bara Bara no Mi",
+      "translated_name": "Chop-Chop Fruit",
+      "description": "Allows the user to split their own body into pieces and control said pieces however they wish."
+    },
+    "image_url": "https://ucarecdn.com/0b690585-f279-44d9-9c17-61689a37496f/Buggyac83ae19.png",
+    "wanted_image_urls": ["https://ucarecdn.com/1b1c544c-1f63-47d6-9d29-ae671f091dd0/buggy_wanted_1.avif"],
+    "laugh_audio_urls": ["https://ucarecdn.com/2a65a561-61d7-40a4-98e5-60caf6fb859c/buggy_laugh_1.mp3"]
+  },
+  {
+    "id": 11,
+    "name": "Kaya",
+    "aliases": [],
+    "gender": "Female",
+    "affiliation": "None",
+    "devil_fruit_type": "None",
+    "haki": {
+      "observation": false,
+      "armament": false,
+      "conqueror": false
+    },
+    "bounty_beli": 0,
+
+    "height_cm": 169,
+    "origin": "East Blue",
+    "first_arc": "Syrup Village",
+    "first_arc_order": 3,
+    "first_appearance": { "chapter": 23, "episode": 9 },
+    "devil_fruit": {
+      "name": null,
+      "translated_name": null,
+      "description": null
+    },
+    "image_url": "https://ucarecdn.com/54b36332-3cc6-469d-ae41-320e7cb4ec64/Kaya719a7546.png",
+    "wanted_image_urls": [],
+    "laugh_audio_urls": []
+  },
+  {
+    "id": 12,
+    "name": "Kuro",
+    "aliases": [],
+    "gender": "Male",
+    "affiliation": "Black Cat Pirates",
+    "devil_fruit_type": "None",
+    "haki": {
+      "observation": false,
+      "armament": false,
+      "conqueror": false
+    },
+    "bounty_beli": 16000000,
+
+    "height_cm": 207,
+    "origin": "East Blue",
+    "first_arc": "Syrup Village",
+    "first_arc_order": 3,
+    "first_appearance": { "chapter": 23, "episode": 9 },
+    "devil_fruit": {
+      "name": null,
+      "translated_name": null,
+      "description": null
+    },
+    "image_url": "https://ucarecdn.com/c06b21c9-e45d-4ca0-a226-09afa8753c3a/Kuro8a79dfb3.png",
+    "wanted_image_urls": ["https://ucarecdn.com/6f79c0cb-5b5e-4b60-9240-6a78c082c497/kuro_wanted_1.png"],
+    "laugh_audio_urls": []
+  },
+  {
+    "id": 13,
+    "name": "Don Krieg",
+    "aliases": [],
+    "gender": "Male",
+    "affiliation": "Krieg Pirates",
+    "devil_fruit_type": "None",
+    "haki": {
+      "observation": false,
+      "armament": false,
+      "conqueror": false
+    },
+    "bounty_beli": 17000000,
+
+    "height_cm": 243,
+    "origin": "East Blue",
+    "first_arc": "Baratie",
+    "first_arc_order": 4,
+    "first_appearance": { "chapter": 45, "episode": 21 },
+    "devil_fruit": {
+      "name": null,
+      "translated_name": null,
+      "description": null
+    },
+    "image_url": "https://ucarecdn.com/42b785d6-43e1-43cc-9995-accabc769e7b/DonKrieg16e2b951.png",
+    "wanted_image_urls": ["https://ucarecdn.com/83c133fd-1d2b-40c7-8707-495b1c45b2c5/donkrieg_wanted_1.avif"],
+    "laugh_audio_urls": []
+  },
+  {
+    "id": 14,
+    "name": "Dracule Mihawk",
+    "aliases": [],
+    "gender": "Male",
+    "affiliation": "Cross Guild",
+    "devil_fruit_type": "None",
+    "haki": { "observation": true, "armament": true, "conqueror": false },
+    "bounty_beli": 3590000000,
+
+    "height_cm": 198,
+    "origin": "Unknown",
+    "first_arc": "Baratie",
+    "first_arc_order": 4,
+    "first_appearance": { "chapter": 49, "episode": 23 },
+    "devil_fruit": {
+      "name": null,
+      "translated_name": null,
+      "description": null
+    },
+    "image_url": "https://ucarecdn.com/502cbb27-e62d-4bd6-a3fd-f37d255a8e6c/DraculeMihawkcf4b5386.png",
+    "wanted_image_urls": ["https://ucarecdn.com/3e869256-a966-46a9-9092-ff2bd923c342/draculemihawk_wanted_1.webp"],
+    "laugh_audio_urls": ["https://ucarecdn.com/757452d4-9045-4311-b44a-f333513099d4/draculemihawk_laugh_1.mp3"]
+  },
+  {
+    "id": 15,
+    "name": "Zeff",
+    "aliases": [],
+    "gender": "Male",
+    "affiliation": "Baratie",
+    "devil_fruit_type": "None",
+    "haki": {
+      "observation": false,
+      "armament": false,
+      "conqueror": false
+    },
+    "bounty_beli": 0,
+
+    "height_cm": 189,
+    "origin": "East Blue",
+    "first_arc": "Baratie",
+    "first_arc_order": 4,
+    "first_appearance": { "chapter": 43, "episode": 20 },
+    "devil_fruit": {
+      "name": null,
+      "translated_name": null,
+      "description": null
+    },
+    "image_url": "https://ucarecdn.com/3b10dd7a-fc17-4d01-8076-d18a6d44b628/Zeff100c797f.png",
+    "wanted_image_urls": [],
+    "laugh_audio_urls": []
+  },
+  {
+    "id": 16,
+    "name": "Gin",
+    "aliases": [],
+    "gender": "Male",
+    "affiliation": "Krieg Pirates",
+    "devil_fruit_type": "None",
+    "haki": {
+      "observation": false,
+      "armament": false,
+      "conqueror": false
+    },
+    "bounty_beli": 12000000,
+
+    "height_cm": 186,
+    "origin": "East Blue",
+    "first_arc": "Baratie",
+    "first_arc_order": 4,
+    "first_appearance": { "chapter": 44, "episode": 21 },
+    "devil_fruit": {
+      "name": null,
+      "translated_name": null,
+      "description": null
+    },
+    "image_url": "https://ucarecdn.com/1999e655-d633-486b-a3c5-d63313be6efe/Gin5e1d4c23.png",
+    "wanted_image_urls": ["https://ucarecdn.com/a8520a4d-d973-485d-a477-615eb62b436a/gin_wanted_1.jfif"],
+    "laugh_audio_urls": []
+  },
+  {
+    "id": 17,
+    "name": "Arlong",
+    "aliases": [],
+    "gender": "Male",
+    "affiliation": "Arlong Pirates",
+    "devil_fruit_type": "None",
+    "haki": {
+      "observation": false,
+      "armament": false,
+      "conqueror": false
+    },
+    "bounty_beli": 20000000,
+
+    "height_cm": 263,
+    "origin": "Grand Line",
+    "first_arc": "Arlong Park",
+    "first_arc_order": 5,
+    "first_appearance": { "chapter": 69, "episode": 31 },
+    "devil_fruit": {
+      "name": null,
+      "translated_name": null,
+      "description": null
+    },
+    "image_url": "https://ucarecdn.com/a2fd6052-99c1-4031-b891-f03eef13e5d7/Arlongc438ea61.png",
+    "wanted_image_urls": ["https://ucarecdn.com/660612b3-9dd1-4515-b6c1-4f45bd1c63ea/arlong_wanted_1.png"],
+    "laugh_audio_urls": ["https://ucarecdn.com/21e6f61c-8080-48b9-bd54-85b3868c0905/arlong_laugh_1.mp3"]
+  },
+  {
+    "id": 18,
+    "name": "Nojiko",
+    "aliases": [],
+    "gender": "Female",
+    "affiliation": "None",
+    "devil_fruit_type": "None",
+    "haki": {
+      "observation": false,
+      "armament": false,
+      "conqueror": false
+    },
+    "bounty_beli": 0,
+
+    "height_cm": 170,
+    "origin": "East Blue",
+    "first_arc": "Arlong Park",
+    "first_arc_order": 5,
+    "first_appearance": { "chapter": 70, "episode": 31 },
+    "devil_fruit": {
+      "name": null,
+      "translated_name": null,
+      "description": null
+    },
+    "image_url": "https://ucarecdn.com/0b35dd40-e961-4a7d-a1d2-bfd771faac02/Nojikobb3cd816.png",
+    "wanted_image_urls": [],
+    "laugh_audio_urls": []
+  },
+  {
+    "id": 19,
+    "name": "Smoker",
+    "aliases": [],
+    "gender": "Male",
+    "affiliation": "Marines",
+    "devil_fruit_type": "Logia",
+    "haki": { "observation": true, "armament": true, "conqueror": false },
+    "bounty_beli": 0,
+
+    "height_cm": 209,
+    "origin": "Grand Line",
+    "first_arc": "Loguetown",
+    "first_arc_order": 6,
+    "first_appearance": { "chapter": 97, "episode": 48 },
+    "devil_fruit": {
+      "name": "Moku Moku no Mi",
+      "translated_name": "Smoke-Smoke Fruit",
+      "description": "Grants its user the ability to transform their body into smoke"
+    },
+    "image_url": "https://ucarecdn.com/8e585b0e-c919-430c-8e9f-9de287288b6f/Smoker9a6e5ee8.png",
+    "wanted_image_urls": [],
+    "laugh_audio_urls": []
+  },
+  {
+    "id": 20,
+    "name": "Tashigi",
+    "aliases": [],
+    "gender": "Female",
+    "affiliation": "Marines",
+    "devil_fruit_type": "None",
+    "haki": { "observation": true, "armament": true, "conqueror": false },
+    "bounty_beli": 0,
+
+    "height_cm": 170,
+    "origin": "East Blue",
+    "first_arc": "Loguetown",
+    "first_arc_order": 6,
+    "first_appearance": { "chapter": 96, "episode": 48 },
+    "devil_fruit": {
+      "name": null,
+      "translated_name": null,
+      "description": null
+    },
+    "image_url": "https://ucarecdn.com/82183399-3209-48d2-b205-3d342a191b76/Tashigi4eb99ed3.png",
+    "wanted_image_urls": [],
+    "laugh_audio_urls": []
+  },
+  {
+    "id": 21,
+    "name": "Monkey D. Dragon",
+    "aliases": [],
+    "gender": "Male",
+    "affiliation": "Revolutionary Army",
+    "devil_fruit_type": "None",
+    "haki": {
+      "observation": false,
+      "armament": false,
+      "conqueror": false
+    },
+    "bounty_beli": 0,
+
+    "height_cm": 256,
+    "origin": "East Blue",
+    "first_arc": "Loguetown",
+    "first_arc_order": 6,
+    "first_appearance": { "chapter": 100, "episode": 52 },
+    "devil_fruit": {
+      "name": null,
+      "translated_name": null,
+      "description": null
+    },
+    "image_url": "https://ucarecdn.com/7a2e61cc-734b-40c7-a0f4-3d19453b8658/MonkeyDDragonf38fec6e.png",
+    "wanted_image_urls": [],
+    "laugh_audio_urls": []
+  },
+  {
+    "id": 409,
+    "name": "Nefertari Vivi",
+    "aliases": [],
+    "gender": "Female",
+    "affiliation": "Arabasta Kingdom",
+    "devil_fruit_type": "None",
+    "haki": {
+      "observation": false,
+      "armament": false,
+      "conqueror": false
+    },
+    "bounty_beli": 0,
+
+    "height_cm": 169,
+    "origin": "Grand Line",
+    "first_arc": "Reverse Mountain",
+    "first_arc_order": 7,
+    "first_appearance": { "chapter": 103, "episode": 62 },
+    "devil_fruit": {
+      "name": null,
+      "translated_name": null,
+      "description": null
+    },
+    "image_url": "https://ucarecdn.com/e6bb2342-787f-45cb-814a-4c0a0584fa1c/NefertariVivid05af611.png",
+    "wanted_image_urls": [],
+    "laugh_audio_urls": []
+  },
+  {
+    "id": 410,
+    "name": "Crocodile",
+    "aliases": [],
+    "gender": "Male",
+    "affiliation": "Cross Guild",
+    "devil_fruit_type": "Logia",
+    "haki": {
+      "observation": false,
+      "armament": false,
+      "conqueror": false
+    },
+    "bounty_beli": 81000000,
+
+    "height_cm": 253,
+    "origin": "Grand Line",
+    "first_arc": "Little Garden",
+    "first_arc_order": 9,
+    "first_appearance": { "chapter": 126, "episode": 76 },
+    "devil_fruit": {
+      "name": "Suna Suna no Mi",
+      "translated_name": "Sand-Sand Fruit",
+      "description": "Allows the user to create, control, and transform into sand at will, turning the user into a Sand Human"
+    },
+    "image_url": "https://ucarecdn.com/4ac7cb2e-9614-4121-bbad-bcff4c0c6cea/Crocodile301a35d6.png",
+    "wanted_image_urls": ["https://ucarecdn.com/44d42b5d-0802-4692-9fb7-c4ece28572fd/crocodile_wanted_1.avif"],
+    "laugh_audio_urls": ["https://ucarecdn.com/fc825541-99ae-4542-8a91-21f8026ea3c0/crocodile_laugh_2.mp3", "https://ucarecdn.com/b7b2ff27-90d7-4da8-983b-6b8930829a2e/crocodile_laugh_1.mp3"]
+  },
+  {
+    "id": 411,
+    "name": "Dorry",
+    "aliases": [],
+    "gender": "Male",
+    "affiliation": "Giant Warrior Pirates",
+    "devil_fruit_type": "None",
+    "haki": {
+      "observation": false,
+      "armament": false,
+      "conqueror": false
+    },
+    "bounty_beli": 100000000,
+
+    "height_cm": 2260,
+    "origin": "Grand Line",
+    "first_arc": "Little Garden",
+    "first_arc_order": 9,
+    "first_appearance": { "chapter": 116, "episode": 71 },
+    "devil_fruit": {
+      "name": null,
+      "translated_name": null,
+      "description": null
+    },
+    "image_url": "https://ucarecdn.com/b8b26d60-02e7-481e-8f0c-bb7e92ce317f/Dorry3fc9507e.png",
+    "wanted_image_urls": ["https://ucarecdn.com/7cfdc474-2ceb-4378-9ffc-81066535e250/dorry_wanted_1.png"],
+    "laugh_audio_urls": ["https://ucarecdn.com/976a0e11-8186-4de5-8063-7aa24fe49db2/dorry_laugh_1.mp3"]
+  },
+  {
+    "id": 412,
+    "name": "Brogy",
+    "aliases": [],
+    "gender": "Male",
+    "affiliation": "Giant Warrior Pirates",
+    "devil_fruit_type": "None",
+    "haki": {
+      "observation": false,
+      "armament": false,
+      "conqueror": false
+    },
+    "bounty_beli": 100000000,
+
+    "height_cm": 2130,
+    "origin": "Grand Line",
+    "first_arc": "Little Garden",
+    "first_arc_order": 9,
+    "first_appearance": { "chapter": 115, "episode": 71 },
+    "devil_fruit": {
+      "name": null,
+      "translated_name": null,
+      "description": null
+    },
+    "image_url": "https://ucarecdn.com/e10ce743-c838-4ddb-ba8e-22f34071576d/Brogy14823c39.png",
+    "wanted_image_urls": ["https://ucarecdn.com/e63c2cb8-2b91-4f57-95ba-6ba7fbde98b2/brogy_wanted_1.jfif", "https://ucarecdn.com/4b05e230-b68d-4992-8303-dc8511cb0558/brogy_wanted_2.png"],
+    "laugh_audio_urls": ["https://ucarecdn.com/6723bff5-2d6b-4917-a578-a32017fb950a/brogy_laugh_1.mp3"]
+  },
+  {
+    "id": 413,
+    "name": "Galdino",
+    "aliases": [],
+    "gender": "Male",
+    "affiliation": "Cross Guild",
+    "devil_fruit_type": "Paramecia",
+    "haki": {
+      "observation": false,
+      "armament": false,
+      "conqueror": false
+    },
+    "bounty_beli": 24000000,
+
+    "height_cm": 179,
+    "origin": "South Blue",
+    "first_arc": "Little Garden",
+    "first_arc_order": 9,
+    "first_appearance": { "chapter": 117, "episode": 70 },
+    "devil_fruit": {
+      "name": "Doru Doru no Mi",
+      "translated_name": "Wax-Wax Fruit",
+      "description": "Allows the user to create large quantities of candle wax from their body and control it, making the user a Candle Human"
+    },
+    "image_url": "https://ucarecdn.com/50646381-7c22-4c52-887d-05b9c017d23a/Galdino3e2b8ac5.png",
+    "wanted_image_urls": ["https://ucarecdn.com/cdfde632-8ff8-4595-a3f0-17c321c5546a/galdino_wanted_1.png"],
+    "laugh_audio_urls": ["https://ucarecdn.com/47b94f0a-299f-42f4-9276-3ea8a625012c/galdino_laugh_1.mp3"]
+  },
+  {
+    "id": 414,
+    "name": "Bentham",
+    "aliases": [],
+    "gender": "Male",
+    "affiliation": "Newkama Land",
+    "devil_fruit_type": "Paramecia",
+    "haki": {
+      "observation": false,
+      "armament": false,
+      "conqueror": false
+    },
+    "bounty_beli": 32000000,
+
+    "height_cm": 238,
+    "origin": "East Blue",
+    "first_arc": "Little Garden",
+    "first_arc_order": 9,
+    "first_appearance": { "chapter": 129, "episode": 78 },
+    "devil_fruit": {
+      "name": "Mane Mane no Mi",
+      "translated_name": "Clone-Clone Fruit",
+      "description": "Allows the user to turn themselves into a physical double of anyone they touch"
+    },
+    "image_url": "https://ucarecdn.com/2114ecbb-6bc6-4f70-82ff-fe1d2dc389ea/Bentham9f4e4807.png",
+    "wanted_image_urls": ["https://ucarecdn.com/663a746a-b6ca-41b4-879f-40a8109b092c/bentham_wanted_1.jpg"],
+    "laugh_audio_urls": ["https://ucarecdn.com/6a1f07d0-739e-47ff-9abd-f86b42740012/bentham_laugh_1.mp3"]
+  },
+  {
+    "id": 415,
+    "name": "Tony Tony Chopper",
+    "aliases": [],
+    "gender": "Male",
+    "affiliation": "Straw Hat Pirates",
+    "devil_fruit_type": "Zoan",
+    "haki": {
+      "observation": false,
+      "armament": false,
+      "conqueror": false
+    },
+    "bounty_beli": 100,
+
+    "height_cm": 90,
+    "origin": "Grand Line",
+    "first_arc": "Drum Island",
+    "first_arc_order": 10,
+    "first_appearance": { "chapter": 134, "episode": 81 },
+    "devil_fruit": {
+      "name": "Hito Hito no Mi",
+      "translated_name": "Human-Human Fruit",
+      "description": "Allows its user to transform into a human hybrid or a human at will"
+    },
+    "image_url": "https://ucarecdn.com/94633bac-c014-4b26-b3c4-0eb20793cb33/TonyTonyChopperaddd65c7.png",
+    "wanted_image_urls": ["https://ucarecdn.com/d457d8c1-a8ab-4319-bd9b-59959abe3e80/tonytonychopper_wanted_1.jpg"],
+    "laugh_audio_urls": ["https://ucarecdn.com/238182d8-d78a-438c-b24e-2236922a19ea/tonytonychopper_laugh_1.mp3"]
+  },
+  {
+    "id": 416,
+    "name": "Kureha",
+    "aliases": [],
+    "gender": "Female",
+    "affiliation": "Sakura Kingdom",
+    "devil_fruit_type": "None",
+    "haki": {
+      "observation": false,
+      "armament": false,
+      "conqueror": false
+    },
+    "bounty_beli": 0,
+
+    "height_cm": 188,
+    "origin": "Grand Line",
+    "first_arc": "Drum Island",
+    "first_arc_order": 10,
+    "first_appearance": { "chapter": 134, "episode": 80 },
+    "devil_fruit": {
+      "name": null,
+      "translated_name": null,
+      "description": null
+    },
+    "image_url": "https://ucarecdn.com/2caa568d-d555-4edf-9b74-2a3caeb76abc/Kureha102c7ea8.png",
+    "wanted_image_urls": [],
+    "laugh_audio_urls": ["https://ucarecdn.com/71f578f9-1d07-4d45-aaac-65c417a0f52b/kureha_laugh_1.mp3"]
+  },
+  {
+    "id": 417,
+    "name": "Portgas D. Ace",
+    "aliases": [],
+    "gender": "Male",
+    "affiliation": "Whitebeard Pirates",
+    "devil_fruit_type": "Logia",
+    "haki": { "observation": true, "armament": true, "conqueror": true },
+    "bounty_beli": 550000000,
+
+    "height_cm": 185,
+    "origin": "South Blue",
+    "first_arc": "Drum Island",
+    "first_arc_order": 10,
+    "first_appearance": { "chapter": 154, "episode": 91 },
+    "devil_fruit": {
+      "name": "Mera Mera no Mi",
+      "translated_name": "Flame-Flame Fruit",
+      "description": "Allows the user to create, control, and transform into fire at will"
+    },
+    "image_url": "https://ucarecdn.com/ec7218b3-1d0a-4380-a39e-a288739caf65/PortgasDAced4483010.png",
+    "wanted_image_urls": ["https://ucarecdn.com/9905ca61-10e5-454b-b09e-c55a26003b5d/portgasdace_wanted_1.jpg"],
+    "laugh_audio_urls": ["https://ucarecdn.com/deb87fca-30e9-484d-8c06-34f7824af5ee/portgasdace_laugh_1.mp3"]
+  },
+  {
+    "id": 418,
+    "name": "Marshall D. Teach",
+    "aliases": [],
+    "gender": "Male",
+    "affiliation": "Blackbeard Pirates",
+    "devil_fruit_type": "Logia",
+    "haki": { "observation": true, "armament": true, "conqueror": false },
+    "bounty_beli": 2200000000,
+
+    "height_cm": 344,
+    "origin": "Grand Line",
+    "first_arc": "Jaya",
+    "first_arc_order": 12,
+    "first_appearance": { "chapter": 223, "episode": 146 },
+    "devil_fruit": {
+      "name": "Yami Yami no Mi",
+      "translated_name": "Dark-Dark Fruit",
+      "description": "Allows the user to create, control, and transform into darkness at will, making the user a Darkness Human"
+    },
+    "image_url": "https://ucarecdn.com/33c1f518-4d9a-4e6c-b5c3-6c12129b838d/MarshallDTeach7866b8b4.png",
+    "wanted_image_urls": ["https://ucarecdn.com/b680caad-3e5e-4074-9eff-d67af4001e69/marshalldteach_wanted_1.jpeg", "https://ucarecdn.com/e2642035-ad07-4845-8883-e0fd42ce1383/marshalldteach_wanted_2.avif"],
+    "laugh_audio_urls": ["https://ucarecdn.com/5c697ea5-326b-4298-be6d-3cba7d27947d/marshaldteach_laugh_1.mp3"]
+  },
+  {
+    "id": 419,
+    "name": "Nico Robin",
+    "aliases": [],
+    "gender": "Female",
+    "affiliation": "Straw Hat Pirates",
+    "devil_fruit_type": "Paramecia",
+    "haki": {
+      "observation": false,
+      "armament": false,
+      "conqueror": false
+    },
+    "bounty_beli": 130000000,
+
+    "height_cm": 188,
+    "origin": "West Blue",
+    "first_arc": "Whisky Peak",
+    "first_arc_order": 8,
+    "first_appearance": { "chapter": 114, "episode": 67 },
+    "devil_fruit": {
+      "name": "Hana Hana no Mi",
+      "translated_name": "Flower-Flower Fruit",
+      "description": "Allows the user to replicate and sprout pieces of their body from the surface of any object or living thing"
+    },
+    "image_url": "https://ucarecdn.com/b3d889cc-1809-4fbe-8914-cdbb5e33cd74/NicoRobin7393a010.png",
+    "wanted_image_urls": ["https://ucarecdn.com/e3cce1a3-4dbd-4a87-84c5-4248fcc85908/nicorobin_wanted_1.avif"],
+    "laugh_audio_urls": []
+  },
+  {
+    "id": 420,
+    "name": "Daz Bonez",
+    "aliases": [],
+    "gender": "Male",
+    "affiliation": "Cross Guild",
+    "devil_fruit_type": "Paramecia",
+    "haki": {
+      "observation": false,
+      "armament": false,
+      "conqueror": false
+    },
+    "bounty_beli": 75000000,
+
+    "height_cm": 212,
+    "origin": "West Blue",
+    "first_arc": "Arabasta",
+    "first_arc_order": 11,
+    "first_appearance": { "chapter": 160, "episode": 103 },
+    "devil_fruit": {
+      "name": "Supa Supa no Mi",
+      "translated_name": "Dice-Dice Fruit",
+      "description": "Enables the user's body to gain characteristics of a steel blade to attack opponents with, making the user a Full-Body Bladed Human"
+    },
+    "image_url": "https://ucarecdn.com/4bee8b05-33f9-487e-aaeb-265ad2ddf84e/DazBonesc7e039c0.png",
+    "wanted_image_urls": ["https://ucarecdn.com/6bbe022f-11e8-48e9-bf7e-e854dfcf0b75/dazbonez_wanted_1.avif"],
+    "laugh_audio_urls": []
+  },
+  {
+    "id": 421,
+    "name": "Mont Blanc Cricket",
+    "aliases": [],
+    "gender": "Male",
+    "affiliation": "Saruyama Alliance",
+    "devil_fruit_type": "None",
+    "haki": {
+      "observation": false,
+      "armament": false,
+      "conqueror": false
+    },
+    "bounty_beli": 25000000,
+
+    "height_cm": 242,
+    "origin": "North Blue",
+    "first_arc": "Jaya",
+    "first_arc_order": 12,
+    "first_appearance": { "chapter": 227, "episode": 148 },
+    "devil_fruit": {
+      "name": null,
+      "translated_name": null,
+      "description": null
+    },
+    "image_url": "https://ucarecdn.com/0a1314fe-a128-4ee0-b8b7-dfb2fe09ff03/MontBlancCricket77e76661.png",
+    "wanted_image_urls": ["https://ucarecdn.com/294da736-33f9-4088-933f-a6a18ddb388c/montblanccricket_wanted_1.avif"],
+    "laugh_audio_urls": ["https://onepiecedle-recreation.s3.eu-north-1.amazonaws.com/character-laughs/mont+blanc+cricket_laugh_1.mp3"]
+  },
+  {
+    "id": 422,
+    "name": "Bellamy",
+    "aliases": [],
+    "gender": "Male",
+    "affiliation": "Donquixote Pirates",
+    "devil_fruit_type": "Paramecia",
+    "haki": { "observation": true, "armament": true, "conqueror": false },
+    "bounty_beli": 195000000,
+
+    "height_cm": 240,
+    "origin": "North Blue",
+    "first_arc": "Jaya",
+    "first_arc_order": 12,
+    "first_appearance": { "chapter": 222, "episode": 146 },
+    "devil_fruit": {
+      "name": "Bane Bane no Mi",
+      "translated_name": "Boing-Boing Fruit",
+      "description": "Allows the user to turn their limbs into springs"
+    },
+    "image_url": "https://ucarecdn.com/a32d9346-2311-4f06-8ade-7fd4103300fc/Bellamye3603645.png",
+    "wanted_image_urls": ["https://ucarecdn.com/803c5551-7682-41b5-b2fe-f3184bd6d3d7/bellamy_wanted_1.avif", "https://ucarecdn.com/b1fd097c-462a-4d71-9736-540697212ed4/bellamy_wanted_2.avif"],
+    "laugh_audio_urls": ["https://onepiecedle-recreation.s3.eu-north-1.amazonaws.com/character-laughs/bellamy_laugh_1.mp3", "https://onepiecedle-recreation.s3.eu-north-1.amazonaws.com/character-laughs/bellamy_laugh_2.mp3"]
+  },
+  {
+    "id": 423,
+    "name": "Mont Blanc Noland",
+    "aliases": [],
+    "gender": "Male",
+    "affiliation": "Lvneel",
+    "devil_fruit_type": "None",
+    "haki": {
+      "observation": false,
+      "armament": false,
+      "conqueror": false
+    },
+    "bounty_beli": 0,
+
+    "height_cm": 220,
+    "origin": "North Blue",
+    "first_arc": "Skypiea",
+    "first_arc_order": 13,
+    "first_appearance": { "chapter": 286, "episode": 187 },
+    "devil_fruit": {
+      "name": null,
+      "translated_name": null,
+      "description": null
+    },
+    "image_url": "https://ucarecdn.com/d1de1b57-7bdb-4b7c-a6b9-e7aa7b13322b/MontBlancNolanddf7878a9.png",
+    "wanted_image_urls": [],
+    "laugh_audio_urls": []
+  },
+  {
+    "id": 424,
+    "name": "Edward Newgate",
+    "aliases": [],
+    "gender": "Male",
+    "affiliation": "Whitebeard Pirates",
+    "devil_fruit_type": "Paramecia",
+    "haki": { "observation": true, "armament": true, "conqueror": true },
+    "bounty_beli": 5000000000,
+
+    "height_cm": 666,
+    "origin": "Grand Line",
+    "first_arc": "Arabasta",
+    "first_arc_order": 11,
+    "first_appearance": { "chapter": 159, "episode": 95 },
+    "devil_fruit": {
+      "name": "Gura Gura no Mi",
+      "translated_name": "Tremor-Tremor Fruit",
+      "description": "Allows the user to create vibrations, or \"quakes\""
+    },
+    "image_url": "https://ucarecdn.com/4b13b001-14ef-4f43-9772-079b6b72667e/EdwardNewgatedd464c39.png",
+    "wanted_image_urls": ["https://ucarecdn.com/226cf68c-a40a-4585-9c34-fe72cc195b2b/edwardnewgate_wanted_1.avif", "https://ucarecdn.com/c4a0ea3b-451c-467f-b902-f889a5e810c9/edwardnewgate_wanted_2.avif"],
+    "laugh_audio_urls": ["https://onepiecedle-recreation.s3.eu-north-1.amazonaws.com/character-laughs/edward+newgate_laugh_1.mp3", "https://onepiecedle-recreation.s3.eu-north-1.amazonaws.com/character-laughs/edward+newgate_laugh_2.mp3"]
+  },
+  {
+    "id": 425,
+    "name": "Sengoku",
+    "aliases": [],
+    "gender": "Male",
+    "affiliation": "Marines",
+    "devil_fruit_type": "Zoan",
+    "haki": { "observation": true, "armament": true, "conqueror": true },
+    "bounty_beli": 0,
+
+    "height_cm": 278,
+    "origin": "South Blue",
+    "first_arc": "Jaya",
+    "first_arc_order": 12,
+    "first_appearance": { "chapter": 234, "episode": 151 },
+    "devil_fruit": {
+      "name": "Hito Hito no Mi, Model: Daibutsu",
+      "translated_name": "Human-Human Fruit, Model: Buddha",
+      "description": "Allows its user to transform into a Daibutsu (a giant gold Buddha) at will"
+    },
+    "image_url": "https://ucarecdn.com/517c265e-e3e3-4670-b929-2c1e5aaae83c/Sengoku54c73d02.png",
+    "wanted_image_urls": [],
+    "laugh_audio_urls": ["https://onepiecedle-recreation.s3.eu-north-1.amazonaws.com/character-laughs/sengoku_laugh_1.mp3"]
+  },
+  {
+    "id": 426,
+    "name": "Bartholomew Kuma",
+    "aliases": [],
+    "gender": "Male",
+    "affiliation": "Revolutionary Army",
+    "devil_fruit_type": "Paramecia",
+    "haki": {
+      "observation": false,
+      "armament": true,
+      "conqueror": false
+    },
+    "bounty_beli": 296000000,
+
+    "height_cm": 689,
+    "origin": "South Blue",
+    "first_arc": "Jaya",
+    "first_arc_order": 12,
+    "first_appearance": { "chapter": 233, "episode": 151 },
+    "devil_fruit": {
+      "name": "Nikyu Nikyu no Mi",
+      "translated_name": "Paw-Paw Fruit",
+      "description": "Grants the ability to repel anything via paws permanently manifested on the user's palms, making the user a Paw Human"
+    },
+    "image_url": "https://ucarecdn.com/6cf7b9ac-cfd1-473f-be59-1c3e454b0c08/BartholomewKumabe3c87af.png",
+    "wanted_image_urls": ["https://ucarecdn.com/32a10c59-6cfa-4386-a9a6-f8543a9410da/bartholomewkuma_wanted_1.jpg", "https://ucarecdn.com/3dbfb2f6-3ffc-43e2-a5ff-2a8c66091c6a/bartholomewkuma_wanted_2.avif"],
+    "laugh_audio_urls": []
+  },
+  {
+    "id": 427,
+    "name": "Donquixote Doflamingo",
+    "aliases": [],
+    "gender": "Male",
+    "affiliation": "Donquixote Pirates",
+    "devil_fruit_type": "Paramecia",
+    "haki": { "observation": true, "armament": true, "conqueror": true },
+    "bounty_beli": 340000000,
+
+    "height_cm": 305,
+    "origin": "Red Line",
+    "first_arc": "Jaya",
+    "first_arc_order": 12,
+    "first_appearance": { "chapter": 233, "episode": 151 },
+    "devil_fruit": {
+      "name": "Ito Ito no Mi",
+      "translated_name": "String-String Fruit",
+      "description": "Allows the user to create and manipulate strings"
+    },
+    "image_url": "https://ucarecdn.com/3b374bc5-662f-4d13-9ff6-971fa6e2da47/DonquixoteDoflamingo1825dbc6.png",
+    "wanted_image_urls": ["https://ucarecdn.com/c10a4715-ccdc-4ef1-8327-347fd0ece0ee/donquixotedoflamingo_wanted_1.webp", "https://ucarecdn.com/2347cb94-1a4a-42a4-a348-f459d8e29da9/donquixotedoflamingo_wanted_2.webp"],
+    "laugh_audio_urls": ["https://onepiecedle-recreation.s3.eu-north-1.amazonaws.com/character-laughs/donquixote+doflamingo_laugh_1.mp3", "https://onepiecedle-recreation.s3.eu-north-1.amazonaws.com/character-laughs/donquixote+doflamingo_laugh_2.mp3"]
+  },
+  {
+    "id": 428,
+    "name": "Marco",
+    "aliases": [],
+    "gender": "Male",
+    "affiliation": "Whitebeard Pirates",
+    "devil_fruit_type": "Zoan",
+    "haki": { "observation": true, "armament": true, "conqueror": false },
+    "bounty_beli": 1400000000,
+
+    "height_cm": 203,
+    "origin": "Grand Line",
+    "first_arc": "Jaya",
+    "first_arc_order": 12,
+    "first_appearance": { "chapter": 234, "episode": 151 },
+    "devil_fruit": {
+      "name": "Tori Tori no Mi, Model: Phoenix",
+      "translated_name": "Bird-Bird Fruit, Model: Phoenix",
+      "description": "Bestows the power to transform into a phoenix at will"
+    },
+    "image_url": "https://ucarecdn.com/6797e10a-b849-47aa-acb8-a2e20233674b/Marcofc7b9e0d.png",
+    "wanted_image_urls": ["https://ucarecdn.com/ececc532-25f1-4077-961e-26aa90ab9efc/marco_wanted_1.jpg"],
+    "laugh_audio_urls": []
+  },
+  {
+    "id": 429,
+    "name": "Jesus Burgess",
+    "aliases": [],
+    "gender": "Male",
+    "affiliation": "Blackbeard Pirates",
+    "devil_fruit_type": "Paramecia",
+    "haki": { "observation": true, "armament": true, "conqueror": false },
+    "bounty_beli": 20000000,
+
+    "height_cm": 355,
+    "origin": "Grand Line",
+    "first_arc": "Jaya",
+    "first_arc_order": 12,
+    "first_appearance": { "chapter": 222, "episode": 146 },
+    "devil_fruit": {
+      "name": "Riki Riki no Mi",
+      "translated_name": "Strong-Strong Fruit",
+      "description": "Grants its user incredible strength"
+    },
+    "image_url": "https://ucarecdn.com/b97d4ae0-591c-4616-80d3-d5cf73d8a0df/JesusBurgess2a89a718.png",
+    "wanted_image_urls": ["https://ucarecdn.com/785db104-616c-44eb-8aea-c126cc1cc7d3/jesusburgess_wanted_1.avif"],
+    "laugh_audio_urls": ["https://onepiecedle-recreation.s3.eu-north-1.amazonaws.com/character-laughs/jesus+burgess_laugh_1.mp3"]
+  },
+  {
+    "id": 430,
+    "name": "Enel",
+    "aliases": [],
+    "gender": "Male",
+    "affiliation": "Automata",
+    "devil_fruit_type": "Logia",
+    "haki": {
+      "observation": true,
+      "armament": false,
+      "conqueror": false
+    },
+    "bounty_beli": 0,
+
+    "height_cm": 266,
+    "origin": "Sky Islands",
+    "first_arc": "Skypiea",
+    "first_arc_order": 13,
+    "first_appearance": { "chapter": 254, "episode": 167 },
+    "devil_fruit": {
+      "name": "Goro Goro no Mi",
+      "translated_name": "Rumble-Rumble Fruit",
+      "description": "Grants the power to create, control, and become lightning at will"
+    },
+    "image_url": "https://ucarecdn.com/229de1de-c2e4-4ebb-9a32-a5a1523d4d74/Enel096d9628.png",
+    "wanted_image_urls": [],
+    "laugh_audio_urls": ["https://onepiecedle-recreation.s3.eu-north-1.amazonaws.com/character-laughs/enel_laugh_1.mp3"]
+  },
+  {
+    "id": 431,
+    "name": "Wyper",
+    "aliases": [],
+    "gender": "Male",
+    "affiliation": "Shandia",
+    "devil_fruit_type": "None",
+    "haki": {
+      "observation": false,
+      "armament": false,
+      "conqueror": false
+    },
+    "bounty_beli": 0,
+
+    "height_cm": 183,
+    "origin": "Sky Islands",
+    "first_arc": "Skypiea",
+    "first_arc_order": 13,
+    "first_appearance": { "chapter": 237, "episode": 153 },
+    "devil_fruit": {
+      "name": null,
+      "translated_name": null,
+      "description": null
+    },
+    "image_url": "https://ucarecdn.com/cad1f811-b57a-4eb1-9012-2fb156d35068/Wypera2b07c50.png",
+    "wanted_image_urls": [],
+    "laugh_audio_urls": []
+  },
+  {
+    "id": 432,
+    "name": "Urouge",
+    "aliases": [],
+    "gender": "Male",
+    "affiliation": "Fallen Monk Pirates",
+    "devil_fruit_type": "Paramecia",
+    "haki": {
+      "observation": false,
+      "armament": false,
+      "conqueror": false
+    },
+    "bounty_beli": 108000000,
+
+    "height_cm": 388,
+    "origin": "Sky Islands",
+    "first_arc": "Sabaody Archipelago",
+    "first_arc_order": 19,
+    "first_appearance": { "chapter": 498, "episode": 392 },
+    "devil_fruit": {
+      "name": null,
+      "translated_name": null,
+      "description": null
+    },
+    "image_url": "https://ucarecdn.com/50289141-a5d5-4b17-bd4e-1d59464e49bd/Urougeec722039.png",
+    "wanted_image_urls": ["https://ucarecdn.com/7cbb2704-88a3-4f4f-9dd6-d8a6f08ddb4e/urouge_wanted_1.avif"],
+    "laugh_audio_urls": []
+  },
+  {
+    "id": 433,
+    "name": "Foxy",
+    "aliases": [],
+    "gender": "Male",
+    "affiliation": "Foxy Pirates",
+    "devil_fruit_type": "Paramecia",
+    "haki": {
+      "observation": false,
+      "armament": false,
+      "conqueror": false
+    },
+    "bounty_beli": 24000000,
+
+    "height_cm": 180,
+    "origin": "South Blue",
+    "first_arc": "Long Ring Long Land",
+    "first_arc_order": 14,
+    "first_appearance": { "chapter": 305, "episode": 207 },
+    "devil_fruit": {
+      "name": "Noro Noro no Mi",
+      "translated_name": "Slow-Slow Fruit",
+      "description": "Allows the user to emit beams which temporarily slow down their target"
+    },
+    "image_url": "https://ucarecdn.com/bcb9c172-889b-43e0-ae6d-ce6791c9c173/Foxy5195c0ba.png",
+    "wanted_image_urls": ["https://ucarecdn.com/2f7f51b7-fa2f-470f-8a0c-3479bef1be84/foxy_wanted_1.jpg"],
+    "laugh_audio_urls": ["https://onepiecedle-recreation.s3.eu-north-1.amazonaws.com/character-laughs/foxy_laugh_1.mp3"]
+  },
+  {
+    "id": 434,
+    "name": "Kuzan",
+    "aliases": [],
+    "gender": "Male",
+    "affiliation": "Blackbeard Pirates",
+    "devil_fruit_type": "Logia",
+    "haki": { "observation": true, "armament": true, "conqueror": false },
+    "bounty_beli": 0,
+
+    "height_cm": 298,
+    "origin": "South Blue",
+    "first_arc": "Long Ring Long Land",
+    "first_arc_order": 14,
+    "first_appearance": { "chapter": 303, "episode": 225 },
+    "devil_fruit": {
+      "name": "Hie Hie no Mi",
+      "translated_name": "Ice-Ice Fruit",
+      "description": "Allows the user to create, control, and transform into ice at will"
+    },
+    "image_url": "https://ucarecdn.com/14311e3c-2e1f-4366-9093-5bb0fc9ef756/Kuzan1018bb12.png",
+    "wanted_image_urls": [],
+    "laugh_audio_urls": ["https://onepiecedle-recreation.s3.eu-north-1.amazonaws.com/character-laughs/kuzan_laugh_1.mp3"]
+  },
+  {
+    "id": 435,
+    "name": "Iceburg",
+    "aliases": [],
+    "gender": "Male",
+    "affiliation": "Galley-La Company",
+    "devil_fruit_type": "None",
+    "haki": {
+      "observation": false,
+      "armament": false,
+      "conqueror": false
+    },
+    "bounty_beli": 0,
+
+    "height_cm": 199,
+    "origin": "Grand Line",
+    "first_arc": "Water 7",
+    "first_arc_order": 15,
+    "first_appearance": { "chapter": 323, "episode": 230 },
+    "devil_fruit": {
+      "name": null,
+      "translated_name": null,
+      "description": null
+    },
+    "image_url": "https://ucarecdn.com/db1719a3-5f6e-40c5-884b-108734b50c8b/Iceburg3c1505c0.png",
+    "wanted_image_urls": [],
+    "laugh_audio_urls": []
+  },
+  {
+    "id": 436,
+    "name": "Kaku",
+    "aliases": [],
+    "gender": "Male",
+    "affiliation": "CP0",
+    "devil_fruit_type": "Zoan",
+    "haki": { "observation": true, "armament": true, "conqueror": false },
+    "bounty_beli": 0,
+
+    "height_cm": 193,
+    "origin": "East Blue",
+    "first_arc": "Water 7",
+    "first_arc_order": 15,
+    "first_appearance": { "chapter": 323, "episode": 230 },
+    "devil_fruit": {
+      "name": "Ushi Ushi no Mi, Model: Giraffe",
+      "translated_name": "Ox-Ox Fruit, Model: Giraffe",
+      "description": "Allows its user to transform into a giraffe hybrid and a full giraffe at will"
+    },
+    "image_url": "https://ucarecdn.com/a35b92b7-1b1a-4d14-80e8-257038db5236/Kaku6383d706.png",
+    "wanted_image_urls": [],
+    "laugh_audio_urls": []
+  },
+  {
+    "id": 437,
+    "name": "Kalifa",
+    "aliases": [],
+    "gender": "Female",
+    "affiliation": "CP0",
+    "devil_fruit_type": "Paramecia",
+    "haki": { "observation": true, "armament": true, "conqueror": false },
+    "bounty_beli": 0,
+
+    "height_cm": 185,
+    "origin": "Grand Line",
+    "first_arc": "Water 7",
+    "first_arc_order": 15,
+    "first_appearance": { "chapter": 323, "episode": 230 },
+    "devil_fruit": {
+      "name": "Awa Awa no Mi",
+      "translated_name": "Bubble-Bubble Fruit",
+      "description": "Allows the user to emit and control soap and bubbles that can not only clean off dirt but can also \"clean off\" power"
+    },
+    "image_url": "https://ucarecdn.com/efa7e141-2f24-4ee1-8c5c-3cfc6ba1d16d/Kalifa92f32cde.png",
+    "wanted_image_urls": [],
+    "laugh_audio_urls": []
+  },
+  {
+    "id": 438,
+    "name": "Rob Lucci",
+    "aliases": [],
+    "gender": "Male",
+    "affiliation": "CP0",
+    "devil_fruit_type": "Zoan",
+    "haki": { "observation": true, "armament": true, "conqueror": false },
+    "bounty_beli": 0,
+
+    "height_cm": 212,
+    "origin": "Grand Line",
+    "first_arc": "Water 7",
+    "first_arc_order": 15,
+    "first_appearance": { "chapter": 323, "episode": 230 },
+    "devil_fruit": {
+      "name": "Neko Neko no Mi, Model: Leopard",
+      "translated_name": "Cat-Cat Fruit, Model: Leopard",
+      "description": "Allows its user to transform into a leopard hybrid and a full leopard at will"
+    },
+    "image_url": "https://ucarecdn.com/72132e15-71c4-470f-816f-ad8364803ffc/RobLuccief1bdd4c.png",
+    "wanted_image_urls": [],
+    "laugh_audio_urls": []
+  },
+  {
+    "id": 439,
+    "name": "Paulie",
+    "aliases": [],
+    "gender": "Male",
+    "affiliation": "Galley-La Company",
+    "devil_fruit_type": "None",
+    "haki": {
+      "observation": false,
+      "armament": false,
+      "conqueror": false
+    },
+    "bounty_beli": 0,
+
+    "height_cm": 195,
+    "origin": "Grand Line",
+    "first_arc": "Water 7",
+    "first_arc_order": 15,
+    "first_appearance": { "chapter": 323, "episode": 230 },
+    "devil_fruit": {
+      "name": null,
+      "translated_name": null,
+      "description": null
+    },
+    "image_url": "https://ucarecdn.com/55311d60-e2ec-43e2-8de7-b70ea628f7f7/Paulie21bf2ef1.png",
+    "wanted_image_urls": [],
+    "laugh_audio_urls": []
+  },
+  {
+    "id": 440,
+    "name": "Franky",
+    "aliases": [],
+    "gender": "Male",
+    "affiliation": "Straw Hat Pirates",
+    "devil_fruit_type": "None",
+    "haki": {
+      "observation": false,
+      "armament": false,
+      "conqueror": false
+    },
+    "bounty_beli": 94000000,
+
+    "height_cm": 240,
+    "origin": "South Blue",
+    "first_arc": "Water 7",
+    "first_arc_order": 15,
+    "first_appearance": { "chapter": 329, "episode": 233 },
+    "devil_fruit": {
+      "name": null,
+      "translated_name": null,
+      "description": null
+    },
+    "image_url": "https://ucarecdn.com/98610aa5-3339-4ea4-a2b2-f45dd92f7aa0/Franky183757ce.png",
+    "wanted_image_urls": ["https://ucarecdn.com/bb86f2db-dd2f-4c58-a720-e02664348a43/franky_wanted_1.avif"],
+    "laugh_audio_urls": []
+  },
+  {
+    "id": 441,
+    "name": "Blueno",
+    "aliases": [],
+    "gender": "Male",
+    "affiliation": "CP0",
+    "devil_fruit_type": "Paramecia",
+    "haki": { "observation": true, "armament": true, "conqueror": false },
+    "bounty_beli": 0,
+
+    "height_cm": 258,
+    "origin": "North Blue",
+    "first_arc": "Water 7",
+    "first_arc_order": 15,
+    "first_appearance": { "chapter": 325, "episode": 230 },
+    "devil_fruit": {
+      "name": "Doa Doa no Mi",
+      "translated_name": "Door-Door Fruit",
+      "description": "Allows the user to create doors through anything they touch"
+    },
+    "image_url": "https://ucarecdn.com/042ebe3d-6e22-4f80-91aa-47d406d143fc/Bluenob55331b2.png",
+    "wanted_image_urls": [],
+    "laugh_audio_urls": []
+  },
+  {
+    "id": 442,
+    "name": "Spandam",
+    "aliases": [],
+    "gender": "Male",
+    "affiliation": "CP0",
+    "devil_fruit_type": "None",
+    "haki": {
+      "observation": false,
+      "armament": false,
+      "conqueror": false
+    },
+    "bounty_beli": 0,
+
+    "height_cm": 192,
+    "origin": "Grand Line",
+    "first_arc": "Water 7",
+    "first_arc_order": 15,
+    "first_appearance": { "chapter": 355, "episode": 249 },
+    "devil_fruit": {
+      "name": null,
+      "translated_name": null,
+      "description": null
+    },
+    "image_url": "https://ucarecdn.com/b8a4d0d0-1ed2-414b-b5ef-03b8dfb80cca/Spandam0c85f4aa.png",
+    "wanted_image_urls": [],
+    "laugh_audio_urls": ["https://onepiecedle-recreation.s3.eu-north-1.amazonaws.com/character-laughs/spandam_laugh_1.mp3"]
+  },
+  {
+    "id": 443,
+    "name": "Sakazuki",
+    "aliases": [],
+    "gender": "Male",
+    "affiliation": "Marines",
+    "devil_fruit_type": "Logia",
+    "haki": { "observation": true, "armament": true, "conqueror": false },
+    "bounty_beli": 0,
+
+    "height_cm": 306,
+    "origin": "North Blue",
+    "first_arc": "Enies Lobby",
+    "first_arc_order": 16,
+    "first_appearance": { "chapter": 397, "episode": 278 },
+    "devil_fruit": {
+      "name": "Magu Magu no Mi",
+      "translated_name": "Magma-Magma Fruit",
+      "description": "Allows the user to create, control, and transform into magma at will"
+    },
+    "image_url": "https://ucarecdn.com/54a2008c-a7bd-46e8-bc14-66ccd864a9ff/Sakazukid6b3d45c.png",
+    "wanted_image_urls": [],
+    "laugh_audio_urls": []
+  },
+  {
+    "id": 444,
+    "name": "Jabra",
+    "aliases": [],
+    "gender": "Male",
+    "affiliation": "CP9",
+    "devil_fruit_type": "Zoan",
+    "haki": { "observation": true, "armament": true, "conqueror": false },
+    "bounty_beli": 0,
+
+    "height_cm": 212,
+    "origin": "North Blue",
+    "first_arc": "Enies Lobby",
+    "first_arc_order": 16,
+    "first_appearance": { "chapter": 375, "episode": 264 },
+    "devil_fruit": {
+      "name": "Inu Inu no Mi, Model: Wolf",
+      "translated_name": "Mutt-Mutt Fruit, Model: Wolf",
+      "description": "Allows its user to transform into a wolf hybrid and a full wolf at will"
+    },
+    "image_url": "https://ucarecdn.com/379d64d0-5299-466a-9bab-1b32d3b3c282/Jabra189cc563.png",
+    "wanted_image_urls": [],
+    "laugh_audio_urls": []
+  },
+  {
+    "id": 445,
+    "name": "Monkey D. Garp",
+    "aliases": [],
+    "gender": "Male",
+    "affiliation": "Marines",
+    "devil_fruit_type": "None",
+    "haki": { "observation": true, "armament": true, "conqueror": true },
+    "bounty_beli": 0,
+
+    "height_cm": 287,
+    "origin": "East Blue",
+    "first_arc": "Arlong Park",
+    "first_arc_order": 5,
+    "first_appearance": { "chapter": 92, "episode": 68 },
+    "devil_fruit": {
+      "name": null,
+      "translated_name": null,
+      "description": null
+    },
+    "image_url": "https://ucarecdn.com/81269774-c0f4-4f66-8bb0-46de2323534a/MonkeyDGarp3097db17.png",
+    "wanted_image_urls": [],
+    "laugh_audio_urls": ["https://onepiecedle-recreation.s3.eu-north-1.amazonaws.com/character-laughs/monkey+d.+garp_laugh_1.mp3"]
+  },
+  {
+    "id": 446,
+    "name": "Gecko Moria",
+    "aliases": [],
+    "gender": "Male",
+    "affiliation": "Thriller Bark Pirates",
+    "devil_fruit_type": "Paramecia",
+    "haki": {
+      "observation": false,
+      "armament": false,
+      "conqueror": false
+    },
+    "bounty_beli": 320000000,
+
+    "height_cm": 692,
+    "origin": "West Blue",
+    "first_arc": "Thriller Bark",
+    "first_arc_order": 18,
+    "first_appearance": { "chapter": 449, "episode": 343 },
+    "devil_fruit": {
+      "name": "Kage Kage no Mi",
+      "translated_name": "Shadow-Shadow Fruit",
+      "description": "Gives the user the ability to manifest and control shadows of living creatures, including their own, as physical and tangible forms"
+    },
+    "image_url": "https://ucarecdn.com/34239e69-ac07-4611-812f-501538618bbe/GeckoMoria94f17b46.png",
+    "wanted_image_urls": ["https://ucarecdn.com/d32ee5d9-44a2-49ab-9fe5-d016a9382987/geckomoria_wanted_1.jfif"],
+    "laugh_audio_urls": ["https://onepiecedle-recreation.s3.eu-north-1.amazonaws.com/character-laughs/gecko+moria_laugh_1.mp3"]
+  },
+  {
+    "id": 447,
+    "name": "Brook",
+    "aliases": [],
+    "gender": "Male",
+    "affiliation": "Straw Hat Pirates",
+    "devil_fruit_type": "Paramecia",
+    "haki": {
+      "observation": false,
+      "armament": false,
+      "conqueror": false
+    },
+    "bounty_beli": 83000000,
+
+    "height_cm": 277,
+    "origin": "West Blue",
+    "first_arc": "Thriller Bark",
+    "first_arc_order": 18,
+    "first_appearance": { "chapter": 442, "episode": 337 },
+    "devil_fruit": {
+      "name": "Yomi Yomi no Mi",
+      "translated_name": "Revive-Revive Fruit",
+      "description": "Enhances the user's soul to the point where they resurrect after their first death, allowing them to live a second time and to use several other soul-based abilities"
+    },
+    "image_url": "https://ucarecdn.com/b5523031-643e-495c-9515-f97d6ccaa247/Brookd7f2e9fc.png",
+    "wanted_image_urls": ["https://ucarecdn.com/c8452b83-6c7b-490a-8376-452c1264b6ad/brook_wanted_1.png"],
+    "laugh_audio_urls": ["https://onepiecedle-recreation.s3.eu-north-1.amazonaws.com/character-laughs/brook_laugh_1.mp3"]
+  },
+  {
+    "id": 448,
+    "name": "Perona",
+    "aliases": [],
+    "gender": "Female",
+    "affiliation": "Dracule Mihawk",
+    "devil_fruit_type": "Paramecia",
+    "haki": {
+      "observation": false,
+      "armament": false,
+      "conqueror": false
+    },
+    "bounty_beli": 0,
+
+    "height_cm": 160,
+    "origin": "West Blue",
+    "first_arc": "Thriller Bark",
+    "first_arc_order": 18,
+    "first_appearance": { "chapter": 443, "episode": 338 },
+    "devil_fruit": {
+      "name": "Horo Horo no Mi",
+      "translated_name": "Hollow-Hollow Fruit",
+      "description": "Allows the user to conjure ghosts"
+    },
+    "image_url": "https://ucarecdn.com/3f50ce96-0124-442e-aad2-91bc1d4087fd/Perona100c23cb.png",
+    "wanted_image_urls": [],
+    "laugh_audio_urls": ["https://onepiecedle-recreation.s3.eu-north-1.amazonaws.com/character-laughs/perona_laugh_1.mp3"]
+  },
+  {
+    "id": 449,
+    "name": "Hogback",
+    "aliases": [],
+    "gender": "Male",
+    "affiliation": "Thriller Bark Pirates",
+    "devil_fruit_type": "None",
+    "haki": {
+      "observation": false,
+      "armament": false,
+      "conqueror": false
+    },
+    "bounty_beli": 0,
+
+    "height_cm": 223,
+    "origin": "West Blue",
+    "first_arc": "Thriller Bark",
+    "first_arc_order": 18,
+    "first_appearance": { "chapter": 446, "episode": 340 },
+    "devil_fruit": {
+      "name": null,
+      "translated_name": null,
+      "description": null
+    },
+    "image_url": "https://ucarecdn.com/a3cf74c5-4d6a-4059-943a-e6274d16441b/Hogbackc2bb1ec2.png",
+    "wanted_image_urls": [],
+    "laugh_audio_urls": ["https://onepiecedle-recreation.s3.eu-north-1.amazonaws.com/character-laughs/hogback_laugh_1.mp3", "https://onepiecedle-recreation.s3.eu-north-1.amazonaws.com/character-laughs/hogback_laugh_2.mp3"]
+  },
+  {
+    "id": 450,
+    "name": "Oars",
+    "aliases": [],
+    "gender": "Male",
+    "affiliation": "Thriller Bark Pirates",
+    "devil_fruit_type": "None",
+    "haki": {
+      "observation": false,
+      "armament": false,
+      "conqueror": false
+    },
+    "bounty_beli": 0,
+
+    "height_cm": 6700,
+    "origin": "North Blue",
+    "first_arc": "Thriller Bark",
+    "first_arc_order": 18,
+    "first_appearance": { "chapter": 456, "episode": 350 },
+    "devil_fruit": {
+      "name": null,
+      "translated_name": null,
+      "description": null
+    },
+    "image_url": "https://ucarecdn.com/19fbc14a-031b-451f-9236-68b78bc53bb2/Oars37cc650e.png",
+    "wanted_image_urls": [],
+    "laugh_audio_urls": []
+  },
+  {
+    "id": 451,
+    "name": "Shimotsuki Ryuma",
+    "aliases": [],
+    "gender": "Male",
+    "affiliation": "Thriller Bark Pirates",
+    "devil_fruit_type": "None",
+    "haki": {
+      "observation": false,
+      "armament": true,
+      "conqueror": false
+    },
+    "bounty_beli": 0,
+
+    "height_cm": 179,
+    "origin": "Grand Line",
+    "first_arc": "Thriller Bark",
+    "first_arc_order": 18,
+    "first_appearance": { "chapter": 448, "episode": 342 },
+    "devil_fruit": {
+      "name": null,
+      "translated_name": null,
+      "description": null
+    },
+    "image_url": "https://ucarecdn.com/cdb22b0a-ea64-4c0e-8f38-a8d617c1093c/ShimotsukiRyuma9712e593.png",
+    "wanted_image_urls": [],
+    "laugh_audio_urls": []
+  },
+  {
+    "id": 452,
+    "name": "Camie",
+    "aliases": [],
+    "gender": "Female",
+    "affiliation": "Takoyaki 8",
+    "devil_fruit_type": "None",
+    "haki": {
+      "observation": false,
+      "armament": false,
+      "conqueror": false
+    },
+    "bounty_beli": 0,
+
+    "height_cm": 197,
+    "origin": "Grand Line",
+    "first_arc": "Arabasta",
+    "first_arc_order": 11,
+    "first_appearance": { "chapter": 195, "episode": 385 },
+    "devil_fruit": {
+      "name": null,
+      "translated_name": null,
+      "description": null
+    },
+    "image_url": "https://ucarecdn.com/7a01dfc8-ce8c-42f0-939e-176f662c8bf5/Camie660d9460.png",
+    "wanted_image_urls": [],
+    "laugh_audio_urls": []
+  },
+  {
+    "id": 453,
+    "name": "Silvers Rayleigh",
+    "aliases": [],
+    "gender": "Male",
+    "affiliation": "Roger Pirates",
+    "devil_fruit_type": "None",
+    "haki": { "observation": true, "armament": true, "conqueror": true },
+    "bounty_beli": 0,
+
+    "height_cm": 188,
+    "origin": "Unknown",
+    "first_arc": "Orange Town",
+    "first_arc_order": 2,
+    "first_appearance": { "chapter": 19, "episode": 8 },
+    "devil_fruit": {
+      "name": null,
+      "translated_name": null,
+      "description": null
+    },
+    "image_url": "https://ucarecdn.com/3f664af0-7353-4f02-bea7-eee5ec2cd8c1/SilversRayleigha15b06ba.png",
+    "wanted_image_urls": [],
+    "laugh_audio_urls": ["https://onepiecedle-recreation.s3.eu-north-1.amazonaws.com/character-laughs/silvers+rayleigh_laugh_1.mp3"]
+  },
+  {
+    "id": 454,
+    "name": "Capone Bege",
+    "aliases": [],
+    "gender": "Male",
+    "affiliation": "Fire Tank Pirates",
+    "devil_fruit_type": "Paramecia",
+    "haki": {
+      "observation": false,
+      "armament": false,
+      "conqueror": false
+    },
+    "bounty_beli": 350000000,
+
+    "height_cm": 166,
+    "origin": "West Blue",
+    "first_arc": "Sabaody Archipelago",
+    "first_arc_order": 19,
+    "first_appearance": { "chapter": 498, "episode": 392 },
+    "devil_fruit": {
+      "name": "Shiro Shiro no Mi",
+      "translated_name": "Castle-Castle Fruit",
+      "description": "Allows the user to become a living fortress"
+    },
+    "image_url": "https://ucarecdn.com/dffc252b-f92d-447b-9ecc-332287226ddd/CaponeBegea198aba2.png",
+    "wanted_image_urls": ["https://ucarecdn.com/5f0e780e-3a4f-4902-be7c-2f7b66404401/caponebege_wanted_1.webp"],
+    "laugh_audio_urls": ["https://onepiecedle-recreation.s3.eu-north-1.amazonaws.com/character-laughs/capone+bege_laugh_1.mp3"]
+  },
+  {
+    "id": 455,
+    "name": "Jewelry Bonney",
+    "aliases": [],
+    "gender": "Female",
+    "affiliation": "Bonney Pirates",
+    "devil_fruit_type": "Paramecia",
+    "haki": {
+      "observation": false,
+      "armament": true,
+      "conqueror": false
+    },
+    "bounty_beli": 140000000,
+
+    "height_cm": 174,
+    "origin": "South Blue",
+    "first_arc": "Sabaody Archipelago",
+    "first_arc_order": 19,
+    "first_appearance": { "chapter": 498, "episode": 392 },
+    "devil_fruit": {
+      "name": "Toshi Toshi no Mi",
+      "translated_name": "Age-Age Fruit",
+      "description": "Allows the user to manipulate the ages of people or objects"
+    },
+    "image_url": "https://ucarecdn.com/b8dead51-6cc8-4e92-90d8-54b8883f05c9/JewelryBonneyd6983481.png",
+    "wanted_image_urls": ["https://ucarecdn.com/10e77abe-0f85-4f9f-a16f-7f45c492d398/jewelrybonney_wanted_1.jpg"],
+    "laugh_audio_urls": []
+  },
+  {
+    "id": 456,
+    "name": "Basil Hawkins",
+    "aliases": [],
+    "gender": "Male",
+    "affiliation": "Hawkins Pirates",
+    "devil_fruit_type": "Paramecia",
+    "haki": { "observation": true, "armament": true, "conqueror": false },
+    "bounty_beli": 320000000,
+
+    "height_cm": 210,
+    "origin": "North Blue",
+    "first_arc": "Sabaody Archipelago",
+    "first_arc_order": 19,
+    "first_appearance": { "chapter": 498, "episode": 392 },
+    "devil_fruit": {
+      "name": "Wara Wara no Mi",
+      "translated_name": "Straw-Straw Fruit",
+      "description": "Allows the user to create and manipulate straw at will, with the straw having damage-redirecting properties"
+    },
+    "image_url": "https://ucarecdn.com/521d2202-13d4-42b1-9ed2-e6f9072abf4c/BasilHawkinsebd4204a.png",
+    "wanted_image_urls": ["https://ucarecdn.com/51127ae9-55cf-4ef7-bac7-e90a9870a07f/basilhawkins_wanted_1.png"],
+    "laugh_audio_urls": []
+  },
+  {
+    "id": 457,
+    "name": "Eustass Kid",
+    "aliases": [],
+    "gender": "Male",
+    "affiliation": "Kid Pirates",
+    "devil_fruit_type": "Paramecia",
+    "haki": { "observation": true, "armament": true, "conqueror": true },
+    "bounty_beli": 3000000000,
+
+    "height_cm": 205,
+    "origin": "South Blue",
+    "first_arc": "Sabaody Archipelago",
+    "first_arc_order": 19,
+    "first_appearance": { "chapter": 498, "episode": 392 },
+    "devil_fruit": {
+      "name": "Jiki Jiki no Mi",
+      "translated_name": "Magnet-Magnet Fruit",
+      "description": "Allows the user to create magnetic forces and use them to control metal"
+    },
+    "image_url": "https://ucarecdn.com/2f4384ae-ca3a-40f2-90e2-798741ffce3d/EustassKid57fe4921.png",
+    "wanted_image_urls": ["https://ucarecdn.com/7f9dee42-0423-46f2-8db8-ba8622fc6614/eustasskid_wanted_1.webp", "https://ucarecdn.com/9e807e36-1158-4d60-9982-6a9d27aaacae/eustasskid_wanted_2.avif"],
+    "laugh_audio_urls": ["https://onepiecedle-recreation.s3.eu-north-1.amazonaws.com/character-laughs/eustass+kid_laugh_1.mp3"]
+  },
+  {
+    "id": 458,
+    "name": "Killer",
+    "aliases": [],
+    "gender": "Male",
+    "affiliation": "Kid Pirates",
+    "devil_fruit_type": "Zoan",
+    "haki": { "observation": true, "armament": true, "conqueror": false },
+    "bounty_beli": 200000000,
+
+    "height_cm": 195,
+    "origin": "South Blue",
+    "first_arc": "Sabaody Archipelago",
+    "first_arc_order": 19,
+    "first_appearance": { "chapter": 498, "episode": 392 },
+    "devil_fruit": {
+      "name": "SMILE Fruit",
+      "translated_name": "SMILE Fruit",
+      "description": "SMILE Fruit"
+    },
+    "image_url": "https://ucarecdn.com/16b2385f-1597-4bb5-ae7b-7d3eec3800bb/Killer8411d51f.png",
+    "wanted_image_urls": ["https://ucarecdn.com/70c47966-d8e0-489a-af2a-151827a51030/killer_wanted_1.webp", "https://ucarecdn.com/d99ff3b6-2f38-47be-be80-c6c163dd9cc6/killer_wanted_2.avif"],
+    "laugh_audio_urls": ["https://onepiecedle-recreation.s3.eu-north-1.amazonaws.com/character-laughs/killer_laugh_1.mp3"]
+  },
+  {
+    "id": 459,
+    "name": "X. Drake",
+    "aliases": [],
+    "gender": "Male",
+    "affiliation": "Marines",
+    "devil_fruit_type": "Zoan",
+    "haki": { "observation": true, "armament": true, "conqueror": false },
+    "bounty_beli": 222000000,
+
+    "height_cm": 233,
+    "origin": "North Blue",
+    "first_arc": "Sabaody Archipelago",
+    "first_arc_order": 19,
+    "first_appearance": { "chapter": 498, "episode": 392 },
+    "devil_fruit": {
+      "name": "Ryu Ryu no Mi, Model: Allosaurus",
+      "translated_name": "Dragon-Dragon Fruit, Model: Allosaurus",
+      "description": "Allows the user to transform into an allosaurus hybrid and a full allosaurus at will"
+    },
+    "image_url": "https://ucarecdn.com/9a316c56-d653-4d7d-8e06-917d1ae53f4d/XDrake4c6be48a.png",
+    "wanted_image_urls": ["https://ucarecdn.com/409ae603-efcd-4b28-95f4-d7284af2da4b/xdrake_wanted_1.avif", "https://ucarecdn.com/5d6a6a46-9334-4055-b6a3-ba3626ab7449/xdrake_wanted_2.avif"],
+    "laugh_audio_urls": []
+  },
+  {
+    "id": 460,
+    "name": "Trafalgar D. Water Law",
+    "aliases": [],
+    "gender": "Male",
+    "affiliation": "Heart Pirates",
+    "devil_fruit_type": "Paramecia",
+    "haki": { "observation": true, "armament": true, "conqueror": false },
+    "bounty_beli": 3000000000,
+
+    "height_cm": 191,
+    "origin": "North Blue",
+    "first_arc": "Sabaody Archipelago",
+    "first_arc_order": 19,
+    "first_appearance": { "chapter": 498, "episode": 392 },
+    "devil_fruit": {
+      "name": "Ope Ope no Mi",
+      "translated_name": "Op-Op Fruit",
+      "description": "Create a spherical domain in which the user can freely rearrange, take apart (without harm), and generally remodel the anatomy of anything and anyone (themselves included) in a \"surgical\" way"
+    },
+    "image_url": "https://ucarecdn.com/07685982-36f9-4830-9bce-6faaa4a7c492/TrafalgarDWaterLaw2d163cd6.png",
+    "wanted_image_urls": ["https://ucarecdn.com/91002055-36e5-4a0b-9213-9e97d70d79b7/trafalgardwaterlaw_wanted_1.avif", "https://ucarecdn.com/546ff432-b491-4bba-9fdd-197990505988/trafalgardwaterlaw_wanted_2.avif"],
+    "laugh_audio_urls": []
+  },
+  {
+    "id": 461,
+    "name": "Bepo",
+    "aliases": [],
+    "gender": "Male",
+    "affiliation": "Heart Pirates",
+    "devil_fruit_type": "None",
+    "haki": {
+      "observation": false,
+      "armament": false,
+      "conqueror": false
+    },
+    "bounty_beli": 500,
+
+    "height_cm": 240,
+    "origin": "Zou",
+    "first_arc": "Sabaody Archipelago",
+    "first_arc_order": 19,
+    "first_appearance": { "chapter": 498, "episode": 392 },
+    "devil_fruit": {
+      "name": null,
+      "translated_name": null,
+      "description": null
+    },
+    "image_url": "https://ucarecdn.com/01c7c195-ae50-4d70-b386-888aa579939e/Bepo1e8a8286.png",
+    "wanted_image_urls": ["https://ucarecdn.com/0894b5b5-fd61-4647-bdc9-064fbafc71e4/bepo_wanted_1.webp"],
+    "laugh_audio_urls": []
+  },
+  {
+    "id": 462,
+    "name": "Borsalino",
+    "aliases": [],
+    "gender": "Male",
+    "affiliation": "Marines",
+    "devil_fruit_type": "Logia",
+    "haki": { "observation": true, "armament": true, "conqueror": false },
+    "bounty_beli": 0,
+
+    "height_cm": 302,
+    "origin": "North Blue",
+    "first_arc": "Sabaody Archipelago",
+    "first_arc_order": 19,
+    "first_appearance": { "chapter": 504, "episode": 398 },
+    "devil_fruit": {
+      "name": "Pika Pika no Mi",
+      "translated_name": "Glint-Glint Fruit",
+      "description": "Allows the user to create, control, and transform into light at will"
+    },
+    "image_url": "https://ucarecdn.com/594709c5-194f-484a-b8d4-ad7ccf875c82/Borsalinoa86cccbd.png",
+    "wanted_image_urls": [],
+    "laugh_audio_urls": []
+  },
+  {
+    "id": 463,
+    "name": "Boa Hancock",
+    "aliases": [],
+    "gender": "Female",
+    "affiliation": "Kuja",
+    "devil_fruit_type": "Paramecia",
+    "haki": { "observation": true, "armament": true, "conqueror": true },
+    "bounty_beli": 80000000,
+
+    "height_cm": 191,
+    "origin": "Calm Belt",
+    "first_arc": "Amazon Lily",
+    "first_arc_order": 20,
+    "first_appearance": { "chapter": 516, "episode": 409 },
+    "devil_fruit": {
+      "name": "Mero Mero no Mi",
+      "translated_name": "Love-Love Fruit",
+      "description": "Allows a range of attacks which use emotions of love, lust or adoration to transform opponents into stone"
+    },
+    "image_url": "https://ucarecdn.com/6d7657fc-1992-4ed0-9a70-348bf145de74/BoaHancock709d01d9.png",
+    "wanted_image_urls": ["https://ucarecdn.com/302ce32e-2fde-41bd-915c-e4c3f9dce5b2/boahancock_wanted_1.png"],
+    "laugh_audio_urls": []
+  },
+  {
+    "id": 464,
+    "name": "Magellan",
+    "aliases": [],
+    "gender": "Male",
+    "affiliation": "Impel Down",
+    "devil_fruit_type": "Paramecia",
+    "haki": {
+      "observation": false,
+      "armament": false,
+      "conqueror": false
+    },
+    "bounty_beli": 0,
+
+    "height_cm": 491,
+    "origin": "Grand Line",
+    "first_arc": "Impel Down",
+    "first_arc_order": 21,
+    "first_appearance": { "chapter": 528, "episode": 425 },
+    "devil_fruit": {
+      "name": "Doku Doku no Mi",
+      "translated_name": "Venom-Venom Fruit",
+      "description": "Grants the user the ability to produce and control different types of poison, as well as grants immunity to all forms of poison"
+    },
+    "image_url": "https://ucarecdn.com/746383c9-deb7-4654-b964-230dc3eba205/Magellan1e61def4.png",
+    "wanted_image_urls": [],
+    "laugh_audio_urls": []
+  },
+  {
+    "id": 465,
+    "name": "Jinbe",
+    "aliases": [],
+    "gender": "Male",
+    "affiliation": "Straw Hat Pirates",
+    "devil_fruit_type": "None",
+    "haki": { "observation": true, "armament": true, "conqueror": false },
+    "bounty_beli": 438000000,
+
+    "height_cm": 301,
+    "origin": "Grand Line",
+    "first_arc": "Impel Down",
+    "first_arc_order": 21,
+    "first_appearance": { "chapter": 528, "episode": 430 },
+    "devil_fruit": {
+      "name": null,
+      "translated_name": null,
+      "description": null
+    },
+    "image_url": "https://ucarecdn.com/34ad4dc6-9197-4899-bc2e-490fc3f3e727/Jinbe7a29dbd5.png",
+    "wanted_image_urls": ["https://ucarecdn.com/47a7bdb4-fe57-4e6e-96fb-1dcc682d9b38/jinbe_wanted_1.avif", "https://ucarecdn.com/f96ec5d0-d5b3-47bc-aaed-7111acce0429/jinbe_wanted_2.webp"],
+    "laugh_audio_urls": ["https://onepiecedle-recreation.s3.eu-north-1.amazonaws.com/character-laughs/jinbe_laugh_1.mp3"]
+  },
+  {
+    "id": 466,
+    "name": "Emporio Ivankov",
+    "aliases": [],
+    "gender": "Male",
+    "affiliation": "Revolutionary Army",
+    "devil_fruit_type": "Paramecia",
+    "haki": {
+      "observation": false,
+      "armament": false,
+      "conqueror": false
+    },
+    "bounty_beli": 100000000,
+
+    "height_cm": 449,
+    "origin": "Grand Line",
+    "first_arc": "Impel Down",
+    "first_arc_order": 21,
+    "first_appearance": { "chapter": 537, "episode": 438 },
+    "devil_fruit": {
+      "name": "Horu Horu no Mi",
+      "translated_name": "Hor-Hor Fruit",
+      "description": "Grants the user the ability to create a variety of special hormones that can alter the recipient's body in any way the user desires"
+    },
+    "image_url": "https://ucarecdn.com/74145719-00bc-4506-81b6-54e6e00bc8d8/EmporioIvankov46877e61.png",
+    "wanted_image_urls": ["https://ucarecdn.com/934c9124-17a2-4c9c-97e6-576fd908d9a0/emporioivankov_wanted_1.png"],
+    "laugh_audio_urls": ["https://onepiecedle-recreation.s3.eu-north-1.amazonaws.com/character-laughs/emporio+ivankov_laugh_1.mp3"]
+  },
+  {
+    "id": 467,
+    "name": "Sabo",
+    "aliases": [],
+    "gender": "Male",
+    "affiliation": "Revolutionary Army",
+    "devil_fruit_type": "Logia",
+    "haki": { "observation": true, "armament": true, "conqueror": false },
+    "bounty_beli": 602000000,
+
+    "height_cm": 187,
+    "origin": "East Blue",
+    "first_arc": "Post-War",
+    "first_arc_order": 23,
+    "first_appearance": { "chapter": 583, "episode": 494 },
+    "devil_fruit": {
+      "name": "Mera Mera no Mi",
+      "translated_name": "Flame-Flame Fruit",
+      "description": "Allows the user to create, control, and transform into fire at will"
+    },
+    "image_url": "https://ucarecdn.com/0aa8f619-244c-44e2-85c2-abc5e3440c22/Sabo6791aa83.png",
+    "wanted_image_urls": ["https://ucarecdn.com/a6d61b33-038a-421a-806f-f1b64da07e02/sabo_wanted_1.png"],
+    "laugh_audio_urls": ["https://onepiecedle-recreation.s3.eu-north-1.amazonaws.com/character-laughs/sabo_laugh_1.mp3"]
+  },
+  {
+    "id": 468,
+    "name": "Caribou",
+    "aliases": [],
+    "gender": "Male",
+    "affiliation": "Caribou Pirates",
+    "devil_fruit_type": "Logia",
+    "haki": {
+      "observation": false,
+      "armament": false,
+      "conqueror": false
+    },
+    "bounty_beli": 210000000,
+
+    "height_cm": 228,
+    "origin": "North Blue",
+    "first_arc": "Return to Sabaody",
+    "first_arc_order": 24,
+    "first_appearance": { "chapter": 600, "episode": 519 },
+    "devil_fruit": {
+      "name": "Numa Numa no Mi",
+      "translated_name": "Swamp-Swamp Fruit",
+      "description": "Allows the user to create, control, and transform into mud at will"
+    },
+    "image_url": "https://ucarecdn.com/7173aed1-4fd8-4f54-9856-3bf3fc78f13d/Cariboue4b39a59.png",
+    "wanted_image_urls": ["https://ucarecdn.com/cf79c7fc-0920-412a-81ed-5aa239b22df9/caribou_wanted_1.webp"],
+    "laugh_audio_urls": ["https://onepiecedle-recreation.s3.eu-north-1.amazonaws.com/character-laughs/caribou_laugh_1.mp3"]
+  },
+  {
+    "id": 469,
+    "name": "Koala",
+    "aliases": [],
+    "gender": "Female",
+    "affiliation": "Revolutionary Army",
+    "devil_fruit_type": "None",
+    "haki": {
+      "observation": false,
+      "armament": false,
+      "conqueror": false
+    },
+    "bounty_beli": 0,
+
+    "height_cm": 160,
+    "origin": "Unknown",
+    "first_arc": "Fish-Man Island",
+    "first_arc_order": 25,
+    "first_appearance": { "chapter": 622, "episode": 541 },
+    "devil_fruit": {
+      "name": null,
+      "translated_name": null,
+      "description": null
+    },
+    "image_url": "https://ucarecdn.com/2173b4c6-a605-4419-b7f8-7a4237a64339/Koala344a7e40.png",
+    "wanted_image_urls": [],
+    "laugh_audio_urls": []
+  },
+  {
+    "id": 470,
+    "name": "Charlotte Linlin",
+    "aliases": [],
+    "gender": "Female",
+    "affiliation": "Big Mom Pirates",
+    "devil_fruit_type": "Paramecia",
+    "haki": { "observation": true, "armament": true, "conqueror": true },
+    "bounty_beli": 4400000000,
+
+    "height_cm": 880,
+    "origin": "Grand Line",
+    "first_arc": "Fish-Man Island",
+    "first_arc_order": 25,
+    "first_appearance": { "chapter": 651, "episode": 571 },
+    "devil_fruit": {
+      "name": "Soru Soru no Mi",
+      "translated_name": "Soul-Soul Fruit",
+      "description": "Allows the user to interact with and manipulate souls"
+    },
+    "image_url": "https://ucarecdn.com/5cf7236b-eedc-477f-b0da-bd286cc222d0/CharlotteLinlin3a98e78f.png",
+    "wanted_image_urls": ["https://ucarecdn.com/c8dcfdb7-f1bb-411b-b12f-6b75f905195e/charlottelinlin_wanted_1.jpg", "https://ucarecdn.com/3e18d8b7-f598-4a43-b91f-5cf0bdacaa13/charlottelinlin_wanted_2.webp"],
+    "laugh_audio_urls": ["https://onepiecedle-recreation.s3.eu-north-1.amazonaws.com/character-laughs/charlotte+linlin_laugh_1.mp3"]
+  },
+  {
+    "id": 471,
+    "name": "Shirahoshi",
+    "aliases": [],
+    "gender": "Female",
+    "affiliation": "Neptune Family",
+    "devil_fruit_type": "None",
+    "haki": {
+      "observation": true,
+      "armament": false,
+      "conqueror": false
+    },
+    "bounty_beli": 0,
+
+    "height_cm": 1187,
+    "origin": "Grand Line",
+    "first_arc": "Fish-Man Island",
+    "first_arc_order": 25,
+    "first_appearance": { "chapter": 612, "episode": 531 },
+    "devil_fruit": {
+      "name": null,
+      "translated_name": null,
+      "description": null
+    },
+    "image_url": "https://onepiecedle.net/img/Shirahoshi.7a69563c.png",
+    "wanted_image_urls": [],
+    "laugh_audio_urls": []
+  },
+  {
+    "id": 472,
+    "name": "Caesar Clown",
+    "aliases": [],
+    "gender": "Male",
+    "affiliation": "Germa Kingdom",
+    "devil_fruit_type": "Logia",
+    "haki": {
+      "observation": false,
+      "armament": false,
+      "conqueror": false
+    },
+    "bounty_beli": 300000000,
+
+    "height_cm": 309,
+    "origin": "Grand Line",
+    "first_arc": "Punk Hazard",
+    "first_arc_order": 26,
+    "first_appearance": { "chapter": 658, "episode": 581 },
+    "devil_fruit": {
+      "name": "Gasu Gasu no Mi",
+      "translated_name": "Gas-Gas Fruit",
+      "description": "Allows the user to create, control, and transform into gas at will"
+    },
+    "image_url": "https://ucarecdn.com/97b6c976-4348-4eab-bacb-dca21e81acdb/CaesarClown189632f1.png",
+    "wanted_image_urls": ["https://ucarecdn.com/a91f92a3-7eb0-499e-9761-500c5fb51936/caesarclown_wanted_1.webp"],
+    "laugh_audio_urls": ["https://onepiecedle-recreation.s3.eu-north-1.amazonaws.com/character-laughs/caesar+clown_laugh_1.mp3"]
+  },
+  {
+    "id": 473,
+    "name": "Kin'emon",
+    "aliases": [],
+    "gender": "Male",
+    "affiliation": "Kozuki Family",
+    "devil_fruit_type": "Paramecia",
+    "haki": { "observation": true, "armament": true, "conqueror": false },
+    "bounty_beli": 0,
+
+    "height_cm": 295,
+    "origin": "Grand Line",
+    "first_arc": "Punk Hazard",
+    "first_arc_order": 26,
+    "first_appearance": { "chapter": 656, "episode": 580 },
+    "devil_fruit": {
+      "name": "Fuku Fuku no Mi",
+      "translated_name": "Garb-Garb Fruit",
+      "description": "Allows the user to create clothing and other apparel out of leaves or stones by visualizing them"
+    },
+    "image_url": "https://ucarecdn.com/156f2707-962c-4c37-b493-c6cbf1da01c0/Kinemon18bf58f0.png",
+    "wanted_image_urls": [],
+    "laugh_audio_urls": []
+  },
+  {
+    "id": 474,
+    "name": "Kozuki Momonosuke",
+    "aliases": [],
+    "gender": "Male",
+    "affiliation": "Kozuki Family",
+    "devil_fruit_type": "Zoan",
+    "haki": {
+      "observation": true,
+      "armament": false,
+      "conqueror": false
+    },
+    "bounty_beli": 0,
+
+    "height_cm": 110,
+    "origin": "Grand Line",
+    "first_arc": "Punk Hazard",
+    "first_arc_order": 26,
+    "first_appearance": { "chapter": 684, "episode": 609 },
+    "devil_fruit": {
+      "name": "Uo Uo no Mi, Model: Seiryu",
+      "translated_name": "Fish-Fish Fruit, Model: Azure Dragon",
+      "description": "Allows its user to transform into a hybrid and full Azure Dragon at will"
+    },
+    "image_url": "https://ucarecdn.com/51174220-a894-4885-9ae6-12b091032fa6/KozukiMomonosuked8ea1575.png",
+    "wanted_image_urls": [],
+    "laugh_audio_urls": []
+  },
+  {
+    "id": 475,
+    "name": "Kurozumi Kanjuro",
+    "aliases": [],
+    "gender": "Male",
+    "affiliation": "Kurozumi Family",
+    "devil_fruit_type": "Paramecia",
+    "haki": { "observation": true, "armament": true, "conqueror": false },
+    "bounty_beli": 0,
+
+    "height_cm": 347,
+    "origin": "Unknown",
+    "first_arc": "Dressrosa",
+    "first_arc_order": 27,
+    "first_appearance": { "chapter": 700, "episode": 629 },
+    "devil_fruit": {
+      "name": "Fude Fude no Mi",
+      "translated_name": "Brush-Brush Fruit",
+      "description": "Allows the user to generate ink from their body and use a painting brush to turn images created with that ink into three-dimensional, lifelike objects"
+    },
+    "image_url": "https://ucarecdn.com/b044ecc4-9dd8-4198-9b67-bfa8e4f25f7e/KurozumiKanjuro228dbae0.png",
+    "wanted_image_urls": [],
+    "laugh_audio_urls": ["https://onepiecedle-recreation.s3.eu-north-1.amazonaws.com/character-laughs/kurozumi+kanjuro_laugh_1.mp3"]
+  },
+  {
+    "id": 476,
+    "name": "Issho",
+    "aliases": [],
+    "gender": "Male",
+    "affiliation": "Marines",
+    "devil_fruit_type": "Paramecia",
+    "haki": { "observation": true, "armament": true, "conqueror": false },
+    "bounty_beli": 0,
+
+    "height_cm": 270,
+    "origin": "Grand Line",
+    "first_arc": "Dressrosa",
+    "first_arc_order": 27,
+    "first_appearance": { "chapter": 701, "episode": 630 },
+    "devil_fruit": {
+      "name": "Zushi Zushi no Mi",
+      "translated_name": "Press-Press Fruit",
+      "description": "Allows the user to create and manipulate gravitational forces"
+    },
+    "image_url": "https://ucarecdn.com/f49fe28c-c3f9-4189-a75c-c1dd2fe45bbe/Isshobf83ff20.png",
+    "wanted_image_urls": [],
+    "laugh_audio_urls": ["https://onepiecedle-recreation.s3.eu-north-1.amazonaws.com/character-laughs/issho_laugh_1.mp3"]
+  },
+  {
+    "id": 477,
+    "name": "Kaido",
+    "aliases": [],
+    "gender": "Male",
+    "affiliation": "Beasts Pirates",
+    "devil_fruit_type": "Zoan",
+    "haki": { "observation": true, "armament": true, "conqueror": true },
+    "bounty_beli": 4600000000,
+
+    "height_cm": 710,
+    "origin": "Grand Line",
+    "first_arc": "Dressrosa",
+    "first_arc_order": 27,
+    "first_appearance": { "chapter": 795, "episode": 736 },
+    "devil_fruit": {
+      "name": "Uo Uo no Mi, Model: Seiryu",
+      "translated_name": "Fish-Fish Fruit, Model: Azure Dragon",
+      "description": "Allows its user to transform into a hybrid and full Azure Dragon at will"
+    },
+    "image_url": "https://ucarecdn.com/f271806c-b252-4346-abd0-a02bdf6bf364/Kaidof33ffc15.png",
+    "wanted_image_urls": ["https://ucarecdn.com/039560d2-7be0-4285-9ed0-cead519f4cf4/kaido_wanted_1.avif", "https://ucarecdn.com/930ba4a5-d42f-4e5f-ad7f-a226d072f77c/kaido_wanted_2.avif"],
+    "laugh_audio_urls": ["https://onepiecedle-recreation.s3.eu-north-1.amazonaws.com/character-laughs/kaido_laugh_1.mp3"]
+  },
+  {
+    "id": 478,
+    "name": "Monet",
+    "aliases": [],
+    "gender": "Female",
+    "affiliation": "Donquixote Pirates",
+    "devil_fruit_type": "Logia",
+    "haki": {
+      "observation": false,
+      "armament": false,
+      "conqueror": false
+    },
+    "bounty_beli": 0,
+
+    "height_cm": 227,
+    "origin": "North Blue",
+    "first_arc": "Punk Hazard",
+    "first_arc_order": 26,
+    "first_appearance": { "chapter": 657, "episode": 581 },
+    "devil_fruit": {
+      "name": "Yuki Yuki no Mi",
+      "translated_name": "Snow-Snow Fruit",
+      "description": "Allows the user to create, control, and transform into snow at will"
+    },
+    "image_url": "https://ucarecdn.com/3015559e-701c-4c97-aaef-e2183a3ba93d/Monet0d0fa156.png",
+    "wanted_image_urls": [],
+    "laugh_audio_urls": []
+  },
+  {
+    "id": 479,
+    "name": "Hody Jones",
+    "aliases": [],
+    "gender": "Male",
+    "affiliation": "New Fish-Man Pirates",
+    "devil_fruit_type": "None",
+    "haki": {
+      "observation": false,
+      "armament": false,
+      "conqueror": false
+    },
+    "bounty_beli": 0,
+
+    "height_cm": 331,
+    "origin": "Grand Line",
+    "first_arc": "Fish-Man Island",
+    "first_arc_order": 25,
+    "first_appearance": { "chapter": 608, "episode": 527 },
+    "devil_fruit": {
+      "name": null,
+      "translated_name": null,
+      "description": null
+    },
+    "image_url": "https://ucarecdn.com/51615a97-54d5-4b44-b6d0-53db019e705a/HodyJones59d34b3f.png",
+    "wanted_image_urls": [],
+    "laugh_audio_urls": ["https://onepiecedle-recreation.s3.eu-north-1.amazonaws.com/character-laughs/hody+jones_laugh_1.mp3"]
+  },
+  {
+    "id": 480,
+    "name": "Pica",
+    "aliases": [],
+    "gender": "Male",
+    "affiliation": "Donquixote Pirates",
+    "devil_fruit_type": "Paramecia",
+    "haki": { "observation": true, "armament": true, "conqueror": false },
+    "bounty_beli": 99000000,
+
+    "height_cm": 470,
+    "origin": "North Blue",
+    "first_arc": "Dressrosa",
+    "first_arc_order": 27,
+    "first_appearance": { "chapter": 700, "episode": 629 },
+    "devil_fruit": {
+      "name": "Ishi Ishi no Mi",
+      "translated_name": "Stone-Stone Fruit",
+      "description": "Allows the user to merge with and manipulate stone"
+    },
+    "image_url": "https://ucarecdn.com/b4b72f86-0ffd-40b6-af52-40e40e5d81ab/Pica8797a010.png",
+    "wanted_image_urls": ["https://ucarecdn.com/1a92c4ec-7fa8-4f4f-82ef-79bd728e1b0e/pica_wanted_1.jpg", "https://ucarecdn.com/32259342-d02d-442c-98c0-b6384f7c58d2/pica_wanted_2.jfif"],
+    "laugh_audio_urls": ["https://onepiecedle-recreation.s3.eu-north-1.amazonaws.com/character-laughs/pica_laugh_1.mp3"]
+  },
+  {
+    "id": 481,
+    "name": "Diamante",
+    "aliases": [],
+    "gender": "Male",
+    "affiliation": "Donquixote Pirates",
+    "devil_fruit_type": "Paramecia",
+    "haki": { "observation": true, "armament": true, "conqueror": false },
+    "bounty_beli": 99000000,
+
+    "height_cm": 525,
+    "origin": "North Blue",
+    "first_arc": "Dressrosa",
+    "first_arc_order": 27,
+    "first_appearance": { "chapter": 700, "episode": 629 },
+    "devil_fruit": {
+      "name": "Hira Hira no Mi",
+      "translated_name": "Ripple-Ripple Fruit",
+      "description": "Allows the user to make their body and any object they touch become flat and flexible, letting solid objects ripple, billow, and flutter like a piece of cloth or a flag"
+    },
+    "image_url": "https://ucarecdn.com/b79d0302-926d-45b7-83d9-48add90056bf/Diamantec6e356f6.png",
+    "wanted_image_urls": ["https://ucarecdn.com/1eca4ddc-0a8e-4a02-b207-a43b86ac747e/diamante_wanted_1.jpg"],
+    "laugh_audio_urls": ["https://onepiecedle-recreation.s3.eu-north-1.amazonaws.com/character-laughs/diamante_laugh_1.mp3"]
+  },
+  {
+    "id": 482,
+    "name": "Senor Pink",
+    "aliases": [],
+    "gender": "Male",
+    "affiliation": "Donquixote Pirates",
+    "devil_fruit_type": "Paramecia",
+    "haki": {
+      "observation": false,
+      "armament": false,
+      "conqueror": false
+    },
+    "bounty_beli": 58000000,
+
+    "height_cm": 244,
+    "origin": "North Blue",
+    "first_arc": "Dressrosa",
+    "first_arc_order": 27,
+    "first_appearance": { "chapter": 702, "episode": 632 },
+    "devil_fruit": {
+      "name": "Sui Sui no Mi",
+      "translated_name": "Swim-Swim Fruit",
+      "description": "Allows the user to swim in the ground or walls"
+    },
+    "image_url": "https://ucarecdn.com/ff159a8f-ec4b-4ed9-a620-3a031bed60d1/SenorPink61c9c242.png",
+    "wanted_image_urls": ["https://ucarecdn.com/09249cf3-cbb8-4441-89e0-be0244a25980/senorpink_wanted_1.webp"],
+    "laugh_audio_urls": []
+  },
+  {
+    "id": 483,
+    "name": "Rebecca",
+    "aliases": [],
+    "gender": "Female",
+    "affiliation": "Dressrosa",
+    "devil_fruit_type": "None",
+    "haki": {
+      "observation": true,
+      "armament": false,
+      "conqueror": false
+    },
+    "bounty_beli": 0,
+
+    "height_cm": 171,
+    "origin": "Grand Line",
+    "first_arc": "Dressrosa",
+    "first_arc_order": 27,
+    "first_appearance": { "chapter": 704, "episode": 633 },
+    "devil_fruit": {
+      "name": null,
+      "translated_name": null,
+      "description": null
+    },
+    "image_url": "https://ucarecdn.com/f5672c51-795c-4216-bd93-1cf33220d457/Rebecca75ba93cf.png",
+    "wanted_image_urls": [],
+    "laugh_audio_urls": []
+  },
+  {
+    "id": 484,
+    "name": "Kyros",
+    "aliases": [],
+    "gender": "Male",
+    "affiliation": "Riku Family",
+    "devil_fruit_type": "None",
+    "haki": {
+      "observation": false,
+      "armament": false,
+      "conqueror": false
+    },
+    "bounty_beli": 0,
+
+    "height_cm": 298,
+    "origin": "Grand Line",
+    "first_arc": "Dressrosa",
+    "first_arc_order": 27,
+    "first_appearance": { "chapter": 702, "episode": 631 },
+    "devil_fruit": {
+      "name": null,
+      "translated_name": null,
+      "description": null
+    },
+    "image_url": "https://ucarecdn.com/3a1e8f49-817a-4b66-b216-e787aebc7f01/Kyrosf244f590.png",
+    "wanted_image_urls": [],
+    "laugh_audio_urls": []
+  },
+  {
+    "id": 485,
+    "name": "Bartolomeo",
+    "aliases": [],
+    "gender": "Male",
+    "affiliation": "Barto Club",
+    "devil_fruit_type": "Paramecia",
+    "haki": {
+      "observation": false,
+      "armament": false,
+      "conqueror": false
+    },
+    "bounty_beli": 200000000,
+
+    "height_cm": 220,
+    "origin": "East Blue",
+    "first_arc": "Dressrosa",
+    "first_arc_order": 27,
+    "first_appearance": { "chapter": 705, "episode": 633 },
+    "devil_fruit": {
+      "name": "Bari Bari no Mi",
+      "translated_name": "Barrier-Barrier Fruit",
+      "description": "Allows the user to generate barriers"
+    },
+    "image_url": "https://ucarecdn.com/5245a293-3f4d-4e3f-a67a-5be594a30825/Bartolomeod202ae3e.png",
+    "wanted_image_urls": ["https://ucarecdn.com/3adc4949-ec53-45eb-9ece-8a60b1817b6c/bartolomeo_wanted_1.jpg", "https://ucarecdn.com/fa72109f-d467-4c14-8019-4fed4de7ade7/bartolomeo_wanted_2.webp"],
+    "laugh_audio_urls": ["https://onepiecedle-recreation.s3.eu-north-1.amazonaws.com/character-laughs/bartolomeo_laugh_1.mp3"]
+  },
+  {
+    "id": 486,
+    "name": "Donquixote Rosinante",
+    "aliases": [],
+    "gender": "Male",
+    "affiliation": "Marines",
+    "devil_fruit_type": "Paramecia",
+    "haki": {
+      "observation": false,
+      "armament": false,
+      "conqueror": false
+    },
+    "bounty_beli": 0,
+
+    "height_cm": 293,
+    "origin": "Red Line",
+    "first_arc": "Dressrosa",
+    "first_arc_order": 27,
+    "first_appearance": { "chapter": 761, "episode": 686 },
+    "devil_fruit": {
+      "name": "Nagi Nagi no Mi",
+      "translated_name": "Calm-Calm Fruit",
+      "description": "Allows the user to create a soundproof field and to cancel all noises"
+    },
+    "image_url": "https://ucarecdn.com/ed97163b-f160-4f47-b826-cdb61c0d8d99/DonquixoteRosinante9bc998c2.png",
+    "wanted_image_urls": [],
+    "laugh_audio_urls": []
+  },
+  {
+    "id": 487,
+    "name": "Viola",
+    "aliases": [],
+    "gender": "Female",
+    "affiliation": "Riku Family",
+    "devil_fruit_type": "Paramecia",
+    "haki": {
+      "observation": false,
+      "armament": false,
+      "conqueror": false
+    },
+    "bounty_beli": 0,
+
+    "height_cm": 178,
+    "origin": "Grand Line",
+    "first_arc": "Dressrosa",
+    "first_arc_order": 27,
+    "first_appearance": { "chapter": 703, "episode": 632 },
+    "devil_fruit": {
+      "name": "Giro Giro no Mi",
+      "translated_name": "Glare-Glare Fruit",
+      "description": "Allows the user to see through everything and read the minds of others"
+    },
+    "image_url": "https://ucarecdn.com/e5e52ab4-f1b2-4848-931b-8d5ce046d988/Viola3991f770.png",
+    "wanted_image_urls": [],
+    "laugh_audio_urls": []
+  },
+  {
+    "id": 488,
+    "name": "Cavendish",
+    "aliases": [],
+    "gender": "Male",
+    "affiliation": "Beautiful Pirates",
+    "devil_fruit_type": "None",
+    "haki": { "observation": true, "armament": true, "conqueror": false },
+    "bounty_beli": 330000000,
+
+    "height_cm": 208,
+    "origin": "Grand Line",
+    "first_arc": "Dressrosa",
+    "first_arc_order": 27,
+    "first_appearance": { "chapter": 704, "episode": 632 },
+    "devil_fruit": {
+      "name": null,
+      "translated_name": null,
+      "description": null
+    },
+    "image_url": "https://ucarecdn.com/d8f61b87-bca8-409f-90a2-3238ee59a094/Cavendishdc7ff939.png",
+    "wanted_image_urls": ["https://ucarecdn.com/9a93bbe3-6223-404b-a9d9-c395330eac1f/cavendish_wanted_1.avif"],
+    "laugh_audio_urls": []
+  },
+  {
+    "id": 489,
+    "name": "Carrot",
+    "aliases": [],
+    "gender": "Female",
+    "affiliation": "Mokomo Dukedom",
+    "devil_fruit_type": "None",
+    "haki": {
+      "observation": false,
+      "armament": false,
+      "conqueror": false
+    },
+    "bounty_beli": 0,
+
+    "height_cm": 161,
+    "origin": "Grand Line",
+    "first_arc": "Zou",
+    "first_arc_order": 28,
+    "first_appearance": { "chapter": 804, "episode": 753 },
+    "devil_fruit": {
+      "name": null,
+      "translated_name": null,
+      "description": null
+    },
+    "image_url": "https://ucarecdn.com/ae3e1c46-a9c7-4dfe-bd16-5b1e442fed57/Carrot7fe792fc.png",
+    "wanted_image_urls": [],
+    "laugh_audio_urls": []
+  },
+  {
+    "id": 490,
+    "name": "Pedro",
+    "aliases": [],
+    "gender": "Male",
+    "affiliation": "Mokomo Dukedom",
+    "devil_fruit_type": "None",
+    "haki": { "observation": true, "armament": true, "conqueror": false },
+    "bounty_beli": 382000000,
+
+    "height_cm": 233,
+    "origin": "Grand Line",
+    "first_arc": "Zou",
+    "first_arc_order": 28,
+    "first_appearance": { "chapter": 805, "episode": 754 },
+    "devil_fruit": {
+      "name": null,
+      "translated_name": null,
+      "description": null
+    },
+    "image_url": "https://ucarecdn.com/4bc94634-4926-4226-98c2-817893af4af5/Pedro722ee0db.png",
+    "wanted_image_urls": [],
+    "laugh_audio_urls": []
+  },
+  {
+    "id": 491,
+    "name": "Nekomamushi",
+    "aliases": [],
+    "gender": "Male",
+    "affiliation": "Mokomo Dukedom",
+    "devil_fruit_type": "None",
+    "haki": { "observation": true, "armament": true, "conqueror": false },
+    "bounty_beli": 0,
+
+    "height_cm": 522,
+    "origin": "Grand Line",
+    "first_arc": "Zou",
+    "first_arc_order": 28,
+    "first_appearance": { "chapter": 809, "episode": 756 },
+    "devil_fruit": {
+      "name": null,
+      "translated_name": null,
+      "description": null
+    },
+    "image_url": "https://ucarecdn.com/53135e83-af35-4498-9e11-46d7e0823827/Nekomamushi3bea3a89.png",
+    "wanted_image_urls": [],
+    "laugh_audio_urls": []
+  },
+  {
+    "id": 492,
+    "name": "Inuarashi",
+    "aliases": [],
+    "gender": "Male",
+    "affiliation": "Mokomo Dukedom",
+    "devil_fruit_type": "None",
+    "haki": { "observation": true, "armament": true, "conqueror": false },
+    "bounty_beli": 0,
+
+    "height_cm": 511,
+    "origin": "Grand Line",
+    "first_arc": "Zou",
+    "first_arc_order": 28,
+    "first_appearance": { "chapter": 808, "episode": 756 },
+    "devil_fruit": {
+      "name": null,
+      "translated_name": null,
+      "description": null
+    },
+    "image_url": "https://ucarecdn.com/d580c876-ab89-4fad-aeec-96844447aa7c/Inuarashi455ca992.png",
+    "wanted_image_urls": [],
+    "laugh_audio_urls": []
+  },
+  {
+    "id": 493,
+    "name": "Wanda",
+    "aliases": [],
+    "gender": "Female",
+    "affiliation": "Mokomo Dukedom",
+    "devil_fruit_type": "None",
+    "haki": {
+      "observation": false,
+      "armament": false,
+      "conqueror": false
+    },
+    "bounty_beli": 0,
+
+    "height_cm": 181,
+    "origin": "Grand Line",
+    "first_arc": "Zou",
+    "first_arc_order": 28,
+    "first_appearance": { "chapter": 804, "episode": 753 },
+    "devil_fruit": {
+      "name": null,
+      "translated_name": null,
+      "description": null
+    },
+    "image_url": "https://ucarecdn.com/aad1c112-6715-4d99-8c82-bb78c6cd54c1/Wandaf76e7e22.png",
+    "wanted_image_urls": [],
+    "laugh_audio_urls": []
+  },
+  {
+    "id": 494,
+    "name": "Morgans",
+    "aliases": [],
+    "gender": "Male",
+    "affiliation": "World Economy News Paper",
+    "devil_fruit_type": "Zoan",
+    "haki": {
+      "observation": false,
+      "armament": false,
+      "conqueror": false
+    },
+    "bounty_beli": 0,
+
+    "height_cm": 305,
+    "origin": "Grand Line",
+    "first_arc": "Whole Cake Island",
+    "first_arc_order": 29,
+    "first_appearance": { "chapter": 860, "episode": 828 },
+    "devil_fruit": {
+      "name": "Tori Tori no Mi, Model: Albatross",
+      "translated_name": "Bird-Bird Fruit, Model: Albatross",
+      "description": "Allows its user to transform into an albatross hybrid and a full albatross at will"
+    },
+    "image_url": "https://ucarecdn.com/23aa69ac-8483-42c4-864b-384715f462d6/Morgans875b7b8e.png",
+    "wanted_image_urls": [],
+    "laugh_audio_urls": []
+  },
+  {
+    "id": 495,
+    "name": "Charlotte Chiffon",
+    "aliases": [],
+    "gender": "Female",
+    "affiliation": "Fire Tank Pirates",
+    "devil_fruit_type": "None",
+    "haki": {
+      "observation": false,
+      "armament": false,
+      "conqueror": false
+    },
+    "bounty_beli": 0,
+
+    "height_cm": 215,
+    "origin": "Grand Line",
+    "first_arc": "Whole Cake Island",
+    "first_arc_order": 29,
+    "first_appearance": { "chapter": 825, "episode": 783 },
+    "devil_fruit": {
+      "name": null,
+      "translated_name": null,
+      "description": null
+    },
+    "image_url": "https://ucarecdn.com/7c778f26-9df7-4384-a8a9-966297ffa9e6/CharlotteChiffon8722f63e.png",
+    "wanted_image_urls": [],
+    "laugh_audio_urls": []
+  },
+  {
+    "id": 496,
+    "name": "Charlotte Pudding",
+    "aliases": [],
+    "gender": "Female",
+    "affiliation": "Big Mom Pirates",
+    "devil_fruit_type": "Paramecia",
+    "haki": {
+      "observation": false,
+      "armament": false,
+      "conqueror": false
+    },
+    "bounty_beli": 0,
+
+    "height_cm": 166,
+    "origin": "Grand Line",
+    "first_arc": "Fish-Man Island",
+    "first_arc_order": 25,
+    "first_appearance": { "chapter": 651, "episode": 571 },
+    "devil_fruit": {
+      "name": "Memo Memo no Mi",
+      "translated_name": "Memo-Memo Fruit",
+      "description": "Allows the user to turn people's memories into strips of film and manipulate them"
+    },
+    "image_url": "https://ucarecdn.com/c8d9a377-b30c-4f77-a6a7-69a15be1114e/CharlottePuddinga6ceb0e0.png",
+    "wanted_image_urls": [],
+    "laugh_audio_urls": []
+  },
+  {
+    "id": 497,
+    "name": "Pekoms",
+    "aliases": [],
+    "gender": "Male",
+    "affiliation": "Big Mom Pirates",
+    "devil_fruit_type": "Zoan",
+    "haki": { "observation": true, "armament": true, "conqueror": false },
+    "bounty_beli": 330000000,
+
+    "height_cm": 232,
+    "origin": "Zou",
+    "first_arc": "Fish-Man Island",
+    "first_arc_order": 25,
+    "first_appearance": { "chapter": 651, "episode": 570 },
+    "devil_fruit": {
+      "name": "Kame Kame no Mi",
+      "translated_name": "Turtle-Turtle Fruit",
+      "description": "Allows the user to become a turtle hybrid and full turtle at will"
+    },
+    "image_url": "https://ucarecdn.com/30690281-b81c-4ca1-b398-9c4007fbc02e/Pekomsac3fbbf4.png",
+    "wanted_image_urls": [],
+    "laugh_audio_urls": []
+  },
+  {
+    "id": 498,
+    "name": "Vinsmoke Reiju",
+    "aliases": [],
+    "gender": "Female",
+    "affiliation": "Vinsmoke Family",
+    "devil_fruit_type": "None",
+    "haki": {
+      "observation": false,
+      "armament": false,
+      "conqueror": false
+    },
+    "bounty_beli": 0,
+
+    "height_cm": 173,
+    "origin": "North Blue",
+    "first_arc": "Whole Cake Island",
+    "first_arc_order": 29,
+    "first_appearance": { "chapter": 826, "episode": 784 },
+    "devil_fruit": {
+      "name": null,
+      "translated_name": null,
+      "description": null
+    },
+    "image_url": "https://ucarecdn.com/b9a6c7c0-5545-422f-a810-0b57a8d678e6/VinsmokeReiju0886f274.png",
+    "wanted_image_urls": [],
+    "laugh_audio_urls": []
+  },
+  {
+    "id": 499,
+    "name": "Charlotte Brulee",
+    "aliases": [],
+    "gender": "Female",
+    "affiliation": "Big Mom Pirates",
+    "devil_fruit_type": "Paramecia",
+    "haki": {
+      "observation": false,
+      "armament": false,
+      "conqueror": false
+    },
+    "bounty_beli": 0,
+
+    "height_cm": 350,
+    "origin": "Grand Line",
+    "first_arc": "Whole Cake Island",
+    "first_arc_order": 29,
+    "first_appearance": { "chapter": 831, "episode": 791 },
+    "devil_fruit": {
+      "name": "Mira Mira no Mi",
+      "translated_name": "Mirror-Mirror Fruit",
+      "description": "Allows the user to create mirrors which can reflect attacks or appearances"
+    },
+    "image_url": "https://ucarecdn.com/0c2b4a9d-4bce-46c3-98e4-db94f3e7ea70/CharlotteBrulee9a792ac4.png",
+    "wanted_image_urls": [],
+    "laugh_audio_urls": []
+  },
+  {
+    "id": 500,
+    "name": "Charlotte Mont-d'Or",
+    "aliases": [],
+    "gender": "Male",
+    "affiliation": "Big Mom Pirates",
+    "devil_fruit_type": "Paramecia",
+    "haki": {
+      "observation": false,
+      "armament": false,
+      "conqueror": false
+    },
+    "bounty_beli": 120000000,
+
+    "height_cm": 260,
+    "origin": "Grand Line",
+    "first_arc": "Whole Cake Island",
+    "first_arc_order": 29,
+    "first_appearance": { "chapter": 829, "episode": 789 },
+    "devil_fruit": {
+      "name": "Buku Buku no Mi",
+      "translated_name": "Book-Book Fruit",
+      "description": "Allows the user to manipulate books"
+    },
+    "image_url": "https://ucarecdn.com/13f2405a-e451-47cb-b9fb-b375b782ef23/CharlotteMontdOr867685f9.png",
+    "wanted_image_urls": [],
+    "laugh_audio_urls": []
+  },
+  {
+    "id": 501,
+    "name": "Vinsmoke Judge",
+    "aliases": [],
+    "gender": "Male",
+    "affiliation": "Vinsmoke Family",
+    "devil_fruit_type": "None",
+    "haki": {
+      "observation": false,
+      "armament": true,
+      "conqueror": false
+    },
+    "bounty_beli": 0,
+
+    "height_cm": 272,
+    "origin": "North Blue",
+    "first_arc": "Whole Cake Island",
+    "first_arc_order": 29,
+    "first_appearance": { "chapter": 832, "episode": 793 },
+    "devil_fruit": {
+      "name": null,
+      "translated_name": null,
+      "description": null
+    },
+    "image_url": "https://ucarecdn.com/c328931e-e8f0-41e7-9153-5711133bcae6/VinsmokeJudge23fe363d.png",
+    "wanted_image_urls": [],
+    "laugh_audio_urls": []
+  },
+  {
+    "id": 502,
+    "name": "Charlotte Katakuri",
+    "aliases": [],
+    "gender": "Male",
+    "affiliation": "Big Mom Pirates",
+    "devil_fruit_type": "Paramecia",
+    "haki": { "observation": true, "armament": true, "conqueror": true },
+    "bounty_beli": 1100000000,
+
+    "height_cm": 509,
+    "origin": "Grand Line",
+    "first_arc": "Whole Cake Island",
+    "first_arc_order": 29,
+    "first_appearance": { "chapter": 860, "episode": 825 },
+    "devil_fruit": {
+      "name": "Mochi Mochi no Mi",
+      "translated_name": "Mochi-Mochi Fruit",
+      "description": "Allows the user to create, control, and transform into mochi"
+    },
+    "image_url": "https://ucarecdn.com/16a6fa27-f344-43f3-a481-8e031f239276/CharlotteKatakuri3d2a3247.png",
+    "wanted_image_urls": [],
+    "laugh_audio_urls": []
+  },
+  {
+    "id": 503,
+    "name": "Charlotte Perospero",
+    "aliases": [],
+    "gender": "Male",
+    "affiliation": "Big Mom Pirates",
+    "devil_fruit_type": "Paramecia",
+    "haki": { "observation": true, "armament": true, "conqueror": false },
+    "bounty_beli": 700000000,
+
+    "height_cm": 333,
+    "origin": "Grand Line",
+    "first_arc": "Whole Cake Island",
+    "first_arc_order": 29,
+    "first_appearance": { "chapter": 834, "episode": 795 },
+    "devil_fruit": {
+      "name": "Pero Pero no Mi",
+      "translated_name": "Lick-Lick Fruit",
+      "description": "Allows the user to create and manipulate candy at will"
+    },
+    "image_url": "https://ucarecdn.com/62838e62-0c47-4300-8870-9a9bfce6503d/CharlottePerospero93502534.png",
+    "wanted_image_urls": [],
+    "laugh_audio_urls": []
+  },
+  {
+    "id": 504,
+    "name": "Kozuki Oden",
+    "aliases": [],
+    "gender": "Male",
+    "affiliation": "Kozuki Family",
+    "devil_fruit_type": "None",
+    "haki": { "observation": true, "armament": true, "conqueror": true },
+    "bounty_beli": 0,
+
+    "height_cm": 382,
+    "origin": "Grand Line",
+    "first_arc": "Wano Country",
+    "first_arc_order": 31,
+    "first_appearance": { "chapter": 920, "episode": 910 },
+    "devil_fruit": {
+      "name": null,
+      "translated_name": null,
+      "description": null
+    },
+    "image_url": "https://ucarecdn.com/a8d36626-9aeb-461b-bd71-ac45953693ce/KozukiOdena947bbb2.png",
+    "wanted_image_urls": [],
+    "laugh_audio_urls": []
+  },
+  {
+    "id": 505,
+    "name": "Kikunojo",
+    "aliases": [],
+    "gender": "Female",
+    "affiliation": "Kozuki Family",
+    "devil_fruit_type": "None",
+    "haki": { "observation": true, "armament": true, "conqueror": false },
+    "bounty_beli": 0,
+
+    "height_cm": 287,
+    "origin": "Grand Line",
+    "first_arc": "Wano Country",
+    "first_arc_order": 31,
+    "first_appearance": { "chapter": 913, "episode": 899 },
+    "devil_fruit": {
+      "name": null,
+      "translated_name": null,
+      "description": null
+    },
+    "image_url": "https://ucarecdn.com/979b8236-c4e8-4ebc-a07c-c7cc8be14c18/Kikunojod00de77f.png",
+    "wanted_image_urls": [],
+    "laugh_audio_urls": []
+  },
+  {
+    "id": 506,
+    "name": "Kozuki Hiyori",
+    "aliases": [],
+    "gender": "Female",
+    "affiliation": "Kozuki Family",
+    "devil_fruit_type": "None",
+    "haki": {
+      "observation": false,
+      "armament": false,
+      "conqueror": false
+    },
+    "bounty_beli": 0,
+
+    "height_cm": 170,
+    "origin": "Grand Line",
+    "first_arc": "Wano Country",
+    "first_arc_order": 31,
+    "first_appearance": { "chapter": 909, "episode": 892 },
+    "devil_fruit": {
+      "name": null,
+      "translated_name": null,
+      "description": null
+    },
+    "image_url": "https://ucarecdn.com/d24a34a8-26eb-4c48-a014-42c07d67b8b6/KozukiHiyorif9f0972b.png",
+    "wanted_image_urls": [],
+    "laugh_audio_urls": []
+  },
+  {
+    "id": 507,
+    "name": "Kurozumi Tama",
+    "aliases": [],
+    "gender": "Female",
+    "affiliation": "Kurozumi Family",
+    "devil_fruit_type": "Paramecia",
+    "haki": {
+      "observation": false,
+      "armament": false,
+      "conqueror": false
+    },
+    "bounty_beli": 0,
+
+    "height_cm": 108,
+    "origin": "Grand Line",
+    "first_arc": "Wano Country",
+    "first_arc_order": 31,
+    "first_appearance": { "chapter": 911, "episode": 893 },
+    "devil_fruit": {
+      "name": "Kibi Kibi no Mi",
+      "translated_name": "Millet-Millet Fruit",
+      "description": "Allows the user to create dango from their cheeks that can tame animals and those of part-animal nature"
+    },
+    "image_url": "https://ucarecdn.com/64976542-b054-4473-b08a-6974106f6d15/KurozumiTama2e20cacb.png",
+    "wanted_image_urls": [],
+    "laugh_audio_urls": []
+  },
+  {
+    "id": 508,
+    "name": "Yamato",
+    "aliases": [],
+    "gender": "Female",
+    "affiliation": "Ninja-Pirate-Mink-Samurai Alliance",
+    "devil_fruit_type": "Zoan",
+    "haki": { "observation": true, "armament": true, "conqueror": true },
+    "bounty_beli": 0,
+
+    "height_cm": 263,
+    "origin": "Unknown",
+    "first_arc": "Wano Country",
+    "first_arc_order": 31,
+    "first_appearance": { "chapter": 971, "episode": 972 },
+    "devil_fruit": {
+      "name": "Inu Inu no Mi, Model: Okuchi no Makami",
+      "translated_name": "Dog-Dog Fruit, Model: Okuchi-no-Makami",
+      "description": "Allows the user to transform into a hybrid and full version of an ancient wolf deity at will"
+    },
+    "image_url": "https://ucarecdn.com/85b394d9-ccc5-49d4-9609-3ee3b23d6caf/Yamato5a122b68.png",
+    "wanted_image_urls": [],
+    "laugh_audio_urls": []
+  },
+  {
+    "id": 509,
+    "name": "Kawamatsu",
+    "aliases": [],
+    "gender": "Male",
+    "affiliation": "Kozuki Family",
+    "devil_fruit_type": "None",
+    "haki": { "observation": true, "armament": true, "conqueror": false },
+    "bounty_beli": 0,
+
+    "height_cm": 271,
+    "origin": "Unknown",
+    "first_arc": "Wano Country",
+    "first_arc_order": 31,
+    "first_appearance": { "chapter": 920, "episode": 910 },
+    "devil_fruit": {
+      "name": null,
+      "translated_name": null,
+      "description": null
+    },
+    "image_url": "https://ucarecdn.com/126c627c-4fac-4e02-97c8-61f7177b8cfa/Kawamatsu77b17aee.png",
+    "wanted_image_urls": [],
+    "laugh_audio_urls": []
+  },
+  {
+    "id": 510,
+    "name": "Ashura Doji",
+    "aliases": [],
+    "gender": "Male",
+    "affiliation": "Mt. Atama Thieves",
+    "devil_fruit_type": "None",
+    "haki": { "observation": true, "armament": true, "conqueror": false },
+    "bounty_beli": 0,
+
+    "height_cm": 544,
+    "origin": "Grand Line",
+    "first_arc": "Wano Country",
+    "first_arc_order": 31,
+    "first_appearance": { "chapter": 920, "episode": 910 },
+    "devil_fruit": {
+      "name": null,
+      "translated_name": null,
+      "description": null
+    },
+    "image_url": "https://ucarecdn.com/dede8125-db68-4c0c-a814-86162e38422a/AshuraDoji3be10f9f.png",
+    "wanted_image_urls": [],
+    "laugh_audio_urls": []
+  },
+  {
+    "id": 511,
+    "name": "Raizo",
+    "aliases": [],
+    "gender": "Male",
+    "affiliation": "Kozuki Family",
+    "devil_fruit_type": "Paramecia",
+    "haki": { "observation": true, "armament": true, "conqueror": false },
+    "bounty_beli": 0,
+
+    "height_cm": 311,
+    "origin": "Grand Line",
+    "first_arc": "Zou",
+    "first_arc_order": 28,
+    "first_appearance": { "chapter": 817, "episode": 768 },
+    "devil_fruit": {
+      "name": "Maki Maki no Mi",
+      "translated_name": "Scroll-Scroll Fruit",
+      "description": "Allows the user to create and control scrolls at will, which have special properties including storing objects and generating drawings"
+    },
+    "image_url": "https://ucarecdn.com/769974c2-050a-4df5-a980-a7041ec63b9f/Raizo000da401.png",
+    "wanted_image_urls": [],
+    "laugh_audio_urls": []
+  },
+  {
+    "id": 512,
+    "name": "Denjiro",
+    "aliases": [],
+    "gender": "Male",
+    "affiliation": "Kozuki Family",
+    "devil_fruit_type": "None",
+    "haki": { "observation": true, "armament": true, "conqueror": false },
+    "bounty_beli": 0,
+
+    "height_cm": 306,
+    "origin": "Grand Line",
+    "first_arc": "Wano Country",
+    "first_arc_order": 31,
+    "first_appearance": { "chapter": 919, "episode": 909 },
+    "devil_fruit": {
+      "name": null,
+      "translated_name": null,
+      "description": null
+    },
+    "image_url": "https://ucarecdn.com/da579041-bb95-44f7-8856-3f268f99fc0b/Denjiro75aec5cf.png",
+    "wanted_image_urls": [],
+    "laugh_audio_urls": []
+  },
+  {
+    "id": 513,
+    "name": "Aramaki",
+    "aliases": [],
+    "gender": "Male",
+    "affiliation": "Marines",
+    "devil_fruit_type": "Logia",
+    "haki": { "observation": true, "armament": true, "conqueror": false },
+    "bounty_beli": 0,
+
+    "height_cm": 308,
+    "origin": "South Blue",
+    "first_arc": "Levely",
+    "first_arc_order": 30,
+    "first_appearance": { "chapter": 905, "episode": 882 },
+    "devil_fruit": {
+      "name": "Mori Mori no Mi",
+      "translated_name": "Woods-Woods Fruit",
+      "description": "Grants the power to create, control, and transform into flora at will"
+    },
+    "image_url": "https://ucarecdn.com/08d59f5f-5a60-47ec-8292-f86aa3e26fb4/Aramaki.jfif",
+    "wanted_image_urls": [],
+    "laugh_audio_urls": []
+  },
+  {
+    "id": 514,
+    "name": "Vegapunk",
+    "aliases": [],
+    "gender": "Male",
+    "affiliation": "Marines",
+    "devil_fruit_type": "Paramecia",
+    "haki": {
+      "observation": false,
+      "armament": false,
+      "conqueror": false
+    },
+    "bounty_beli": 0,
+
+    "height_cm": 296,
+    "origin": "Grand Line",
+    "first_arc": "Egghead",
+    "first_arc_order": 32,
+    "first_appearance": { "chapter": 1066, "episode": 1096 },
+    "devil_fruit": {
+      "name": "Nomi Nomi no Mi",
+      "translated_name": "Brain-Brain Fruit",
+      "description": "Allows the user's brain to expand indefinitely with new knowledge"
+    },
+    "image_url": "https://ucarecdn.com/45511899-2807-44a4-a6f8-8d0a5b7e7fb7/Vegapunk.png",
+    "wanted_image_urls": [],
+    "laugh_audio_urls": []
+  },
+  {
+    "id": 515,
+    "name": "Karasu",
+    "aliases": [],
+    "gender": "Male",
+    "affiliation": "Revolutionary Army",
+    "devil_fruit_type": "Logia",
+    "haki": { "observation": true, "armament": true, "conqueror": false },
+    "bounty_beli": 400000000,
+
+    "height_cm": 265,
+    "origin": "North Blue",
+    "first_arc": "Post-War",
+    "first_arc_order": 23,
+    "first_appearance": { "chapter": 593, "episode": 510 },
+    "devil_fruit": {
+      "name": "Susu Susu no Mi",
+      "translated_name": "Soot-Soot Fruit",
+      "description": "Allows the user to create, control, and transform into soot at will"
+    },
+    "image_url": "https://ucarecdn.com/c3736e77-6354-4b1c-ab96-509caf59e702/Karasu.png",
+    "wanted_image_urls": [],
+    "laugh_audio_urls": []
+  },
+  {
+    "id": 516,
+    "name": "Lindbergh",
+    "aliases": [],
+    "gender": "Male",
+    "affiliation": "Revolutionary Army",
+    "devil_fruit_type": "None",
+    "haki": { "observation": true, "armament": true, "conqueror": false },
+    "bounty_beli": 316000000,
+
+    "height_cm": 149,
+    "origin": "Unknown",
+    "first_arc": "Levely",
+    "first_arc_order": 30,
+    "first_appearance": { "chapter": 904, "episode": 880 },
+    "devil_fruit": {
+      "name": null,
+      "translated_name": null,
+      "description": null
+    },
+    "image_url": "https://ucarecdn.com/4b55447d-cfde-491d-a233-4596c265ceed/Lindbergh.png",
+    "wanted_image_urls": [],
+    "laugh_audio_urls": []
+  },
+  {
+    "id": 517,
+    "name": "Morley",
+    "aliases": [],
+    "gender": "Male",
+    "affiliation": "Revolutionary Armoy",
+    "devil_fruit_type": "Paramecia",
+    "haki": { "observation": true, "armament": true, "conqueror": false },
+    "bounty_beli": 293000000,
+
+    "height_cm": 1253,
+    "origin": "West Blue",
+    "first_arc": "Levely",
+    "first_arc_order": 30,
+    "first_appearance": { "chapter": 904, "episode": 880 },
+    "devil_fruit": {
+      "name": "Oshi Oshi no Mi",
+      "translated_name": "Push-Push Fruit",
+      "description": "Allows the user to freely move and shape the ground as though it was malleable like clay"
+    },
+    "image_url": "https://ucarecdn.com/69c3ec00-fa3a-48d4-a0e1-6c14ef9e1a1d/Morley.png",
+    "wanted_image_urls": [],
+    "laugh_audio_urls": []
+  }
+]

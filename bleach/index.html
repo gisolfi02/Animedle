@@ -1032,7 +1032,6 @@
         };
         const safeMessage = (text, cls = "") => {
           const e = $("message");
-          e.textContent = text;
           e.className = "message" + (cls ? " " + cls : "");
         };
         const img = (url, alt) => {
@@ -1253,11 +1252,7 @@
           selected = null;
           $("attempts").replaceChildren();
           const tr = el("tr");
-          const empty = el(
-            "td",
-            "empty",
-            "Nuova partita iniziata: prova a indovinare!",
-          );
+          const empty = el("");
           empty.colSpan = 8;
           tr.append(empty);
           $("attempts").append(tr);
@@ -1266,7 +1261,6 @@
           $("search").disabled = false;
           $("try").disabled = false;
           $("reveal").disabled = false;
-          $("count").textContent = "0 tentativi";
           toggleDropdown(false);
           safeMessage("Personaggio segreto estratto. Buona fortuna!");
         }

@@ -1140,10 +1140,6 @@
       .message {
         color: #555d65;
       }
-      #message,
-      #count {
-        display: inline !important;
-      }
       .message.success {
         color: #23734e;
       }
@@ -1275,6 +1271,88 @@
         }
         .input-line {
           box-shadow: 2px 3px 0 #aab0b48f;
+        }
+      }
+
+      /* ========================================
+   ANIMAZIONE COMPARSA INDIZI
+   ======================================== */
+
+      /* Animazione di ogni riquadro */
+      @keyframes rivelaIndizio {
+        0% {
+          opacity: 0;
+          transform: translateY(10px) scale(0.9);
+        }
+
+        100% {
+          opacity: 1;
+          transform: translateY(0) scale(1);
+        }
+      }
+
+      /* Contenitore del singolo indizio */
+      .riga-animata > td {
+        position: relative;
+      }
+
+      /* Riquadro vuoto in attesa della comparsa */
+      .riga-animata > td::before {
+        content: "";
+        position: absolute;
+        inset: 0;
+        border: 2px solid rgba(130, 130, 130, 0.25);
+        border-radius: 9px;
+        background: rgba(255, 255, 255, 0.05);
+        pointer-events: none;
+      }
+
+      /* Animazione dei riquadri */
+      .riga-animata > td > .tile {
+        position: relative;
+        z-index: 1;
+        animation: rivelaIndizio 0.55s ease-out both;
+      }
+
+      /* Comparsa sequenziale da sinistra a destra */
+      .riga-animata > td:nth-child(1) > .tile {
+        animation-delay: 0s;
+      }
+
+      .riga-animata > td:nth-child(2) > .tile {
+        animation-delay: 0.48s;
+      }
+
+      .riga-animata > td:nth-child(3) > .tile {
+        animation-delay: 0.96s;
+      }
+
+      .riga-animata > td:nth-child(4) > .tile {
+        animation-delay: 1.44s;
+      }
+
+      .riga-animata > td:nth-child(5) > .tile {
+        animation-delay: 1.92s;
+      }
+
+      .riga-animata > td:nth-child(6) > .tile {
+        animation-delay: 2.4s;
+      }
+
+      .riga-animata > td:nth-child(7) > .tile {
+        animation-delay: 2.88s;
+      }
+
+      .riga-animata > td:nth-child(8) > .tile {
+        animation-delay: 3.36s;
+      }
+
+      /* Accessibilità: rispetta movimento ridotto */
+      @media (prefers-reduced-motion: reduce) {
+        .riga-animata > td > .tile {
+          animation: none !important;
+          opacity: 1 !important;
+          transform: none !important;
         }
       }
     </style>
@@ -1598,6 +1676,7 @@
           const tbody = $("attempts");
           if (tbody.querySelector(".empty")) tbody.replaceChildren();
           const tr = el("tr");
+          tr.classList.add("riga-animata");
           tr.append(portrait(c));
           for (const key of Object.keys(labels)) tr.append(cell(c, key));
           tbody.prepend(tr);

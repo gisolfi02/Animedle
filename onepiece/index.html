@@ -572,6 +572,11 @@
         .legend {
           min-width: 100%;
         }
+        .actions {
+          width: 100%;
+          justify-content: center;
+          gap: 7px;
+        }
       }
       @media (max-width: 520px) {
         .head {
@@ -1026,6 +1031,88 @@
         }
         .legend-grid {
           grid-template-columns: repeat(3, minmax(0, 1fr));
+        }
+      }
+
+      /* ========================================
+   ANIMAZIONE COMPARSA INDIZI
+   ======================================== */
+
+      /* Animazione di ogni riquadro */
+      @keyframes rivelaIndizio {
+        0% {
+          opacity: 0;
+          transform: translateY(10px) scale(0.9);
+        }
+
+        100% {
+          opacity: 1;
+          transform: translateY(0) scale(1);
+        }
+      }
+
+      /* Contenitore del singolo indizio */
+      .riga-animata > td {
+        position: relative;
+      }
+
+      /* Riquadro vuoto in attesa della comparsa */
+      .riga-animata > td::before {
+        content: "";
+        position: absolute;
+        inset: 0;
+        border: 2px solid rgba(130, 130, 130, 0.25);
+        border-radius: 9px;
+        background: rgba(255, 255, 255, 0.05);
+        pointer-events: none;
+      }
+
+      /* Animazione dei riquadri */
+      .riga-animata > td > .tile {
+        position: relative;
+        z-index: 1;
+        animation: rivelaIndizio 0.55s ease-out both;
+      }
+
+      /* Comparsa sequenziale da sinistra a destra */
+      .riga-animata > td:nth-child(1) > .tile {
+        animation-delay: 0s;
+      }
+
+      .riga-animata > td:nth-child(2) > .tile {
+        animation-delay: 0.48s;
+      }
+
+      .riga-animata > td:nth-child(3) > .tile {
+        animation-delay: 0.96s;
+      }
+
+      .riga-animata > td:nth-child(4) > .tile {
+        animation-delay: 1.44s;
+      }
+
+      .riga-animata > td:nth-child(5) > .tile {
+        animation-delay: 1.92s;
+      }
+
+      .riga-animata > td:nth-child(6) > .tile {
+        animation-delay: 2.4s;
+      }
+
+      .riga-animata > td:nth-child(7) > .tile {
+        animation-delay: 2.88s;
+      }
+
+      .riga-animata > td:nth-child(8) > .tile {
+        animation-delay: 3.36s;
+      }
+
+      /* Accessibilità: rispetta movimento ridotto */
+      @media (prefers-reduced-motion: reduce) {
+        .riga-animata > td > .tile {
+          animation: none !important;
+          opacity: 1 !important;
+          transform: none !important;
         }
       }
     </style>
@@ -5036,6 +5123,7 @@
           }
           guessed.add(c.id);
           rows.insertAdjacentHTML("afterbegin", makeRow(c));
+          rows.firstElementChild.classList.add("riga-animata");
           input.value = "";
           closeSuggestions();
           if (c.id === secret.id) {

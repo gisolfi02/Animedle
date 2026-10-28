@@ -3397,5 +3397,28 @@
     "image_url": "https://ucarecdn.com/69c3ec00-fa3a-48d4-a0e1-6c14ef9e1a1d/Morley.png",
     "wanted_image_urls": [],
     "laugh_audio_urls": []
+  },
+  {
+    "id": 518,
+    "name": "Pell",
+    "aliases": [],
+    "gender": "Male",
+    "affiliation": "Alabasta Kingdom",
+    "devil_fruit_type": "Zoan",
+    "haki": { "observation": false, "armament": false, "conqueror": false },
+    "bounty_beli": 0,
+    "height_cm": 189,
+    "origin": "Grand Line",
+    "first_arc": "Alabasta",
+    "first_arc_order": 10,
+    "first_appearance": { "chapter": 155, "episode": 91 },
+    "devil_fruit": {
+      "name": "Tori Tori no Mi, Model: Falcon",
+      "translated_name": "Bird-Bird Fruit, Model: Falcon",
+      "description": "Allows the user to transform into a falcon hybrid and a full falcon at will"
+    },
+    "image_url": "https://static.wikia.nocookie.net/onepiece/images/a/ae/Avis_Avis_modello_falcon.png/revision/latest?cb=20180124194248&path-prefix=it",
+    "wanted_image_urls": [],
+    "laugh_audio_urls": []
   }
 ]
